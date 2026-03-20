@@ -1,0 +1,45 @@
+- question: What is the capital of France?
+  answer: Paris
+  hint: Known as the City of Light
+
+- question: What is the largest planet in our solar system?
+  answer: Jupiter
+  hint: It has a famous Great Red Spot
+
+- question: Who painted the Mona Lisa?
+  answer: Leonardo da Vinci
+  options:
+    - Leonardo da Vinci
+    - Michelangelo
+    - Raphael
+    - Rembrandt
+
+- question: What is the chemical symbol for gold?
+  answer: Au
+  hint: From the Latin word "aurum"
+
+- question: How many sides does a hexagon have?
+  answer: '6'
+
+- question: What is the tallest mountain in the world?
+  answer: Mount Everest
+  hint: Located in the Himalayas
+
+- question: Who wrote "Romeo and Juliet"?
+  answer: William Shakespeare
+
+- question: Approximately how fast does light travel?
+  answer: 300,000 km/s
+  options:
+    - 300,000 km/s
+    - 150,000 km/s
+    - 500,000 km/s
+    - 1,000,000 km/s
+
+- question: What is the smallest country in the world?
+  answer: Vatican City
+  hint: It is an enclave within Rome, Italy
+
+- question: In what year did World War II end?
+  answer: '1945'
+  hint: Japan surrendered in August of this year
