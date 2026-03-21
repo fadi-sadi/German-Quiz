@@ -34,11 +34,25 @@ function sanitizeResourcePath(raw) {
   return raw;
 }
 
+function resolveBasePath(url) {
+  const lastSlash = url.lastIndexOf('/');
+  return lastSlash >= 0 ? url.substring(0, lastSlash + 1) : '';
+}
+
+function resolveImagePaths(questions, basePath) {
+  if (!basePath) return questions;
+  return questions.map((q) => {
+    if (!q.image) return q;
+    sanitizeResourcePath(q.image);
+    return { ...q, image: basePath + q.image };
+  });
+}
+
 // ── Game state ───────────────────────────────────────────────────────────────
 
 /** @type {TriviaEngine} */
 let engine;
-/** @type {Array<{question: string, answer: string, options: string[], hint?: string}>} */
+/** @type {Array<{question: string, answer: string, image?: string, options: string[], hint?: string}>} */
 let preparedQuestions = [];
 let currentIndex = 0;
 let score = 0;
@@ -69,7 +83,7 @@ async function loadGame() {
     } else {
       const questionsUrl = sanitizeResourcePath(params.get('questions') ?? 'questions.yaml');
       const questionsText = await fetchText(questionsUrl);
-      const questions = parseQuestions(questionsText);
+      const questions = resolveImagePaths(parseQuestions(questionsText), resolveBasePath(questionsUrl));
       engine = new TriviaEngine(questions, metadata);
       showStartScreen();
     }
@@ -118,8 +132,9 @@ async function handleCategorySelect(category) {
 }
 
 async function loadCategory(category) {
-  const questionsText = await fetchText(sanitizeResourcePath(category.questions));
-  const questions = parseQuestions(questionsText);
+  const questionsUrl = sanitizeResourcePath(category.questions);
+  const questionsText = await fetchText(questionsUrl);
+  const questions = resolveImagePaths(parseQuestions(questionsText), resolveBasePath(questionsUrl));
   const catMetadata = { name: category.name, num_options: category.num_options };
   engine = new TriviaEngine(questions, catMetadata);
   showStartScreen();
@@ -164,6 +179,17 @@ function renderQuestion() {
   document.getElementById('progress-text').textContent = `Question ${currentIndex + 1} of ${total}`;
   document.getElementById('score-text').textContent = `Score: ${score}`;
   document.getElementById('question-text').textContent = q.question;
+
+  const questionImage = document.getElementById('question-image');
+  if (q.image) {
+    questionImage.src = q.image;
+    questionImage.alt = q.question;
+    questionImage.classList.remove('hidden');
+  } else {
+    questionImage.src = '';
+    questionImage.alt = '';
+    questionImage.classList.add('hidden');
+  }
 
   // Hint
   const hintBtn = document.getElementById('hint-btn');

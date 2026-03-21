@@ -92,6 +92,27 @@ describe('parseQuestions', () => {
     const yaml = '- question: "Q"\n  answer: "A"\n  options:\n    - "B"\n    - "C"';
     expect(() => parseQuestions(yaml)).toThrow(/correct answer/i);
   });
+
+  it('parses a question with an image field', () => {
+    const yaml = '- question: "Which continent?"\n  answer: "Africa"\n  image: "images/Africa.png"';
+    const [q] = parseQuestions(yaml);
+    expect(q.image).toBe('images/Africa.png');
+  });
+
+  it('omits image key when not defined', () => {
+    const [first] = parseQuestions(QUESTIONS_YAML);
+    expect(first).not.toHaveProperty('image');
+  });
+
+  it('throws when image is not a string', () => {
+    const yaml = '- question: "Q"\n  answer: "A"\n  image: 123';
+    expect(() => parseQuestions(yaml)).toThrow(/image/i);
+  });
+
+  it('throws when image is an empty string', () => {
+    const yaml = '- question: "Q"\n  answer: "A"\n  image: ""';
+    expect(() => parseQuestions(yaml)).toThrow(/image/i);
+  });
 });
 
 // ── parseMetadata ─────────────────────────────────────────────────────────────

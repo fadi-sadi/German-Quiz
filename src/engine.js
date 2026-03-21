@@ -4,7 +4,7 @@ import jsyaml from 'js-yaml';
  * Parse and validate a questions YAML string.
  *
  * @param {string} yamlContent
- * @returns {Array<{question: string, answer: string, options?: string[], hint?: string}>}
+ * @returns {Array<{question: string, answer: string, image?: string, options?: string[], hint?: string}>}
  */
 export function parseQuestions(yamlContent) {
   const data = jsyaml.load(yamlContent);
@@ -24,6 +24,13 @@ export function parseQuestions(yamlContent) {
     }
 
     const entry = { question: item.question, answer: item.answer };
+
+    if (item.image !== undefined) {
+      if (!item.image || typeof item.image !== 'string') {
+        throw new Error(`${label}: "image" must be a non-empty string`);
+      }
+      entry.image = item.image;
+    }
 
     if (item.options !== undefined) {
       if (!Array.isArray(item.options) || item.options.length === 0) {

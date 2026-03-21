@@ -40,6 +40,11 @@
   answer: Vatican City
   hint: It is an enclave within Rome, Italy
 
-- question: In what year did World War II end?
-  answer: '1945'
-  hint: Japan surrendered in August of this year
+- question: Which continent appears in the image?
+  image: images/Africa.png
+  answer: Africa
+  options:
+    - Africa
+    - South America
+    - Europe
+    - Asia

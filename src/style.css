@@ -197,6 +197,14 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.question-image {
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
 .hint-text {
   background: var(--color-hint-bg);
   border-left: 4px solid var(--color-hint-border);
