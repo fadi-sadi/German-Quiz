@@ -1,0 +1,9 @@
+- question: |
+    Peter arbeitet von Montag bis Freitag. Am Wochenende hat er frei.
+    When does Peter NOT work?
+  answer: "Weekend"
+  options:
+    - "Monday"
+    - "Wednesday"
+    - "Friday"
+    - "Weekend"

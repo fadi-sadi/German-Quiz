@@ -1,0 +1,9 @@
+- question: |
+    Obwohl das Wetter schlecht war, gingen sie spazieren.
+    What is true?
+  answer: "They went for a walk despite the weather"
+  options:
+    - "The weather was good"
+    - "They stayed home"
+    - "They went for a walk despite the weather"
+    - "They canceled their plans"

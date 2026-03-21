@@ -1,0 +1,7 @@
+- question: "Choose the correct sentence:"
+  answer: "Er sagte, dass er morgen kommt."
+  options:
+    - "Er sagte, dass er kommt morgen."
+    - "Er sagte, dass er morgen kommt."
+    - "Er sagte, dass morgen er kommt."
+    - "Er sagte, dass kommt er morgen."

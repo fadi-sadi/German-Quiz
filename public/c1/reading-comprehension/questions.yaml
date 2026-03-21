@@ -1,0 +1,9 @@
+- question: |
+    Die Maßnahmen wurden eingeführt, um die Umweltbelastung zu reduzieren, stießen jedoch auf Kritik.
+    What is implied?
+  answer: "The measures were controversial"
+  options:
+    - "Everyone supported the measures"
+    - "The measures failed completely"
+    - "The measures were controversial"
+    - "The environment improved immediately"

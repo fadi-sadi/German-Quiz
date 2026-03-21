@@ -1,0 +1,7 @@
+- question: "Choose the correct form: Ich ___ gestern ins Kino gegangen."
+  answer: "bin"
+  options:
+    - "bin"
+    - "habe"
+    - "war"
+    - "hatte"

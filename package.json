@@ -1,7 +1,7 @@
 {
-  "name": "yaml-trivia-engine",
+  "name": "german-quiz",
   "version": "0.1.0",
-  "description": "A static trivia game engine driven by YAML question files",
+  "description": "A trivia game to test and improve your German language skills across CEFR levels A1–C1",
   "type": "module",
   "scripts": {
     "dev": "vite",

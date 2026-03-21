@@ -1,0 +1,7 @@
+- question: "Which sentence is correct?"
+  answer: "Ich gehe zur Schule."
+  options:
+    - "Ich gehe in Schule."
+    - "Ich gehe zu Schule."
+    - "Ich gehe zur Schule."
+    - "Ich gehe auf Schule."
