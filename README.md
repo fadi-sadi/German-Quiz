@@ -9,8 +9,8 @@ This repository is a **template**. To create your own trivia game:
 
 1. Fork the repo or click **"Use this template"** on GitHub
 2. Clone your new repository
-3. Replace `public/questions.yaml` with your own questions
-4. Update `public/metadata.yaml` with your game's name and settings
+3. Edit `public/metadata.yaml` with your game's name and categories
+4. Add your questions under each category folder (e.g. `public/my-category/questions.yaml`)
 5. Run `npm install && npm run dev` to preview locally
 6. Deploy to GitHub Pages or any static host (see [Deployment](#deployment))
 
@@ -19,13 +19,15 @@ and handles everything else.
 
 ## Features
 
-- **YAML-driven** — Define questions, answers, hints, and options in a simple YAML file
+- **YAML-driven** — Define questions, answers, hints, and options in simple YAML files
+- **Categories** — Organize questions into categories; players pick a category before
+  starting (auto-skipped when there's only one)
 - **Zero backend** — Fully static; deploy to GitHub Pages, Netlify, or any static host
 - **Auto-generated options** — If a question doesn't specify choices, they're randomly
   sampled from the answer pool
 - **Hints** — Optional hints per question with a show/hide toggle
 - **Randomized** — Both question order and answer options are shuffled on every play
-- **Customizable** — Configure the game name and number of options via a metadata file
+- **Customizable** — Configure the game name and number of options via metadata files
 - **Multiple quizzes** — Host several quizzes by pointing to different YAML files via
   URL parameters
 
@@ -38,7 +40,81 @@ npm run dev
 
 Open <http://localhost:5173> in your browser.
 
+## File Structure
+
+Everything is configured in a single `metadata.yaml` at the root of `public/`.
+Each category points to its own `questions.yaml` file:
+
+```
+public/
+  metadata.yaml               # quiz name, categories, and settings
+  general-knowledge/
+    questions.yaml            # questions for this category
+```
+
+When there is only one category, the category selection screen is skipped and the
+user goes straight to the start screen — the experience is identical to a flat
+quiz with no categories.
+
+With two or more categories, a category selection screen is shown first:
+
+```
+public/
+  metadata.yaml
+  capitals/
+    questions.yaml
+  flags/
+    questions.yaml
+```
+
+### Flat mode (no categories)
+
+If the root `metadata.yaml` does not contain a `categories` field, the engine
+falls back to the original flat layout — a single `questions.yaml` and
+`metadata.yaml` at the root of `public/`. This preserves backward compatibility.
+
 ## YAML File Format
+
+### Root Metadata (`metadata.yaml`)
+
+The root metadata file defines the quiz name and, optionally, the list of
+categories.
+
+| Field        | Type       | Default       | Description                                          |
+| ------------ | ---------- | ------------- | ---------------------------------------------------- |
+| `name`       | string     | `Trivia Game` | Displayed as the quiz title                          |
+| `categories` | object[]   | *(none)*      | List of categories (omit for flat mode)              |
+| `num_options`| int        | `4`           | Default number of answer choices (minimum 2)         |
+
+Each entry in `categories` has:
+
+| Field        | Type   | Required | Description                                              |
+| ------------ | ------ | -------- | -------------------------------------------------------- |
+| `name`       | string | Yes      | Display name shown on the category selection screen       |
+| `questions`  | string | Yes      | Path to the category's questions YAML file                |
+| `num_options`| int    | No       | Number of answer choices; inherits from root if omitted   |
+
+**Single category example** (category screen auto-skipped):
+
+```yaml
+name: Example Quiz - General Knowledge
+categories:
+  - name: General Knowledge
+    questions: general-knowledge/questions.yaml
+    num_options: 4
+```
+
+**Multi-category example:**
+
+```yaml
+name: Geography Quiz
+categories:
+  - name: World Capitals
+    questions: capitals/questions.yaml
+  - name: Country Flags
+    questions: flags/questions.yaml
+    num_options: 3
+```
 
 ### Questions (`questions.yaml`)
 
@@ -72,21 +148,7 @@ Example:
 
 When `options` is omitted, the engine automatically builds a choice list by sampling
 random wrong answers from the full answer pool. The number of choices is controlled
-by `num_options` in the metadata file.
-
-### Metadata (`metadata.yaml`)
-
-| Field         | Type   | Default       | Description                          |
-| ------------- | ------ | ------------- | ------------------------------------ |
-| `name`        | string | `Trivia Game` | Displayed as the game title          |
-| `num_options` | int    | `4`           | Number of answer choices (minimum 2) |
-
-Example:
-
-```yaml
-name: General Knowledge Quiz
-num_options: 4
-```
+by `num_options` in the category's metadata file.
 
 ## Deployment
 

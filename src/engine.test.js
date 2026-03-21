@@ -132,6 +132,99 @@ describe('parseMetadata', () => {
   it('throws when num_options is a float', () => {
     expect(() => parseMetadata('num_options: 3.5')).toThrow(/integer/i);
   });
+
+  it('returns no categories when field is absent (flat mode)', () => {
+    const result = parseMetadata(METADATA_YAML);
+    expect(result).not.toHaveProperty('categories');
+  });
+
+  it('parses a single category', () => {
+    const yaml = `
+name: "Quiz"
+categories:
+  - name: General Knowledge
+    questions: general/questions.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories).toEqual([
+      { name: 'General Knowledge', questions: 'general/questions.yaml', num_options: 4 },
+    ]);
+  });
+
+  it('parses multiple categories', () => {
+    const yaml = `
+name: "Geography Quiz"
+categories:
+  - name: World Capitals
+    questions: capitals/questions.yaml
+    num_options: 3
+  - name: Country Flags
+    questions: flags/questions.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories).toHaveLength(2);
+    expect(result.categories[0]).toEqual({
+      name: 'World Capitals',
+      questions: 'capitals/questions.yaml',
+      num_options: 3,
+    });
+    expect(result.categories[1]).toEqual({
+      name: 'Country Flags',
+      questions: 'flags/questions.yaml',
+      num_options: 4,
+    });
+  });
+
+  it('category inherits root num_options when not specified', () => {
+    const yaml = `
+num_options: 3
+categories:
+  - name: Cat
+    questions: cat/q.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories[0].num_options).toBe(3);
+  });
+
+  it('category num_options overrides root', () => {
+    const yaml = `
+num_options: 3
+categories:
+  - name: Cat
+    questions: cat/q.yaml
+    num_options: 5
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories[0].num_options).toBe(5);
+  });
+
+  it('throws when category num_options is invalid', () => {
+    const yaml = 'categories:\n  - name: Cat\n    questions: q.yaml\n    num_options: 1';
+    expect(() => parseMetadata(yaml)).toThrow(/at least 2/i);
+  });
+
+  it('throws when categories is not an array', () => {
+    expect(() => parseMetadata('categories: "not-an-array"')).toThrow(/non-empty array/i);
+  });
+
+  it('throws when categories is an empty array', () => {
+    expect(() => parseMetadata('categories: []')).toThrow(/non-empty array/i);
+  });
+
+  it('throws when category is missing name', () => {
+    const yaml = 'categories:\n  - questions: q.yaml';
+    expect(() => parseMetadata(yaml)).toThrow(/name/i);
+  });
+
+  it('throws when category is missing questions path', () => {
+    const yaml = 'categories:\n  - name: "Foo"';
+    expect(() => parseMetadata(yaml)).toThrow(/questions/i);
+  });
+
+  it('throws when questions is not a string', () => {
+    const yaml = 'categories:\n  - name: "Foo"\n    questions: 123';
+    expect(() => parseMetadata(yaml)).toThrow(/questions/i);
+  });
 });
 
 // ── shuffleArray ──────────────────────────────────────────────────────────────

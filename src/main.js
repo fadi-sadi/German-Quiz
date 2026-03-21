@@ -6,6 +6,7 @@ const params = new URLSearchParams(window.location.search);
 
 const screens = {
   loading: document.getElementById('loading-screen'),
+  category: document.getElementById('category-screen'),
   start: document.getElementById('start-screen'),
   quiz: document.getElementById('quiz-screen'),
   result: document.getElementById('result-screen'),
@@ -43,32 +44,35 @@ let currentIndex = 0;
 let score = 0;
 let answered = false;
 
+/** @type {Array<{name: string, questions: string, metadata?: string}> | null} */
+let categories = null;
+let quizName = 'Trivia Game';
+
 // ── Boot ─────────────────────────────────────────────────────────────────────
 
 async function loadGame() {
   try {
-    const questionsUrl = sanitizeResourcePath(params.get('questions') ?? 'questions.yaml');
     const metadataUrl = sanitizeResourcePath(params.get('metadata') ?? 'metadata.yaml');
-
-    const [questionsText, metadataText] = await Promise.all([
-      fetchText(questionsUrl),
-      fetchText(metadataUrl),
-    ]);
-
-    const questions = parseQuestions(questionsText);
+    const metadataText = await fetchText(metadataUrl);
     const metadata = parseMetadata(metadataText);
-    engine = new TriviaEngine(questions, metadata);
 
-    document.title = metadata.name;
-    document.getElementById('game-title').textContent = metadata.name;
-    document.getElementById('question-count').textContent =
-      `${questions.length} question${questions.length !== 1 ? 's' : ''} available`;
+    quizName = metadata.name;
+    document.title = quizName;
 
-    const limitInput = document.getElementById('question-limit');
-    limitInput.max = questions.length;
-    limitInput.value = questions.length;
-
-    showScreen('start');
+    if (metadata.categories) {
+      categories = metadata.categories;
+      if (categories.length === 1) {
+        await loadCategory(categories[0]);
+      } else {
+        showCategoryScreen();
+      }
+    } else {
+      const questionsUrl = sanitizeResourcePath(params.get('questions') ?? 'questions.yaml');
+      const questionsText = await fetchText(questionsUrl);
+      const questions = parseQuestions(questionsText);
+      engine = new TriviaEngine(questions, metadata);
+      showStartScreen();
+    }
   } catch (err) {
     showError(err.message);
   }
@@ -85,11 +89,64 @@ async function fetchText(url) {
   return res.text();
 }
 
+// ── Category selection ───────────────────────────────────────────────────────
+
+function showCategoryScreen() {
+  document.getElementById('category-title').textContent = quizName;
+
+  const grid = document.getElementById('categories-grid');
+  grid.replaceChildren();
+
+  categories.forEach((cat) => {
+    const btn = document.createElement('button');
+    btn.className = 'category-btn';
+    btn.textContent = cat.name;
+    btn.addEventListener('click', () => handleCategorySelect(cat));
+    grid.appendChild(btn);
+  });
+
+  showScreen('category');
+}
+
+async function handleCategorySelect(category) {
+  showScreen('loading');
+  try {
+    await loadCategory(category);
+  } catch (err) {
+    showError(err.message);
+  }
+}
+
+async function loadCategory(category) {
+  const questionsText = await fetchText(sanitizeResourcePath(category.questions));
+  const questions = parseQuestions(questionsText);
+  const catMetadata = { name: category.name, num_options: category.num_options };
+  engine = new TriviaEngine(questions, catMetadata);
+  showStartScreen();
+}
+
+// ── Start screen ─────────────────────────────────────────────────────────────
+
+function showStartScreen() {
+  document.getElementById('game-title').textContent = engine.metadata.name;
+  document.getElementById('question-count').textContent =
+    `${engine.totalQuestions} question${engine.totalQuestions !== 1 ? 's' : ''} available`;
+
+  const limitInput = document.getElementById('question-limit');
+  limitInput.max = engine.totalQuestions;
+  limitInput.value = engine.totalQuestions;
+
+  showScreen('start');
+}
+
 // ── Quiz flow ────────────────────────────────────────────────────────────────
 
 function startQuiz() {
   const limitInput = document.getElementById('question-limit');
-  const limit = Math.max(1, Math.min(engine.totalQuestions, parseInt(limitInput.value, 10) || engine.totalQuestions));
+  const limit = Math.max(
+    1,
+    Math.min(engine.totalQuestions, parseInt(limitInput.value, 10) || engine.totalQuestions),
+  );
   limitInput.value = limit;
 
   preparedQuestions = engine.getPreparedQuestions(limit);
@@ -187,6 +244,14 @@ function showResult() {
   else msg = 'Better luck next time!';
 
   document.getElementById('final-message').textContent = msg;
+
+  const changeCatBtn = document.getElementById('change-category-btn');
+  if (categories && categories.length > 1) {
+    changeCatBtn.classList.remove('hidden');
+  } else {
+    changeCatBtn.classList.add('hidden');
+  }
+
   showScreen('result');
 }
 
@@ -195,6 +260,7 @@ function showResult() {
 document.getElementById('start-btn').addEventListener('click', startQuiz);
 document.getElementById('next-btn').addEventListener('click', nextQuestion);
 document.getElementById('restart-btn').addEventListener('click', startQuiz);
+document.getElementById('change-category-btn').addEventListener('click', showCategoryScreen);
 
 const limitInput = document.getElementById('question-limit');
 document.getElementById('limit-dec').addEventListener('click', () => {

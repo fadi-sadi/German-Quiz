@@ -44,10 +44,29 @@ export function parseQuestions(yamlContent) {
 }
 
 /**
+ * Validate a raw `num_options` value. Returns the validated integer or
+ * `undefined` when the value is absent.
+ */
+function validateNumOptions(raw, label) {
+  if (raw === undefined) return undefined;
+  if (typeof raw !== 'number' || !Number.isInteger(raw)) {
+    throw new Error(`${label}: "num_options" must be an integer, got: ${JSON.stringify(raw)}`);
+  }
+  if (raw < 2) {
+    throw new Error(`${label}: "num_options" must be at least 2, got: ${raw}`);
+  }
+  return raw;
+}
+
+/**
  * Parse and validate a metadata YAML string.
  *
+ * When the YAML contains a `categories` array, each entry must have a `name`
+ * and a `questions` path. An optional `num_options` integer can override the
+ * default number of answer choices per category.
+ *
  * @param {string} yamlContent
- * @returns {{ name: string, num_options: number }}
+ * @returns {{ name: string, num_options: number, categories?: Array<{name: string, questions: string, num_options: number}> }}
  */
 export function parseMetadata(yamlContent) {
   const data = jsyaml.load(yamlContent);
@@ -55,20 +74,38 @@ export function parseMetadata(yamlContent) {
     throw new Error('Metadata file must be a YAML object');
   }
 
-  const raw = data.num_options;
-  if (raw !== undefined) {
-    if (typeof raw !== 'number' || !Number.isInteger(raw)) {
-      throw new Error(`"num_options" must be an integer, got: ${JSON.stringify(raw)}`);
+  const rootNumOptions = validateNumOptions(data.num_options, 'Root');
+
+  const result = {
+    name: data.name ? String(data.name) : 'Trivia Game',
+    num_options: rootNumOptions ?? 4,
+  };
+
+  if (data.categories !== undefined) {
+    if (!Array.isArray(data.categories) || data.categories.length === 0) {
+      throw new Error('"categories" must be a non-empty array');
     }
-    if (raw < 2) {
-      throw new Error(`"num_options" must be at least 2, got: ${raw}`);
-    }
+    result.categories = data.categories.map((cat, i) => {
+      const label = `Category ${i + 1}`;
+      if (!cat || typeof cat !== 'object' || Array.isArray(cat)) {
+        throw new Error(`${label} must be an object`);
+      }
+      if (!cat.name || typeof cat.name !== 'string') {
+        throw new Error(`${label} is missing a valid "name" field`);
+      }
+      if (!cat.questions || typeof cat.questions !== 'string') {
+        throw new Error(`${label} is missing a valid "questions" path`);
+      }
+      const catNumOptions = validateNumOptions(cat.num_options, label);
+      return {
+        name: cat.name,
+        questions: cat.questions,
+        num_options: catNumOptions ?? result.num_options,
+      };
+    });
   }
 
-  return {
-    name: data.name ? String(data.name) : 'Trivia Game',
-    num_options: typeof raw === 'number' ? raw : 4,
-  };
+  return result;
 }
 
 /**

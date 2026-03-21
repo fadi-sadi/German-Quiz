@@ -1,2 +1,5 @@
 name: Example Quiz - General Knowledge
-num_options: 4
+categories:
+  - name: General Knowledge
+    questions: general-knowledge/questions.yaml
+    num_options: 4
