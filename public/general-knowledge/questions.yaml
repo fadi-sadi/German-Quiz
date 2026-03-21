@@ -1,0 +1,88 @@
+- question: What is the capital of France?
+  answer: Paris
+  hint: Known as the City of Light
+  options:
+    - Paris
+    - London
+    - Berlin
+    - Madrid
+
+- question: What is the largest planet in our solar system?
+  answer: Jupiter
+  hint: It has a famous Great Red Spot
+  options:
+    - Jupiter
+    - Saturn
+    - Neptune
+    - Earth
+
+- question: Who painted the Mona Lisa?
+  answer: Leonardo da Vinci
+  options:
+    - Leonardo da Vinci
+    - Michelangelo
+    - Raphael
+    - Rembrandt
+
+- question: What is the chemical symbol for gold?
+  answer: Au
+  hint: From the Latin word "aurum"
+  explanation: Au comes from the Latin word "aurum", meaning "shining dawn".
+  options:
+    - Au
+    - Ag
+    - Fe
+    - Go
+
+- question: How many sides does a hexagon have?
+  answer: '6'
+  options:
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+
+- question: What is the tallest mountain in the world?
+  answer: Mount Everest
+  hint: Located in the Himalayas
+  options:
+    - Mount Everest
+    - K2
+    - Kangchenjunga
+    - Mont Blanc
+
+- question: Who wrote "Romeo and Juliet"?
+  answer: William Shakespeare
+  options:
+    - William Shakespeare
+    - Charles Dickens
+    - Jane Austen
+    - Mark Twain
+
+- question: Approximately how fast does light travel?
+  answer: 300,000 km/s
+  explanation: Light travels at approximately 299,792 km/s in a vacuum, commonly rounded to 300,000 km/s.
+  options:
+    - 300,000 km/s
+    - 150,000 km/s
+    - 500,000 km/s
+    - 1,000,000 km/s
+
+- question: What is the smallest country in the world?
+  answer: Vatican City
+  hint: It is an enclave within Rome, Italy
+  explanation: Vatican City covers just 0.44 km², making it the smallest internationally recognized independent state.
+  options:
+    - Vatican City
+    - Monaco
+    - San Marino
+    - Liechtenstein
+
+- question: Which continent appears in the image?
+  image: images/Africa.png
+  answer: Africa
+  options:
+    - Africa
+    - South America
+    - Europe
+    - Asia

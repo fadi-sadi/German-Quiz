@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A trivia quiz game powered by YAML question files" />
+    <title>Trivia Game</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <main id="app">
+      <div id="loading-screen" class="screen" tabindex="-1">
+        <p>Loading game…</p>
+      </div>
+
+      <div id="category-screen" class="screen hidden" tabindex="-1">
+        <button id="category-back-btn" class="btn btn-back hidden" aria-label="Go back">&larr; Back</button>
+        <h1 id="category-title"></h1>
+        <p class="category-subtitle">Choose a category</p>
+        <div id="categories-grid" role="group" aria-label="Category options"></div>
+        <p class="controls-hint">Use mouse or <kbd>↑</kbd><kbd>↓</kbd> arrows + <kbd>Space</kbd>/<kbd>Enter</kbd></p>
+      </div>
+
+      <div id="start-screen" class="screen hidden" tabindex="-1">
+        <h1 id="game-title"></h1>
+        <p id="question-count"></p>
+        <div class="question-limit-control">
+          <label for="question-limit">Questions to play:</label>
+          <div class="stepper">
+            <button type="button" id="limit-dec" class="stepper-btn" aria-label="Decrease">−</button>
+            <input type="number" id="question-limit" min="1" value="1" />
+            <button type="button" id="limit-inc" class="stepper-btn" aria-label="Increase">+</button>
+          </div>
+        </div>
+        <button id="start-btn" class="btn btn-primary">Start Quiz</button>
+        <p class="controls-hint">Use mouse or <kbd>↑</kbd><kbd>↓</kbd> arrows + <kbd>Space</kbd>/<kbd>Enter</kbd></p>
+      </div>
+
+      <div id="quiz-screen" class="screen hidden" tabindex="-1">
+        <header class="quiz-header">
+          <span id="progress-text"></span>
+          <div class="quiz-header-right">
+            <span id="timer-text" aria-live="off">0:00</span>
+            <span id="score-text" aria-live="polite"></span>
+          </div>
+        </header>
+        <div class="question-card">
+          <h2 id="question-text"></h2>
+          <img id="question-image" class="question-image hidden" alt="" />
+          <button id="hint-btn" class="btn btn-hint hidden" aria-expanded="false">Show Hint</button>
+          <p id="hint-text" class="hint-text hidden"></p>
+          <div id="options-grid" role="group" aria-label="Answer options"></div>
+          <p id="explanation-text" class="explanation-text hidden"></p>
+          <button id="next-btn" class="btn btn-primary hidden">Next Question</button>
+        </div>
+      </div>
+
+      <div id="result-screen" class="screen hidden" tabindex="-1">
+        <h2>Quiz Complete!</h2>
+        <div class="result-summary">
+          <p class="result-score" id="final-score"></p>
+          <p id="final-message"></p>
+          <p id="final-time" class="final-time"></p>
+        </div>
+        <button id="restart-btn" class="btn btn-primary">Play Again</button>
+        <button id="change-category-btn" class="btn btn-secondary hidden">Change Category</button>
+      </div>
+
+      <div id="error-screen" class="screen hidden" role="alert" tabindex="-1">
+        <h2>Error</h2>
+        <p id="error-message"></p>
+      </div>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
