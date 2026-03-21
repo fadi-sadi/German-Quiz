@@ -57,6 +57,7 @@ let preparedQuestions = [];
 let currentIndex = 0;
 let score = 0;
 let answered = false;
+let selectedOptionIndex = -1;
 
 /** @type {Array<{name: string, questions: string, metadata?: string}> | null} */
 let categories = null;
@@ -221,6 +222,9 @@ function renderQuestion() {
     grid.appendChild(btn);
   });
 
+  selectedOptionIndex = 0;
+  updateOptionHighlight();
+
   document.getElementById('next-btn').classList.add('hidden');
 }
 
@@ -254,6 +258,13 @@ function nextQuestion() {
   } else {
     showResult();
   }
+}
+
+function updateOptionHighlight() {
+  const btns = document.getElementById('options-grid').querySelectorAll('.option-btn');
+  btns.forEach((btn, i) => {
+    btn.classList.toggle('kb-focus', i === selectedOptionIndex);
+  });
 }
 
 function showResult() {
@@ -302,6 +313,41 @@ limitInput.addEventListener('change', () => {
   const val = parseInt(limitInput.value, 10);
   if (isNaN(val) || val < 1) limitInput.value = 1;
   else if (val > max) limitInput.value = max;
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === ' ' && !screens.start.classList.contains('hidden')) {
+    e.preventDefault();
+    document.getElementById('start-btn').click();
+    return;
+  }
+
+  if (screens.quiz.classList.contains('hidden')) return;
+
+  const optionBtns = document.getElementById('options-grid').querySelectorAll('.option-btn');
+  const count = optionBtns.length;
+  if (!count) return;
+
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+    e.preventDefault();
+    if (answered) return;
+    if (e.key === 'ArrowDown') {
+      selectedOptionIndex = (selectedOptionIndex + 1) % count;
+    } else {
+      selectedOptionIndex = (selectedOptionIndex - 1 + count) % count;
+    }
+    updateOptionHighlight();
+  }
+
+  if (e.key === ' ') {
+    e.preventDefault();
+    const nextBtn = document.getElementById('next-btn');
+    if (answered && !nextBtn.classList.contains('hidden')) {
+      nextBtn.click();
+    } else if (!answered && selectedOptionIndex >= 0 && selectedOptionIndex < count) {
+      optionBtns[selectedOptionIndex].click();
+    }
+  }
 });
 
 loadGame();
