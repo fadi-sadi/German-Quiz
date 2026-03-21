@@ -66,14 +66,86 @@ function validateNumOptions(raw, label) {
 }
 
 /**
+ * @typedef {Object} LeafCategory
+ * @property {string} name
+ * @property {string} questions
+ * @property {number} num_options
+ *
+ * @typedef {Object} BranchCategory
+ * @property {string} name
+ * @property {number} num_options
+ * @property {CategoryEntry[]} categories
+ *
+ * @typedef {LeafCategory | BranchCategory} CategoryEntry
+ */
+
+/**
+ * Recursively parse and validate a single category entry.
+ *
+ * A category is either a **leaf** (has `questions`) or a **branch** (has
+ * child `categories`). It cannot be both and must be one or the other.
+ * `num_options` cascades from parent to child unless overridden.
+ *
+ * @param {object} cat
+ * @param {number} index
+ * @param {number} inheritedNumOptions
+ * @param {string} [pathPrefix]
+ * @returns {CategoryEntry}
+ */
+function parseCategoryEntry(cat, index, inheritedNumOptions, pathPrefix = 'Category') {
+  const label = `${pathPrefix} ${index + 1}`;
+  if (!cat || typeof cat !== 'object' || Array.isArray(cat)) {
+    throw new Error(`${label} must be an object`);
+  }
+  if (!cat.name || typeof cat.name !== 'string') {
+    throw new Error(`${label} is missing a valid "name" field`);
+  }
+
+  const catNumOptions = validateNumOptions(cat.num_options, label);
+  const effectiveNumOptions = catNumOptions ?? inheritedNumOptions;
+
+  const hasQuestions = cat.questions !== undefined;
+  const hasCategories = cat.categories !== undefined;
+
+  if (hasQuestions && hasCategories) {
+    throw new Error(`${label} ("${cat.name}") must have either "questions" or "categories", not both`);
+  }
+  if (!hasQuestions && !hasCategories) {
+    throw new Error(`${label} ("${cat.name}") must have either a "questions" path or nested "categories"`);
+  }
+
+  if (hasCategories) {
+    if (!Array.isArray(cat.categories) || cat.categories.length === 0) {
+      throw new Error(`${label} ("${cat.name}"): "categories" must be a non-empty array`);
+    }
+    return {
+      name: cat.name,
+      num_options: effectiveNumOptions,
+      categories: cat.categories.map((child, j) =>
+        parseCategoryEntry(child, j, effectiveNumOptions, `${label} > Sub-category`),
+      ),
+    };
+  }
+
+  if (!cat.questions || typeof cat.questions !== 'string') {
+    throw new Error(`${label} is missing a valid "questions" path`);
+  }
+  return {
+    name: cat.name,
+    questions: cat.questions,
+    num_options: effectiveNumOptions,
+  };
+}
+
+/**
  * Parse and validate a metadata YAML string.
  *
- * When the YAML contains a `categories` array, each entry must have a `name`
- * and a `questions` path. An optional `num_options` integer can override the
- * default number of answer choices per category.
+ * When the YAML contains a `categories` array, each entry is either a leaf
+ * (with a `questions` path) or a branch (with nested `categories`).
+ * Sub-categories can be nested to arbitrary depth.
  *
  * @param {string} yamlContent
- * @returns {{ name: string, num_options: number, categories?: Array<{name: string, questions: string, num_options: number}> }}
+ * @returns {{ name: string, num_options: number, categories?: CategoryEntry[] }}
  */
 export function parseMetadata(yamlContent) {
   const data = jsyaml.load(yamlContent);
@@ -92,24 +164,9 @@ export function parseMetadata(yamlContent) {
     if (!Array.isArray(data.categories) || data.categories.length === 0) {
       throw new Error('"categories" must be a non-empty array');
     }
-    result.categories = data.categories.map((cat, i) => {
-      const label = `Category ${i + 1}`;
-      if (!cat || typeof cat !== 'object' || Array.isArray(cat)) {
-        throw new Error(`${label} must be an object`);
-      }
-      if (!cat.name || typeof cat.name !== 'string') {
-        throw new Error(`${label} is missing a valid "name" field`);
-      }
-      if (!cat.questions || typeof cat.questions !== 'string') {
-        throw new Error(`${label} is missing a valid "questions" path`);
-      }
-      const catNumOptions = validateNumOptions(cat.num_options, label);
-      return {
-        name: cat.name,
-        questions: cat.questions,
-        num_options: catNumOptions ?? result.num_options,
-      };
-    });
+    result.categories = data.categories.map((cat, i) =>
+      parseCategoryEntry(cat, i, result.num_options),
+    );
   }
 
   return result;

@@ -246,6 +246,148 @@ categories:
     const yaml = 'categories:\n  - name: "Foo"\n    questions: 123';
     expect(() => parseMetadata(yaml)).toThrow(/questions/i);
   });
+
+  // ── Nested sub-categories ──────────────────────────────────────────────────
+
+  it('parses a branch category with nested leaf children', () => {
+    const yaml = `
+name: "Quiz"
+categories:
+  - name: General Knowledge
+    categories:
+      - name: Maths
+        questions: gk/maths/q.yaml
+      - name: Literature
+        questions: gk/lit/q.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories).toHaveLength(1);
+    const branch = result.categories[0];
+    expect(branch.name).toBe('General Knowledge');
+    expect(branch.categories).toHaveLength(2);
+    expect(branch).not.toHaveProperty('questions');
+    expect(branch.categories[0]).toEqual({
+      name: 'Maths',
+      questions: 'gk/maths/q.yaml',
+      num_options: 4,
+    });
+    expect(branch.categories[1]).toEqual({
+      name: 'Literature',
+      questions: 'gk/lit/q.yaml',
+      num_options: 4,
+    });
+  });
+
+  it('parses mixed branch and leaf at the same level', () => {
+    const yaml = `
+categories:
+  - name: Parent
+    categories:
+      - name: Child
+        questions: child/q.yaml
+  - name: Standalone
+    questions: standalone/q.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories).toHaveLength(2);
+    expect(result.categories[0]).toHaveProperty('categories');
+    expect(result.categories[1]).toHaveProperty('questions');
+  });
+
+  it('cascades num_options through nesting levels', () => {
+    const yaml = `
+num_options: 5
+categories:
+  - name: A
+    categories:
+      - name: B
+        questions: b/q.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories[0].num_options).toBe(5);
+    expect(result.categories[0].categories[0].num_options).toBe(5);
+  });
+
+  it('child num_options overrides parent', () => {
+    const yaml = `
+num_options: 5
+categories:
+  - name: A
+    num_options: 3
+    categories:
+      - name: B
+        questions: b/q.yaml
+      - name: C
+        num_options: 6
+        questions: c/q.yaml
+`;
+    const result = parseMetadata(yaml);
+    expect(result.categories[0].num_options).toBe(3);
+    expect(result.categories[0].categories[0].num_options).toBe(3);
+    expect(result.categories[0].categories[1].num_options).toBe(6);
+  });
+
+  it('throws when a category has both questions and categories', () => {
+    const yaml = `
+categories:
+  - name: Bad
+    questions: q.yaml
+    categories:
+      - name: Child
+        questions: c.yaml
+`;
+    expect(() => parseMetadata(yaml)).toThrow(/not both/i);
+  });
+
+  it('throws when a category has neither questions nor categories', () => {
+    const yaml = 'categories:\n  - name: "Empty"';
+    expect(() => parseMetadata(yaml)).toThrow(/must have either/i);
+  });
+
+  it('validates deeply nested structure (3+ levels)', () => {
+    const yaml = `
+categories:
+  - name: L1
+    categories:
+      - name: L2
+        categories:
+          - name: L3
+            questions: deep/q.yaml
+`;
+    const result = parseMetadata(yaml);
+    const l3 = result.categories[0].categories[0].categories[0];
+    expect(l3).toEqual({ name: 'L3', questions: 'deep/q.yaml', num_options: 4 });
+  });
+
+  it('throws when nested categories is not an array', () => {
+    const yaml = `
+categories:
+  - name: Bad
+    categories: "nope"
+`;
+    expect(() => parseMetadata(yaml)).toThrow(/non-empty array/i);
+  });
+
+  it('throws when nested categories is an empty array', () => {
+    const yaml = `
+categories:
+  - name: Bad
+    categories: []
+`;
+    expect(() => parseMetadata(yaml)).toThrow(/non-empty array/i);
+  });
+
+  it('throws when nested category num_options is invalid', () => {
+    const yaml = `
+categories:
+  - name: A
+    categories:
+      - name: B
+        questions: q.yaml
+        num_options: 1
+`;
+    expect(() => parseMetadata(yaml)).toThrow(/at least 2/i);
+  });
 });
 
 // ── shuffleArray ──────────────────────────────────────────────────────────────

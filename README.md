@@ -20,8 +20,9 @@ and handles everything else.
 ## Features
 
 - **YAML-driven** — Define questions, answers, hints, and options in simple YAML files
-- **Categories** — Organize questions into categories; players pick a category before
-  starting (auto-skipped when there's only one)
+- **Categories & Sub-categories** — Organize questions into categories with optional
+  nesting to any depth; players drill down through the tree and navigate back with a
+  back button (single-entry levels are auto-skipped)
 - **Zero backend** — Fully static; deploy to GitHub Pages, Netlify, or any static host
 - **Auto-generated options** — If a question doesn't specify choices, they're randomly
   sampled from the answer pool
@@ -43,29 +44,25 @@ Open <http://localhost:5173> in your browser.
 ## File Structure
 
 Everything is configured in a single `metadata.yaml` at the root of `public/`.
-Each category points to its own `questions.yaml` file:
+Each category is either a **leaf** (points to a `questions.yaml` file) or a
+**branch** (contains nested sub-categories). Categories can be nested to any
+depth.
 
 ```
 public/
   metadata.yaml               # quiz name, categories, and settings
   general-knowledge/
-    questions.yaml            # questions for this category
+    maths/
+      questions.yaml          # leaf category
+    literature/
+      questions.yaml          # leaf category
+  geography/
+    questions.yaml            # leaf category at the top level
 ```
 
-When there is only one category, the category selection screen is skipped and the
-user goes straight to the start screen — the experience is identical to a flat
-quiz with no categories.
-
-With two or more categories, a category selection screen is shown first:
-
-```
-public/
-  metadata.yaml
-  capitals/
-    questions.yaml
-  flags/
-    questions.yaml
-```
+When there is only one category at a given level, that level is auto-skipped —
+the engine drills down automatically until it reaches a level with multiple
+choices or a single leaf category.
 
 ### Flat mode (no categories)
 
@@ -86,15 +83,17 @@ categories.
 | `categories` | object[]   | *(none)*      | List of categories (omit for flat mode)              |
 | `num_options`| int        | `4`           | Default number of answer choices (minimum 2)         |
 
-Each entry in `categories` has:
+Each entry in `categories` is either a **leaf** (has `questions`) or a **branch**
+(has nested `categories`). A single entry cannot have both.
 
-| Field        | Type   | Required | Description                                              |
-| ------------ | ------ | -------- | -------------------------------------------------------- |
-| `name`       | string | Yes      | Display name shown on the category selection screen       |
-| `questions`  | string | Yes      | Path to the category's questions YAML file                |
-| `num_options`| int    | No       | Number of answer choices; inherits from root if omitted   |
+| Field        | Type     | Required            | Description                                              |
+| ------------ | -------- | ------------------- | -------------------------------------------------------- |
+| `name`       | string   | Yes                 | Display name shown on the category selection screen       |
+| `questions`  | string   | If no `categories`  | Path to the category's questions YAML file (leaf)         |
+| `categories` | object[] | If no `questions`   | Nested sub-categories (branch)                            |
+| `num_options`| int      | No                  | Number of answer choices; inherits from parent if omitted |
 
-**Single category example** (category screen auto-skipped):
+**Leaf-only example** (category screen auto-skipped):
 
 ```yaml
 name: Example Quiz - General Knowledge
@@ -104,7 +103,22 @@ categories:
     num_options: 4
 ```
 
-**Multi-category example:**
+**Mixed branch and leaf example:**
+
+```yaml
+name: Example Quiz
+categories:
+  - name: General Knowledge
+    categories:
+      - name: Maths & Science
+        questions: general-knowledge/maths/questions.yaml
+      - name: Literature
+        questions: general-knowledge/literature/questions.yaml
+  - name: Geography
+    questions: geography/questions.yaml
+```
+
+**Flat multi-category example:**
 
 ```yaml
 name: Geography Quiz

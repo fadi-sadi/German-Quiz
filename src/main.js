@@ -62,8 +62,8 @@ let selectedCategoryIndex = 0;
 let timerStart = 0;
 let timerInterval = null;
 
-/** @type {Array<{name: string, questions: string, metadata?: string}> | null} */
-let categories = null;
+/** @type {Array<{title: string, items: object[]}>} */
+let navStack = [];
 let quizName = 'Trivia Game';
 
 // ── Boot ─────────────────────────────────────────────────────────────────────
@@ -78,12 +78,8 @@ async function loadGame() {
     document.title = quizName;
 
     if (metadata.categories) {
-      categories = metadata.categories;
-      if (categories.length === 1) {
-        await loadCategory(categories[0]);
-      } else {
-        showCategoryScreen();
-      }
+      navStack = [{ title: quizName, items: metadata.categories }];
+      await autoDrillOrShow();
     } else {
       const questionsUrl = sanitizeResourcePath(params.get('questions') ?? 'questions.yaml');
       const questionsText = await fetchText(questionsUrl);
@@ -109,16 +105,52 @@ async function fetchText(url) {
 
 // ── Category selection ───────────────────────────────────────────────────────
 
+/**
+ * Walk single-child branches automatically so the user isn't forced to click
+ * through levels that only have one option. If the final single entry is a
+ * leaf, load it directly.
+ */
+async function autoDrillOrShow() {
+  while (true) {
+    const current = navStack[navStack.length - 1];
+    if (current.items.length === 1) {
+      const only = current.items[0];
+      if (only.categories) {
+        navStack.push({ title: only.name, items: only.categories });
+        continue;
+      }
+      await loadCategory(only);
+      return;
+    }
+    break;
+  }
+  showCategoryScreen();
+}
+
 function showCategoryScreen() {
-  document.getElementById('category-title').textContent = quizName;
+  const current = navStack[navStack.length - 1];
+  document.getElementById('category-title').textContent = current.title;
+
+  const backBtn = document.getElementById('category-back-btn');
+  if (navStack.length > 1) {
+    backBtn.classList.remove('hidden');
+  } else {
+    backBtn.classList.add('hidden');
+  }
 
   const grid = document.getElementById('categories-grid');
   grid.replaceChildren();
 
-  categories.forEach((cat) => {
+  current.items.forEach((cat) => {
     const btn = document.createElement('button');
     btn.className = 'category-btn';
     btn.textContent = cat.name;
+    if (cat.categories) {
+      const chevron = document.createElement('span');
+      chevron.className = 'chevron';
+      chevron.textContent = '\u203A';
+      btn.appendChild(chevron);
+    }
     btn.addEventListener('click', () => handleCategorySelect(cat));
     grid.appendChild(btn);
   });
@@ -136,11 +168,27 @@ function updateCategoryHighlight() {
 }
 
 async function handleCategorySelect(category) {
+  if (category.categories) {
+    navStack.push({ title: category.name, items: category.categories });
+    try {
+      await autoDrillOrShow();
+    } catch (err) {
+      showError(err.message);
+    }
+    return;
+  }
   showScreen('loading');
   try {
     await loadCategory(category);
   } catch (err) {
     showError(err.message);
+  }
+}
+
+function handleBackButton() {
+  if (navStack.length > 1) {
+    navStack.pop();
+    showCategoryScreen();
   }
 }
 
@@ -326,7 +374,7 @@ function showResult() {
   document.getElementById('final-message').textContent = msg;
 
   const changeCatBtn = document.getElementById('change-category-btn');
-  if (categories && categories.length > 1) {
+  if (navStack.length > 0) {
     changeCatBtn.classList.remove('hidden');
   } else {
     changeCatBtn.classList.add('hidden');
@@ -340,7 +388,11 @@ function showResult() {
 document.getElementById('start-btn').addEventListener('click', startQuiz);
 document.getElementById('next-btn').addEventListener('click', nextQuestion);
 document.getElementById('restart-btn').addEventListener('click', showStartScreen);
-document.getElementById('change-category-btn').addEventListener('click', showCategoryScreen);
+document.getElementById('category-back-btn').addEventListener('click', handleBackButton);
+document.getElementById('change-category-btn').addEventListener('click', () => {
+  navStack.splice(1);
+  showCategoryScreen();
+});
 
 const limitInput = document.getElementById('question-limit');
 document.getElementById('limit-dec').addEventListener('click', () => {
@@ -376,6 +428,14 @@ document.addEventListener('keydown', (e) => {
   }
 
   if (!screens.category.classList.contains('hidden')) {
+    if (e.key === 'Escape' || e.key === 'Backspace') {
+      if (navStack.length > 1) {
+        e.preventDefault();
+        handleBackButton();
+      }
+      return;
+    }
+
     const catBtns = document.getElementById('categories-grid').querySelectorAll('.category-btn');
     const catCount = catBtns.length;
     if (!catCount) return;

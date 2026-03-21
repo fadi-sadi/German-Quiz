@@ -1,0 +1,26 @@
+- question: What is the capital of France?
+  answer: Paris
+  hint: Known as the City of Light
+  options:
+    - Paris
+    - London
+    - Berlin
+    - Madrid
+
+- question: What is the tallest mountain in the world?
+  answer: Mount Everest
+  hint: Located in the Himalayas
+  options:
+    - Mount Everest
+    - K2
+    - Kangchenjunga
+    - Mont Blanc
+
+- question: What is the smallest country in the world?
+  answer: Vatican City
+  hint: It is an enclave within Rome, Italy
+  options:
+    - Vatican City
+    - Monaco
+    - San Marino
+    - Liechtenstein

@@ -1,5 +1,10 @@
-name: Example Quiz - General Knowledge
+name: Example Quiz
 categories:
   - name: General Knowledge
-    questions: general-knowledge/questions.yaml
-    num_options: 4
+    categories:
+      - name: Maths & Science
+        questions: general-knowledge/maths/questions.yaml
+      - name: Literature
+        questions: general-knowledge/literature/questions.yaml
+  - name: Geography
+    questions: geography/questions.yaml
