@@ -259,7 +259,7 @@ function showResult() {
 
 document.getElementById('start-btn').addEventListener('click', startQuiz);
 document.getElementById('next-btn').addEventListener('click', nextQuestion);
-document.getElementById('restart-btn').addEventListener('click', startQuiz);
+document.getElementById('restart-btn').addEventListener('click', showStartScreen);
 document.getElementById('change-category-btn').addEventListener('click', showCategoryScreen);
 
 const limitInput = document.getElementById('question-limit');
