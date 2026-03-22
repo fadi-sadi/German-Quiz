@@ -14,10 +14,16 @@ const screens = {
 };
 
 function showScreen(name) {
+  document.querySelectorAll('.kb-focus').forEach((el) => el.classList.remove('kb-focus'));
   Object.values(screens).forEach((s) => s.classList.add('hidden'));
   const target = screens[name];
   target.classList.remove('hidden');
   target.focus();
+
+  if (name !== 'category' && name !== 'quiz') {
+    selectedActionIndex = 0;
+    updateActionHighlight(target);
+  }
 }
 
 function showError(msg) {
@@ -59,6 +65,7 @@ let score = 0;
 let answered = false;
 let selectedOptionIndex = -1;
 let selectedCategoryIndex = 0;
+let selectedActionIndex = 0;
 let timerStart = 0;
 let timerInterval = null;
 
@@ -365,6 +372,19 @@ function updateOptionHighlight() {
   });
 }
 
+function getActionButtons(screen) {
+  return Array.from(screen.querySelectorAll('.btn')).filter(
+    (btn) => !btn.classList.contains('hidden'),
+  );
+}
+
+function updateActionHighlight(screen) {
+  const btns = getActionButtons(screen);
+  btns.forEach((btn, i) => {
+    btn.classList.toggle('kb-focus', i === selectedActionIndex);
+  });
+}
+
 function showResult() {
   stopTimer();
   const elapsed = Date.now() - timerStart;
@@ -426,15 +446,10 @@ function isActivateKey(key) {
 }
 
 document.addEventListener('keydown', (e) => {
-  if (isActivateKey(e.key) && !screens.start.classList.contains('hidden')) {
-    e.preventDefault();
-    document.getElementById('start-btn').click();
-    return;
-  }
-
-  if (isActivateKey(e.key) && !screens.result.classList.contains('hidden')) {
-    e.preventDefault();
-    document.getElementById('restart-btn').click();
+  if (
+    (e.key === 'ArrowDown' || e.key === 'ArrowUp') &&
+    (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')
+  ) {
     return;
   }
 
@@ -470,30 +485,54 @@ document.addEventListener('keydown', (e) => {
     return;
   }
 
-  if (screens.quiz.classList.contains('hidden')) return;
+  if (!screens.quiz.classList.contains('hidden')) {
+    const optionBtns = document.getElementById('options-grid').querySelectorAll('.option-btn');
+    const count = optionBtns.length;
+    if (!count) return;
 
-  const optionBtns = document.getElementById('options-grid').querySelectorAll('.option-btn');
-  const count = optionBtns.length;
-  if (!count) return;
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (answered) return;
+      if (e.key === 'ArrowDown') {
+        selectedOptionIndex = (selectedOptionIndex + 1) % count;
+      } else {
+        selectedOptionIndex = (selectedOptionIndex - 1 + count) % count;
+      }
+      updateOptionHighlight();
+    }
+
+    if (isActivateKey(e.key)) {
+      e.preventDefault();
+      const nextBtn = document.getElementById('next-btn');
+      if (answered && !nextBtn.classList.contains('hidden')) {
+        nextBtn.click();
+      } else if (!answered && selectedOptionIndex >= 0 && selectedOptionIndex < count) {
+        optionBtns[selectedOptionIndex].click();
+      }
+    }
+    return;
+  }
+
+  const activeScreen = Object.values(screens).find((s) => !s.classList.contains('hidden'));
+  if (!activeScreen) return;
+
+  const actionBtns = getActionButtons(activeScreen);
+  if (!actionBtns.length) return;
 
   if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
     e.preventDefault();
-    if (answered) return;
     if (e.key === 'ArrowDown') {
-      selectedOptionIndex = (selectedOptionIndex + 1) % count;
+      selectedActionIndex = (selectedActionIndex + 1) % actionBtns.length;
     } else {
-      selectedOptionIndex = (selectedOptionIndex - 1 + count) % count;
+      selectedActionIndex = (selectedActionIndex - 1 + actionBtns.length) % actionBtns.length;
     }
-    updateOptionHighlight();
+    updateActionHighlight(activeScreen);
   }
 
   if (isActivateKey(e.key)) {
     e.preventDefault();
-    const nextBtn = document.getElementById('next-btn');
-    if (answered && !nextBtn.classList.contains('hidden')) {
-      nextBtn.click();
-    } else if (!answered && selectedOptionIndex >= 0 && selectedOptionIndex < count) {
-      optionBtns[selectedOptionIndex].click();
+    if (selectedActionIndex >= 0 && selectedActionIndex < actionBtns.length) {
+      actionBtns[selectedActionIndex].click();
     }
   }
 });
