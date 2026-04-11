@@ -1,7 +1,7 @@
-- question: "Choose the correct sentence:"
-  answer: "Wenn ich reich wäre, würde ich ein Haus kaufen."
+- question: 'Choose the correct sentence:'
+  answer: 'Wenn ich reich wäre, würde ich ein Haus kaufen.'
   options:
-    - "Wenn ich reich bin, kaufe ich ein Haus."
-    - "Wenn ich reich wäre, kaufe ich ein Haus."
-    - "Wenn ich reich wäre, würde ich ein Haus kaufen."
-    - "Wenn ich reich war, würde ich ein Haus kaufen."
+    - 'Wenn ich reich bin, kaufe ich ein Haus.'
+    - 'Wenn ich reich wäre, kaufe ich ein Haus.'
+    - 'Wenn ich reich wäre, würde ich ein Haus kaufen.'
+    - 'Wenn ich reich war, würde ich ein Haus kaufen.'

@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zur Freien und Hansestadt Hamburg?
+  image: 'images/Hamburg_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Bezirk von Hamburg?
+  answer: ''
+  options:
+    - 'Altona'
+    - 'Hemelingen'
+    - 'Pankow'
+    - 'Mecklenburgische Seenplatte'
+
+- question: >
+    Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Hamburg?
+  answer: ''
+  options:
+    - 'blau-weiß-rot'
+    - 'weiß-rot'
+    - 'grün-weiß-rot'
+    - 'schwarz-gelb'
+
+- question: >
+    Wo können Sie sich in Hamburg über politische Themen informieren?
+  answer: ''
+  options:
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei der Verbraucherzentrale'
+    - 'bei den Kirchen'
+    - 'bei der Landeszentrale für politische Bildung'
+
+- question: >
+    Welches Bundesland ist ein Stadtstaat?
+  answer: ''
+  options:
+    - 'Hamburg'
+    - 'Sachsen'
+    - 'Bayern'
+    - 'Thüringen'
+
+- question: >
+    Welches Bundesland ist Hamburg?
+  image: 'images/Hamburg_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Hamburg?
+  answer: ''
+  options:
+    - 'Ministerpräsidentin/Ministerpräsident'
+    - 'Erste Bürgermeisterin/Erster Bürgermeister'
+    - 'Regierende Senatorin/Regierender Senator'
+    - 'Oberbürgermeisterin/Oberbürgermeister'
+
+- question: >
+    Welche Senatorin/welchen Senator hat Hamburg nicht?
+  answer: ''
+  options:
+    - 'Justizsenatorin/Justizsenator'
+    - 'Senatorin/Senator für Außenbeziehungen'
+    - 'Finanzsenatorin/Finanzsenator'
+    - 'Innensenatorin/Innensenator'

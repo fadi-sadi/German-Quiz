@@ -1,7 +1,7 @@
-- question: "Which is correct? Ich fahre ___ dem Bus."
-  answer: "mit"
+- question: 'Which is correct? Ich fahre ___ dem Bus.'
+  answer: 'mit'
   options:
-    - "mit"
-    - "in"
-    - "auf"
-    - "zu"
+    - 'mit'
+    - 'in'
+    - 'auf'
+    - 'zu'

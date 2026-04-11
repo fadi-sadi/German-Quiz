@@ -1,9 +1,9 @@
 - question: |
     Maria wollte ins Kino gehen, aber sie war zu müde und blieb zu Hause.
     Why did Maria stay home?
-  answer: "She was tired"
+  answer: 'She was tired'
   options:
-    - "She had to work"
-    - "She was tired"
-    - "She had no money"
-    - "She missed the bus"
+    - 'She had to work'
+    - 'She was tired'
+    - 'She had no money'
+    - 'She missed the bus'

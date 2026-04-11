@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Bundesland Saarland?
+  image: 'images/Saarland_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis im Saarland?
+  answer: ''
+  options:
+    - 'Mecklenburgische Seenplatte'
+    - 'Altötting'
+    - 'Neunkirchen'
+    - 'Rhein-Sieg-Kreis'
+
+- question: >
+    Für wie viele Jahre wird der Landtag des Saarlandes gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge des Saarlandes?
+  answer: ''
+  options:
+    - 'weiß-blau'
+    - 'schwarz-rot-gold'
+    - 'schwarz-gelb'
+    - 'grün-weiß-rot'
+
+- question: >
+    Wo können Sie sich im Saarland über politische Themen informieren?
+  answer: ''
+  options:
+    - 'bei den Kirchen'
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'bei der Verbraucherzentrale'
+    - 'beim Ordnungsamt der Gemeinde'
+
+- question: >
+    Die Landeshauptstadt des Saarlandes heißt …
+  answer: ''
+  options:
+    - 'Neunkirchen.'
+    - 'Homburg.'
+    - 'Saarbrücken.'
+    - 'Völklingen.'
+
+- question: >
+    Welches Bundesland ist das Saarland?
+  image: 'images/Saarland_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef des Saarlandes?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat das Saarland nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

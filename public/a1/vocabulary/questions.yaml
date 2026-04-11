@@ -1,7 +1,7 @@
 - question: "What does 'Apfel' mean?"
-  answer: "Apple"
+  answer: 'Apple'
   options:
-    - "Banana"
-    - "Apple"
-    - "Orange"
-    - "Grape"
+    - 'Banana'
+    - 'Apple'
+    - 'Orange'
+    - 'Grape'

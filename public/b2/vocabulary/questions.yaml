@@ -1,7 +1,7 @@
 - question: "What does 'trotzdem' mean?"
-  answer: "Nevertheless"
+  answer: 'Nevertheless'
   options:
-    - "Therefore"
-    - "Nevertheless"
-    - "Because"
-    - "Already"
+    - 'Therefore'
+    - 'Nevertheless'
+    - 'Because'
+    - 'Already'

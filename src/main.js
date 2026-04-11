@@ -90,7 +90,10 @@ async function loadGame() {
     } else {
       const questionsUrl = sanitizeResourcePath(params.get('questions') ?? 'questions.yaml');
       const questionsText = await fetchText(questionsUrl);
-      const questions = resolveImagePaths(parseQuestions(questionsText), resolveBasePath(questionsUrl));
+      const questions = resolveImagePaths(
+        parseQuestions(questionsText),
+        resolveBasePath(questionsUrl)
+      );
       engine = new TriviaEngine(questions, metadata);
       showStartScreen();
     }
@@ -254,7 +257,7 @@ function startQuiz() {
   const limitInput = document.getElementById('question-limit');
   const limit = Math.max(
     1,
-    Math.min(engine.totalQuestions, parseInt(limitInput.value, 10) || engine.totalQuestions),
+    Math.min(engine.totalQuestions, parseInt(limitInput.value, 10) || engine.totalQuestions)
   );
   limitInput.value = limit;
 
@@ -374,7 +377,7 @@ function updateOptionHighlight() {
 
 function getActionButtons(screen) {
   return Array.from(screen.querySelectorAll('.btn')).filter(
-    (btn) => !btn.classList.contains('hidden'),
+    (btn) => !btn.classList.contains('hidden')
   );
 }
 

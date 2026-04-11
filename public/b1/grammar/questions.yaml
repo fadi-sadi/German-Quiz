@@ -1,7 +1,7 @@
-- question: "Choose the correct sentence:"
-  answer: "Ich habe ihn gestern gesehen."
+- question: 'Choose the correct sentence:'
+  answer: 'Ich habe ihn gestern gesehen.'
   options:
-    - "Ich habe ihn gesehen gestern."
-    - "Ich habe gestern ihn gesehen."
-    - "Ich habe ihn gestern gesehen."
-    - "Ich gestern habe ihn gesehen."
+    - 'Ich habe ihn gesehen gestern.'
+    - 'Ich habe gestern ihn gesehen.'
+    - 'Ich habe ihn gestern gesehen.'
+    - 'Ich gestern habe ihn gesehen.'

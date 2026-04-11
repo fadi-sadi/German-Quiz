@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Freistaat Bayern?
+  image: 'images/Bayern_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis in Bayern?
+  answer: ''
+  options:
+    - 'Prignitz'
+    - 'Rhein-Sieg-Kreis'
+    - 'Nordfriesland'
+    - 'Altötting'
+
+- question: >
+    Für wie viele Jahre wird der Landtag in Bayern gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Bayern?
+  answer: ''
+  options:
+    - 'blau-weiß-rot'
+    - 'weiß-blau'
+    - 'grün-weiß-rot'
+    - 'schwarz-gelb'
+
+- question: >
+    Wo können Sie sich in Bayern über politische Themen informieren?
+  answer: ''
+  options:
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'bei der Verbraucherzentrale'
+    - 'bei den Kirchen'
+
+- question: >
+    Die Landeshauptstadt von Bayern heißt …
+  answer: ''
+  options:
+    - 'Ingolstadt.'
+    - 'Regensburg.'
+    - 'Nürnberg.'
+    - 'München.'
+
+- question: >
+    Welches Bundesland ist Bayern?
+  image: 'images/Bayern_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef in Bayern?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat Bayern nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zur Freien Hansestadt Bremen?
+  image: 'images/Bremen_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Stadtteil von Bremen?
+  answer: ''
+  options:
+    - 'Altona'
+    - 'Hemelingen'
+    - 'Pankow'
+    - 'Babelsberg'
+
+- question: >
+    Für wie viele Jahre wird das Landesparlament in Bremen gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Bremen?
+  answer: ''
+  options:
+    - 'blau-weiß-rot'
+    - 'rot-weiß'
+    - 'grün-weiß-rot'
+    - 'schwarz-gold'
+
+- question: >
+    Wo können Sie sich in Bremen über politische Themen informieren?
+  answer: ''
+  options:
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'bei den Kirchen'
+    - 'bei der Verbraucherzentrale'
+
+- question: >
+    Was ist ein deutscher Stadtstaat?
+  answer: ''
+  options:
+    - 'Bremen'
+    - 'München'
+    - 'Frankfurt'
+    - 'Erfurt'
+
+- question: >
+    Welches Bundesland ist Bremen?
+  image: 'images/Bremen_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?
+  answer: ''
+  options:
+    - 'Ministerpräsidentin/Ministerpräsident'
+    - 'Erste Bürgermeisterin/Erster Bürgermeister'
+    - 'Präsidentin/Präsident des Senates'
+    - 'Regierende Bürgermeisterin/Regierender Bürgermeister'
+
+- question: >
+    Welche Senatorin/welchen Senator hat Bremen nicht?
+  answer: ''
+  options:
+    - 'Senatorin/Senator für Außenbeziehungen'
+    - 'Finanzsenatorin/Finanzsenator'
+    - 'Justizsenatorin/Justizsenator'
+    - 'Innensenatorin/Innensenator'

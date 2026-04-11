@@ -1,0 +1,3487 @@
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …
+  hint: >
+    In Germany people are allowed to openly say something against the government because …
+  answer: 'hier Meinungsfreiheit gilt.'
+  options:
+    - 'hier Religionsfreiheit gilt.'
+    - 'die Menschen Steuern zahlen.'
+    - 'die Menschen das Wahlrecht haben.'
+    - 'hier Meinungsfreiheit gilt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …
+  hint: >
+    In Germany parents can decide until their child is 14 years old whether it attends …
+  answer: 'Religionsunterricht teilnimmt.'
+  options:
+    - 'Geschichtsunterricht teilnimmt.'
+    - 'Religionsunterricht teilnimmt.'
+    - 'Politikunterricht teilnimmt.'
+    - 'Sprachunterricht teilnimmt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Deutschland ist ein Rechtsstaat. Was ist damit gemeint?
+  hint: >
+    Germany is a rule-of-law state. What does that mean?
+  answer: 'Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.'
+  options:
+    - 'Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.'
+    - 'Der Staat muss sich nicht an die Gesetze halten.'
+    - 'Nur Deutsche müssen die Gesetze befolgen.'
+    - 'Die Gerichte machen die Gesetze.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Welches Recht gehört zu den Grundrechten in Deutschland?
+  hint: >
+    Which right is among the fundamental rights in Germany?
+  answer: 'Meinungsfreiheit'
+  options:
+    - 'Waffenbesitz'
+    - 'Faustrecht'
+    - 'Meinungsfreiheit'
+    - 'Selbstjustiz'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Wahlen in Deutschland sind frei. Was bedeutet das?
+  hint: >
+    Elections in Germany are free. What does that mean?
+  answer: 'Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.'
+  options:
+    - 'Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.'
+    - 'Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.'
+    - 'Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.'
+    - 'Alle wahlberechtigten Personen müssen wählen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Wie heißt die deutsche Verfassung?
+  hint: >
+    What is the name of the German constitution?
+  answer: 'Grundgesetz'
+  options:
+    - 'Volksgesetz'
+    - 'Bundesgesetz'
+    - 'Deutsches Gesetz'
+    - 'Grundgesetz'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …
+  hint: >
+    Which right belongs to the fundamental rights guaranteed by the German constitution? The right to …
+  answer: 'Glaubens- und Gewissensfreiheit'
+  options:
+    - 'Glaubens- und Gewissensfreiheit'
+    - 'Unterhaltung'
+    - 'Arbeit'
+    - 'Wohnung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was steht nicht im Grundgesetz von Deutschland?
+  hint: >
+    What is not contained in Germany’s Basic Law?
+  answer: 'Alle sollen gleich viel Geld haben.'
+  options:
+    - 'Die Würde des Menschen ist unantastbar.'
+    - 'Alle sollen gleich viel Geld haben.'
+    - 'Jeder Mensch darf seine Meinung sagen.'
+    - 'Alle sind vor dem Gesetz gleich.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf …
+  hint: >
+    Which fundamental right in Germany applies only to foreigners? The fundamental right to …
+  answer: 'Asyl'
+  options:
+    - 'Schutz der Familie'
+    - 'Menschenwürde'
+    - 'Asyl'
+    - 'Meinungsfreiheit'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was ist mit dem deutschen Grundgesetz vereinbar?
+  hint: >
+    What is compatible with Germany’s Basic Law?
+  answer: 'die Geldstrafe'
+  options:
+    - 'die Prügelstrafe'
+    - 'die Folter'
+    - 'die Todesstrafe'
+    - 'die Geldstrafe'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Wie wird die Verfassung der Bundesrepublik Deutschland genannt?
+  hint: >
+    What is the constitution of the Federal Republic of Germany called?
+  answer: 'Grundgesetz'
+  options:
+    - 'Grundgesetz'
+    - 'Bundesverfassung'
+    - 'Gesetzbuch'
+    - 'Verfassungsvertrag'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?
+  hint: >
+    A party in the German Bundestag wants to abolish press freedom. Is that possible?
+  answer: 'Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.'
+  options:
+    - 'Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.'
+    - 'Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.'
+    - 'Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.'
+    - 'Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Im Parlament steht der Begriff "Opposition" für …
+  hint: >
+    In Parliament the term “opposition” stands for …
+  answer: 'alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.'
+  options:
+    - 'die regierenden Parteien.'
+    - 'die Fraktion mit den meisten Abgeordneten.'
+    - 'alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.'
+    - 'alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Meinungsfreiheit in Deutschland heißt, dass ich …
+  hint: >
+    Freedom of expression in Germany means that I …
+  answer: 'meine Meinung im Internet äußern kann.'
+  options:
+    - 'Passanten auf der Straße beschimpfen darf.'
+    - 'meine Meinung im Internet äußern kann.'
+    - 'Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.'
+    - 'meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was verbietet das deutsche Grundgesetz?
+  hint: >
+    What does the German Basic Law prohibit?
+  answer: 'Zwangsarbeit'
+  options:
+    - 'Militärdienst'
+    - 'Zwangsarbeit'
+    - 'freie Berufswahl'
+    - 'Arbeit im Ausland'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?
+  hint: >
+    When is freedom of expression restricted in Germany?
+  answer: 'bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen'
+  options:
+    - 'bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen'
+    - 'bei Meinungsäußerungen über die Bundesregierung'
+    - 'bei Diskussionen über Religionen'
+    - 'bei Kritik am Staat'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Die deutschen Gesetze verbieten …
+  hint: >
+    German laws prohibit …
+  answer: 'Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat.'
+  options:
+    - 'Meinungsfreiheit der Einwohnerinnen und Einwohner.'
+    - 'Petitionen der Bürgerinnen und Bürger.'
+    - 'Versammlungsfreiheit der Einwohnerinnen und Einwohner.'
+    - 'Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?
+  hint: >
+    Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?
+  answer: 'die Unantastbarkeit der Menschenwürde'
+  options:
+    - 'die Unantastbarkeit der Menschenwürde'
+    - 'das Recht auf Leben'
+    - 'Religionsfreiheit'
+    - 'Meinungsfreiheit'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was versteht man unter dem Recht der "Freizügigkeit" in Deutschland?
+  hint: >
+    What is meant by the right of “freedom of movement” in Germany?
+  answer: 'Man darf sich seinen Wohnort selbst aussuchen.'
+  options:
+    - 'Man darf sich seinen Wohnort selbst aussuchen.'
+    - 'Man kann seinen Beruf wechseln.'
+    - 'Man darf sich für eine andere Religion entscheiden.'
+    - 'Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …
+  hint: >
+    A party in Germany pursues the goal of establishing a dictatorship. It is therefore …
+  answer: 'verfassungswidrig.'
+  options:
+    - 'tolerant.'
+    - 'rechtsstaatlich orientiert.'
+    - 'gesetzestreu.'
+    - 'verfassungswidrig.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Welches ist das Wappen der Bundesrepublik Deutschland?
+  image: 'images/Teil_I_q21.png'
+  hint: >
+    What is the coat of arms of the Federal Republic of Germany?
+  answer: 'Bild 1'
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was für eine Staatsform hat Deutschland?
+  hint: >
+    What form of state does Germany have?
+  answer: 'Republik'
+  options:
+    - 'Monarchie'
+    - 'Diktatur'
+    - 'Republik'
+    - 'Fürstentum'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    In Deutschland sind die meisten Erwerbstätigen …
+  hint: >
+    In Germany most employed people …
+  answer: 'bei einer Firma oder Behörde beschäftigt.'
+  options:
+    - 'in kleinen Familienunternehmen beschäftigt.'
+    - 'ehrenamtlich für ein Bundesland tätig.'
+    - 'selbstständig mit einer eigenen Firma tätig.'
+    - 'bei einer Firma oder Behörde beschäftigt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Wie viele Bundesländer hat die Bundesrepublik Deutschland?
+  hint: >
+    How many federal states does the Federal Republic of Germany have?
+  answer: '16'
+  options:
+    - '14'
+    - '15'
+    - '16'
+    - '17'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was ist kein Bundesland der Bundesrepublik Deutschland?
+  hint: >
+    Which of the following is not a federal state of the Federal Republic of Germany?
+  answer: 'Elsass-Lothringen'
+  options:
+    - 'Elsass-Lothringen'
+    - 'Nordrhein-Westfalen'
+    - 'Mecklenburg-Vorpommern'
+    - 'Sachsen-Anhalt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Deutschland ist …
+  hint: >
+    Germany is …
+  answer: 'ein demokratischer und sozialer Bundesstaat.'
+  options:
+    - 'eine kommunistische Republik.'
+    - 'ein demokratischer und sozialer Bundesstaat.'
+    - 'eine kapitalistische und soziale Monarchie.'
+    - 'ein sozialer und sozialistischer Bundesstaat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Deutschland ist …
+  hint: >
+    Germany is …
+  answer: 'ein Bundesstaat.'
+  options:
+    - 'ein sozialistischer Staat.'
+    - 'ein Bundesstaat.'
+    - 'eine Diktatur.'
+    - 'eine Monarchie.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Wer wählt in Deutschland die Abgeordneten zum Bundestag?
+  hint: >
+    Who elects the members of the Bundestag in Germany?
+  answer: 'das wahlberechtigte Volk'
+  options:
+    - 'das Militär'
+    - 'die Wirtschaft'
+    - 'das wahlberechtigte Volk'
+    - 'die Verwaltung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Welches Tier ist das Wappentier der Bundesrepublik Deutschland?
+  hint: >
+    Which animal is the coat-of-arms animal of the Federal Republic of Germany?
+  answer: 'Adler'
+  options:
+    - 'Löwe'
+    - 'Adler'
+    - 'Bär'
+    - 'Pferd'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/1-30
+- question: >
+    Was ist kein Merkmal unserer Demokratie?
+  hint: >
+    Which of the following is not a feature of our democracy?
+  answer: 'Pressezensur'
+  options:
+    - 'regelmäßige Wahlen'
+    - 'Pressezensur'
+    - 'Meinungsfreiheit'
+    - 'verschiedene Parteien'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …
+  hint: >
+    The cooperation of parties to form a government is called in Germany …
+  answer: 'Koalition.'
+  options:
+    - 'Einheit.'
+    - 'Koalition.'
+    - 'Ministerium.'
+    - 'Fraktion.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was ist keine staatliche Gewalt in Deutschland?
+  hint: >
+    What is not a state power in Germany?
+  answer: 'Presse'
+  options:
+    - 'Gesetzgebung'
+    - 'Regierung'
+    - 'Presse'
+    - 'Rechtsprechung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Welche Aussage ist richtig? In Deutschland …
+  hint: >
+    Which statement is correct? In Germany …
+  answer: 'sind Staat und Religionsgemeinschaften voneinander getrennt.'
+  options:
+    - 'sind Staat und Religionsgemeinschaften voneinander getrennt.'
+    - 'bilden die Religionsgemeinschaften den Staat.'
+    - 'ist der Staat abhängig von den Religionsgemeinschaften.'
+    - 'bilden Staat und Religionsgemeinschaften eine Einheit.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was ist Deutschland nicht?
+  hint: >
+    What is Germany not?
+  answer: 'eine Monarchie'
+  options:
+    - 'eine Demokratie'
+    - 'ein Rechtsstaat'
+    - 'eine Monarchie'
+    - 'ein Sozialstaat'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Womit finanziert der deutsche Staat die Sozialversicherung?
+  hint: >
+    How does the German state finance social security?
+  answer: 'Sozialabgaben'
+  options:
+    - 'Kirchensteuer'
+    - 'Sozialabgaben'
+    - 'Spendengeldern'
+    - 'Vereinsbeiträgen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Welche Maßnahme schafft in Deutschland soziale Sicherheit?
+  hint: >
+    Which measure creates social security in Germany?
+  answer: 'die Krankenversicherung'
+  options:
+    - 'die Krankenversicherung'
+    - 'die Autoversicherung'
+    - 'die Gebäudeversicherung'
+    - 'die Haftpflichtversicherung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?
+  hint: >
+    What are the heads of government of most German federal states called?
+  answer: 'Ministerpräsidentin/Ministerpräsident'
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Senatorin/Senator'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …
+  hint: >
+    The Federal Republic of Germany is a democratic and social …
+  answer: 'Bundesstaat.'
+  options:
+    - 'Staatenverbund.'
+    - 'Bundesstaat.'
+    - 'Staatenbund.'
+    - 'Zentralstaat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was hat jedes deutsche Bundesland?
+  hint: >
+    What does every German federal state have?
+  answer: 'eine eigene Regierung'
+  options:
+    - 'eine eigene Außenministerin/einen eigenen Außenminister'
+    - 'eine eigene Währung'
+    - 'eine eigene Armee'
+    - 'eine eigene Regierung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Mit welchen Worten beginnt die deutsche Nationalhymne?
+  hint: >
+    With what words does the German national anthem begin?
+  answer: 'Einigkeit und Recht und Freiheit …'
+  options:
+    - 'Völker, hört die Signale …'
+    - 'Einigkeit und Recht und Freiheit …'
+    - 'Freude schöner Götterfunken …'
+    - 'Deutschland einig Vaterland …'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Warum gibt es in einer Demokratie mehr als eine Partei?
+  hint: >
+    Why does a democracy have more than one party?
+  answer: 'weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden'
+  options:
+    - 'weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden'
+    - 'damit Bestechung in der Politik begrenzt wird'
+    - 'um politische Demonstrationen zu verhindern'
+    - 'um wirtschaftlichen Wettbewerb anzuregen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wer beschließt in Deutschland ein neues Gesetz?
+  hint: >
+    Who passes a new law in Germany?
+  answer: 'das Parlament'
+  options:
+    - 'die Regierung'
+    - 'das Parlament'
+    - 'die Gerichte'
+    - 'die Polizei'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wann kann in Deutschland eine Partei verboten werden?
+  hint: >
+    When can a party be banned in Germany?
+  answer: 'wenn sie gegen die Verfassung kämpft'
+  options:
+    - 'wenn ihr Wahlkampf zu teuer ist'
+    - 'wenn sie gegen die Verfassung kämpft'
+    - 'wenn sie Kritik am Staatsoberhaupt äußert'
+    - 'wenn ihr Programm eine neue Richtung vorschlägt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?
+  hint: >
+    Who cannot be directly elected by a citizen in Germany?
+  answer: 'Die Bundespräsidentin/den Bundespräsidenten'
+  options:
+    - 'Abgeordnete des EU-Parlaments'
+    - 'Die Bundespräsidentin/den Bundespräsidenten'
+    - 'Landtagsabgeordnete'
+    - 'Bundestagsabgeordnete'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Zu welcher Versicherung gehört die Pflegeversicherung?
+  hint: >
+    To which insurance does long-term care insurance belong?
+  answer: 'Sozialversicherung'
+  options:
+    - 'Sozialversicherung'
+    - 'Unfallversicherung'
+    - 'Hausratsversicherung'
+    - 'Haftpflicht- und Feuerversicherung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?
+  hint: >
+    The German state has many tasks. Which task belongs to it?
+  answer: 'Er baut Straßen und Schulen.'
+  options:
+    - 'Er baut Straßen und Schulen.'
+    - 'Er verkauft Lebensmittel und Kleidung.'
+    - 'Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.'
+    - 'Er produziert Autos und Busse.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?
+  hint: >
+    The German state has many tasks. Which task does not belong to it?
+  answer: 'Er bezahlt für alle Staatsangehörigen Urlaubsreisen.'
+  options:
+    - 'Er bezahlt für alle Staatsangehörigen Urlaubsreisen.'
+    - 'Er zahlt Kindergeld.'
+    - 'Er unterstützt Museen.'
+    - 'Er fördert Sportlerinnen und Sportler.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?
+  hint: >
+    Which body does not belong to Germany’s constitutional organs?
+  answer: 'die Bürgerversammlung'
+  options:
+    - 'der Bundesrat'
+    - 'die Bundespräsidentin/der Bundespräsident'
+    - 'die Bürgerversammlung'
+    - 'die Regierung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wer bestimmt in Deutschland die Schulpolitik?
+  hint: >
+    Who decides school policy in Germany?
+  answer: 'die Bundesländer'
+  options:
+    - 'die Lehrer und Lehrerinnen'
+    - 'die Bundesländer'
+    - 'das Familienministerium'
+    - 'die Universitäten'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Die Wirtschaftsform in Deutschland nennt man …
+  hint: >
+    The economic form in Germany is called …
+  answer: 'soziale Marktwirtschaft.'
+  options:
+    - 'freie Zentralwirtschaft.'
+    - 'soziale Marktwirtschaft.'
+    - 'gelenkte Zentralwirtschaft.'
+    - 'Planwirtschaft.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Zu einem demokratischen Rechtsstaat gehört es nicht, dass …
+  hint: >
+    It is not part of a democratic rule-of-law state that …
+  answer: 'Menschen von einer Privatpolizei ohne Grund verhaftet werden.'
+  options:
+    - 'Menschen sich kritisch über die Regierung äußern können.'
+    - 'Bürger friedlich demonstrieren gehen dürfen.'
+    - 'Menschen von einer Privatpolizei ohne Grund verhaftet werden.'
+    - 'jemand ein Verbrechen begeht und deshalb verhaftet wird.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was bedeutet "Volkssouveränität"? Alle Staatsgewalt geht vom ...
+  hint: >
+    What does “popular sovereignty” mean? All state power comes from …
+  answer: 'Volke aus.'
+  options:
+    - 'Volke aus.'
+    - 'Bundestag aus.'
+    - 'preußischen König aus.'
+    - 'Bundesverfassungsgericht aus.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was bedeutet "Rechtsstaat" in Deutschland?
+  hint: >
+    What does “rule-of-law” mean in Germany?
+  answer: 'Der Staat muss die Gesetze einhalten.'
+  options:
+    - 'Der Staat hat Recht.'
+    - 'Es gibt nur rechte Parteien.'
+    - 'Die Bürgerinnen und Bürger entscheiden über Gesetze.'
+    - 'Der Staat muss die Gesetze einhalten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was ist keine staatliche Gewalt in Deutschland?
+  hint: >
+    What is not a state power in Germany?
+  answer: 'Direktive'
+  options:
+    - 'Legislative'
+    - 'Judikative'
+    - 'Exekutive'
+    - 'Direktive'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Was zeigt dieses Bild?
+  image: 'images/Teil_I_q55.png'
+  hint: >
+    What does this picture show?
+  answer: 'den Bundestagssitz in Berlin'
+  options:
+    - 'den Bundestagssitz in Berlin'
+    - 'das Bundesverfassungsgericht in Karlsruhe'
+    - 'das Bundesratsgebäude in Berlin'
+    - 'das Bundeskanzleramt in Berlin'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Welches Amt gehört in Deutschland zur Gemeindeverwaltung?
+  hint: >
+    Which office belongs in Germany to municipal administration?
+  answer: 'Ordnungsamt'
+  options:
+    - 'Pfarramt'
+    - 'Ordnungsamt'
+    - 'Finanzamt'
+    - 'Auswärtiges Amt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?
+  hint: >
+    Who is usually elected as president of the German Bundestag?
+  answer: 'eine Abgeordnete/ein Abgeordneter der stärksten Fraktion'
+  options:
+    - 'die/der älteste Abgeordnete im Parlament'
+    - 'die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes'
+    - 'eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler'
+    - 'eine Abgeordnete/ein Abgeordneter der stärksten Fraktion'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?
+  hint: >
+    Who appoints the ministers of the German federal government?
+  answer: 'die Bundespräsidentin/der Bundespräsident'
+  options:
+    - 'die Präsidentin/der Präsident des Bundesverfassungsgerichtes'
+    - 'die Bundespräsidentin/der Bundespräsident'
+    - 'die Bundesratspräsidentin/der Bundesratspräsident'
+    - 'die Bundestagspräsidentin/der Bundestagspräsident'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/31-60
+- question: >
+    In Deutschland gehören der Bundestag und der Bundesrat zur …
+  hint: >
+    In Germany the Bundestag and the Bundesrat belong to …
+  answer: 'Legislative.'
+  options:
+    - 'Exekutive.'
+    - 'Legislative.'
+    - 'Direktive.'
+    - 'Judikative.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was bedeutet "Volkssouveränität"?
+  hint: >
+    What does “popular sovereignty” mean?
+  answer: 'Die Staatsgewalt geht vom Volke aus.'
+  options:
+    - 'Die Königin/der König herrscht über das Volk.'
+    - 'Das Bundesverfassungsgericht steht über der Verfassung.'
+    - 'Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.'
+    - 'Die Staatsgewalt geht vom Volke aus.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …
+  hint: >
+    When a parliament of a German state is elected, it is called …
+  answer: 'Landtagswahl'
+  options:
+    - 'Kommunalwahl'
+    - 'Landtagswahl'
+    - 'Europawahl'
+    - 'Bundestagswahl'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was gehört in Deutschland nicht zur Exekutive?
+  hint: >
+    Which of the following does not belong to the executive in Germany?
+  answer: 'die Gerichte'
+  options:
+    - 'die Polizei'
+    - 'die Gerichte'
+    - 'das Finanzamt'
+    - 'die Ministerien'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Die Bundesrepublik Deutschland ist heute gegliedert in …
+  hint: >
+    The Federal Republic of Germany today is divided into …
+  answer: 'Bund, Länder und Kommunen.'
+  options:
+    - 'vier Besatzungszonen.'
+    - 'einen Oststaat und einen Weststaat.'
+    - '16 Kantone.'
+    - 'Bund, Länder und Kommunen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …
+  hint: >
+    It is not among the tasks of the German Bundestag, …
+  answer: 'das Bundeskabinett zu bilden.'
+  options:
+    - 'Gesetze zu entwerfen.'
+    - 'die Bundesregierung zu kontrollieren.'
+    - 'die Bundeskanzlerin/den Bundeskanzler zu wählen.'
+    - 'das Bundeskabinett zu bilden.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?
+  hint: >
+    In Germany the main task of the federal states is …
+  answer: 'Schulpolitik'
+  options:
+    - 'Verteidigungspolitik'
+    - 'Außenpolitik'
+    - 'Wirtschaftspolitik'
+    - 'Schulpolitik'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Warum kontrolliert der Staat in Deutschland das Schulwesen?
+  hint: >
+    Why does the state in Germany control the school system?
+  answer: 'weil es nach dem Grundgesetz seine Aufgabe ist'
+  options:
+    - 'weil es in Deutschland nur staatliche Schulen gibt'
+    - 'weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen'
+    - 'weil es in den Bundesländern verschiedene Schulen gibt'
+    - 'weil es nach dem Grundgesetz seine Aufgabe ist'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?
+  hint: >
+    The Federal Republic of Germany has a three-tier administrative structure. What is the lowest political level called?
+  answer: 'Gemeinden'
+  options:
+    - 'Stadträte'
+    - 'Landräte'
+    - 'Gemeinden'
+    - 'Bezirksämter'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?
+  image: 'images/Teil_I_q70.png'
+  hint: >
+    In 1974 the German Federal President Gustav Heinemann gave Helmut Schmidt the letter of appointment as German Chancellor. What belongs to the tasks of the German Federal President?
+  answer: 'Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.'
+  options:
+    - 'Sie/Er führt die Regierungsgeschäfte.'
+    - 'Sie/Er kontrolliert die Regierungspartei.'
+    - 'Sie/Er wählt die Ministerinnen/Minister aus.'
+    - 'Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …
+  hint: >
+    Where does the German chancellor most often stay? He/she is most often …
+  answer: 'in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.'
+  options:
+    - 'in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.'
+    - 'auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.'
+    - 'auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.'
+    - 'in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.'
+
+- question: >
+    Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?
+  hint: >
+    Who is the current German chancellor?
+  answer: 'Friedrich Merz'
+  options:
+    - 'Gerhard Schröder'
+    - 'Angela Merkel'
+    - 'Ursula von der Leyen'
+    - 'Friedrich Merz'
+
+- question: >
+    Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …
+  hint: >
+    The two largest factions in the German Bundestag are currently …
+  answer: 'CDU/CSU und AfD.'
+  options:
+    - 'CDU/CSU und AfD.'
+    - 'Die Linke und Bündnis 90/Die Grünen.'
+    - 'Bündnis 90/Die Grünen und SPD.'
+    - 'Die Linke und CDU/CSU.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wie heißt das Parlament für ganz Deutschland?
+  hint: >
+    What is the parliament for all of Germany called?
+  answer: 'Bundestag'
+  options:
+    - 'Bundesversammlung'
+    - 'Volkskammer'
+    - 'Bundestag'
+    - 'Bundesgerichtshof'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wie heißt Deutschlands heutiges Staatsoberhaupt?
+  hint: >
+    Who is the current head of state of Germany?
+  answer: 'Frank-Walter Steinmeier'
+  options:
+    - 'Frank-Walter Steinmeier'
+    - 'Bärbel Bas'
+    - 'Bodo Ramelow'
+    - 'Joachim Gauck'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was bedeutet die Abkürzung CDU in Deutschland?
+  hint: >
+    What does the abbreviation CDU stand for in Germany?
+  answer: 'Christlich Demokratische Union'
+  options:
+    - 'Christliche Deutsche Union'
+    - 'Club Deutscher Unternehmer'
+    - 'Christlicher Deutscher Umweltschutz'
+    - 'Christlich Demokratische Union'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was ist die Bundeswehr?
+  hint: >
+    What is the Bundeswehr?
+  answer: 'die deutsche Armee'
+  options:
+    - 'die deutsche Polizei'
+    - 'ein deutscher Hafen'
+    - 'eine deutsche Bürgerinitiative'
+    - 'die deutsche Armee'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was bedeutet die Abkürzung SPD?
+  hint: >
+    What does the abbreviation SPD stand for?
+  answer: 'Sozialdemokratische Partei Deutschlands'
+  options:
+    - 'Sozialistische Partei Deutschlands'
+    - 'Sozialpolitische Partei Deutschlands'
+    - 'Sozialdemokratische Partei Deutschlands'
+    - 'Sozialgerechte Partei Deutschlands'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Was bedeutet die Abkürzung FDP in Deutschland?
+  hint: >
+    What does the abbreviation FDP stand for in Germany?
+  answer: 'Freie Demokratische Partei'
+  options:
+    - 'Friedliche Demonstrative Partei'
+    - 'Freie Deutschland Partei'
+    - 'Führende Demokratische Partei'
+    - 'Freie Demokratische Partei'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?
+  hint: >
+    Which court in Germany is responsible for interpreting the Basic Law?
+  answer: 'Bundesverfassungsgericht'
+  options:
+    - 'Oberlandesgericht'
+    - 'Amtsgericht'
+    - 'Bundesverfassungsgericht'
+    - 'Verwaltungsgericht'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?
+  hint: >
+    Who elects the German chancellor?
+  answer: 'der Bundestag'
+  options:
+    - 'der Bundesrat'
+    - 'die Bundesversammlung'
+    - 'das Volk'
+    - 'der Bundestag'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wer leitet das deutsche Bundeskabinett?
+  hint: >
+    Who leads the German cabinet?
+  answer: 'die Bundeskanzlerin/der Bundeskanzler'
+  options:
+    - 'die Bundestagspräsidentin/der Bundestagspräsident'
+    - 'die Bundespräsidentin/der Bundespräsident'
+    - 'die Bundesratspräsidentin/der Bundesratspräsident'
+    - 'die Bundeskanzlerin/der Bundeskanzler'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?
+  hint: >
+    Who elects the German chancellor?
+  answer: 'der Bundestag'
+  options:
+    - 'das Volk'
+    - 'die Bundesversammlung'
+    - 'der Bundestag'
+    - 'die Bundesregierung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …
+  hint: >
+    What is the main task of the German Federal President? He/she …
+  answer: 'repräsentiert das Land.'
+  options:
+    - 'regiert das Land.'
+    - 'entwirft die Gesetze.'
+    - 'repräsentiert das Land.'
+    - 'überwacht die Einhaltung der Gesetze.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wer bildet den deutschen Bundesrat?
+  hint: >
+    Who forms the German Bundesrat?
+  answer: 'die Regierungsvertreter der Bundesländer'
+  options:
+    - 'die Abgeordneten des Bundestages'
+    - 'die Ministerinnen und Minister der Bundesregierung'
+    - 'die Regierungsvertreter der Bundesländer'
+    - 'die Parteimitglieder'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?
+  hint: >
+    Who elects the German Federal President?
+  answer: 'die Bundesversammlung'
+  options:
+    - 'die Bundesversammlung'
+    - 'der Bundesrat'
+    - 'das Bundesparlament'
+    - 'das Bundesverfassungsgericht'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?
+  hint: >
+    Who is the head of state of the Federal Republic of Germany?
+  answer: 'die Bundespräsidentin/der Bundespräsident'
+  options:
+    - 'die Bundeskanzlerin/der Bundeskanzler'
+    - 'die Bundespräsidentin/der Bundespräsident'
+    - 'die Bundesratspräsidentin/der Bundesratspräsident'
+    - 'die Bundestagspräsidentin/der Bundestagspräsident'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Die parlamentarische Opposition im Deutschen Bundestag …
+  hint: >
+    The parliamentary opposition in the German Bundestag …
+  answer: 'kontrolliert die Regierung.'
+  options:
+    - 'kontrolliert die Regierung.'
+    - 'entscheidet, wer Bundesministerin/Bundesminister wird.'
+    - 'bestimmt, wer im Bundesrat sitzt.'
+    - 'schlägt die Regierungschefinnen/Regierungschefs der Länder vor.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?
+  hint: >
+    What is the name in Germany for a group of members of a party in Parliament?
+  answer: 'Fraktion'
+  options:
+    - 'Verband'
+    - 'Ältestenrat'
+    - 'Fraktion'
+    - 'Opposition'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/61-90
+- question: >
+    Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …
+  hint: >
+    German federal states participate in federal legislation through …
+  answer: 'den Bundesrat.'
+  options:
+    - 'den Bundesrat.'
+    - 'die Bundesversammlung.'
+    - 'den Bundestag.'
+    - 'die Bundesregierung.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …
+  hint: >
+    In Germany a change of government in a state can affect federal policy. Governing is …
+  answer: 'schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.'
+  options:
+    - 'schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.'
+    - 'leichter, wenn dadurch neue Parteien in den Bundesrat kommen.'
+    - 'schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.'
+    - 'leichter, wenn es sich um ein reiches Bundesland handelt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was bedeutet die Abkürzung CSU in Deutschland?
+  hint: >
+    What does the abbreviation CSU stand for in Germany?
+  answer: 'Christlich Soziale Union'
+  options:
+    - 'Christlich Sichere Union'
+    - 'Christlich Süddeutsche Union'
+    - 'Christlich Sozialer Unternehmerverband'
+    - 'Christlich Soziale Union'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Je mehr "Zweitstimmen" eine Partei bei einer Bundestagswahl bekommt, desto …
+  hint: >
+    The more “second votes” a party receives in a federal election, the …
+  answer: 'mehr Sitze erhält die Partei im Parlament.'
+  options:
+    - 'weniger Erststimmen kann sie haben.'
+    - 'mehr Direktkandidaten der Partei ziehen ins Parlament ein.'
+    - 'größer ist das Risiko, eine Koalition bilden zu müssen.'
+    - 'mehr Sitze erhält die Partei im Parlament.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?
+  hint: >
+    From what age can one vote in the German federal election?
+  answer: '18'
+  options:
+    - '16'
+    - '18'
+    - '21'
+    - '23'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was gilt für die meisten Kinder in Deutschland?
+  hint: >
+    What applies to most children in Germany?
+  answer: 'Schulpflicht'
+  options:
+    - 'Wahlpflicht'
+    - 'Schulpflicht'
+    - 'Schweigepflicht'
+    - 'Religionspflicht'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?
+  hint: >
+    What do you automatically pay in Germany if you are permanently employed?
+  answer: 'Sozialversicherung'
+  options:
+    - 'Sozialversicherung'
+    - 'Sozialhilfe'
+    - 'Kindergeld'
+    - 'Wohngeld'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …
+  hint: >
+    When members of Parliament in the German Bundestag change their parliamentary group, …
+  answer: 'kann die Regierung ihre Mehrheit verlieren.'
+  options:
+    - 'dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.'
+    - 'kann die Regierung ihre Mehrheit verlieren.'
+    - 'muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.'
+    - 'dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wer bezahlt in Deutschland die Sozialversicherungen?
+  hint: >
+    Who pays for social insurance in Germany?
+  answer: 'Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer'
+  options:
+    - 'Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer'
+    - 'nur Arbeitnehmerinnen/Arbeitnehmer'
+    - 'alle Staatsangehörigen'
+    - 'nur Arbeitgeberinnen/Arbeitgeber'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was gehört nicht zur gesetzlichen Sozialversicherung?
+  hint: >
+    What does not belong to statutory social insurance?
+  answer: 'die Lebensversicherung'
+  options:
+    - 'die Lebensversicherung'
+    - 'die gesetzliche Rentenversicherung'
+    - 'die Arbeitslosenversicherung'
+    - 'die Pflegeversicherung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Gewerkschaften sind Interessenverbände der …
+  hint: >
+    Trade unions are interest groups of …
+  answer: 'Arbeitnehmerinnen und Arbeitnehmer.'
+  options:
+    - 'Jugendlichen.'
+    - 'Arbeitnehmerinnen und Arbeitnehmer.'
+    - 'Rentnerinnen und Rentner.'
+    - 'Arbeitgeberinnen und Arbeitgeber.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …
+  hint: >
+    With what can you be honoured in the Federal Republic of Germany if you have made a special contribution in the political, economic, cultural, intellectual or social field? With the …
+  answer: 'Bundesverdienstkreuz'
+  options:
+    - 'Bundesverdienstkreuz'
+    - 'Bundesadler'
+    - 'Vaterländischen Verdienstorden'
+    - 'Ehrentitel "Held der Deutschen Demokratischen Republik"'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was wird in Deutschland als "Ampelkoalition" bezeichnet? Die Zusammenarbeit …
+  hint: >
+    What is called the “traffic-light coalition” in Germany? The cooperation …
+  answer: 'von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung'
+  options:
+    - 'der Bundestagsfraktionen von CDU und CSU'
+    - 'von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung'
+    - 'von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung'
+    - 'der Bundestagsfraktionen von CDU und SPD'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?
+  hint: >
+    A woman in Germany loses her job. The reason for her dismissal must not be …
+  answer: 'Die Frau bekommt ein Kind und ihr Chef weiß das.'
+  options:
+    - 'Die Frau ist lange krank und arbeitsunfähig.'
+    - 'Die Frau kam oft zu spät zur Arbeit.'
+    - 'Die Frau erledigt private Sachen während der Arbeitszeit.'
+    - 'Die Frau bekommt ein Kind und ihr Chef weiß das.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?
+  hint: >
+    What is a task of election assistants in Germany?
+  answer: 'Sie zählen die Stimmen nach dem Ende der Wahl.'
+  options:
+    - 'Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.'
+    - 'Sie schreiben die Wahlbenachrichtigungen vor der Wahl.'
+    - 'Sie geben Zwischenergebnisse an die Medien weiter.'
+    - 'Sie zählen die Stimmen nach dem Ende der Wahl.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?
+  hint: >
+    In Germany election assistants help with elections. A task of election assistants is …
+  answer: 'Sie zählen die Stimmen nach dem Ende der Wahl.'
+  options:
+    - 'Sie helfen Kindern und alten Menschen beim Wählen.'
+    - 'Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.'
+    - 'Sie geben Zwischenergebnisse an Journalisten weiter.'
+    - 'Sie zählen die Stimmen nach dem Ende der Wahl.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Für wie viele Jahre wird der Bundestag in Deutschland gewählt?
+  hint: >
+    For how many years is the Bundestag elected in Germany?
+  answer: '4 Jahre'
+  options:
+    - '2 Jahre'
+    - '4 Jahre'
+    - '6 Jahre'
+    - '8 Jahre'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …
+  hint: >
+    In a federal election in Germany anyone may vote who …
+  answer: 'Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.'
+  options:
+    - 'in der Bundesrepublik Deutschland wohnt und wählen möchte.'
+    - 'Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.'
+    - 'seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.'
+    - 'Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?
+  hint: >
+    How often are federal elections normally held in Germany?
+  answer: 'alle vier Jahre'
+  options:
+    - 'alle drei Jahre'
+    - 'alle vier Jahre'
+    - 'alle fünf Jahre'
+    - 'alle sechs Jahre'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Für wie viele Jahre wird der Bundestag in Deutschland gewählt?
+  hint: >
+    For how many years is the Bundestag elected in Germany?
+  answer: '4 Jahre'
+  options:
+    - '2 Jahre'
+    - '3 Jahre'
+    - '4 Jahre'
+    - '5 Jahre'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Die Wahlen in Deutschland sind …
+  hint: >
+    The elections in Germany are …
+  answer: 'geheim.'
+  options:
+    - 'speziell.'
+    - 'geheim.'
+    - 'berufsbezogen.'
+    - 'geschlechtsabhängig.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wahlen in Deutschland gewinnt die Partei, die …
+  hint: >
+    In Germany the party that wins the elections is …
+  answer: 'die meisten Stimmen bekommt.'
+  options:
+    - 'die meisten Stimmen bekommt.'
+    - 'die meisten Männer mehrheitlich gewählt haben.'
+    - 'die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.'
+    - 'die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    An demokratischen Wahlen in Deutschland teilzunehmen ist …
+  hint: >
+    Participating in democratic elections in Germany is …
+  answer: 'ein Recht.'
+  options:
+    - 'eine Pflicht.'
+    - 'ein Recht.'
+    - 'ein Zwang.'
+    - 'eine Last.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Was bedeutet "aktives Wahlrecht" in Deutschland?
+  hint: >
+    What does “active voting right” mean in Germany?
+  answer: 'Man kann wählen.'
+  options:
+    - 'Man kann gewählt werden.'
+    - 'Man muss wählen gehen.'
+    - 'Man kann wählen.'
+    - 'Man muss zur Auszählung der Stimmen gehen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …
+  hint: >
+    If you are allowed to vote in a federal election in Germany, it means …
+  answer: 'aktives Wahlrecht.'
+  options:
+    - 'aktive Wahlkampagne.'
+    - 'aktives Wahlverfahren.'
+    - 'aktiver Wahlkampf.'
+    - 'aktives Wahlrecht.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?
+  hint: >
+    What percent of the second votes must parties receive at minimum to be elected to the German Bundestag?
+  answer: '5%'
+  options:
+    - '3%'
+    - '4%'
+    - '5%'
+    - '6%'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Wahlen in Deutschland sind frei. Was bedeutet das?
+  hint: >
+    Elections in Germany are free. What does that mean?
+  answer: 'Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.'
+  options:
+    - 'Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.'
+    - 'Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.'
+    - 'Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.'
+    - 'Ich kann frei entscheiden, wo ich wählen gehen möchte.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/91-120
+- question: >
+    Das Wahlsystem in Deutschland ist ein …
+  hint: >
+    The electoral system in Germany is a …
+  answer: 'Mehrheits- und Verhältniswahlrecht.'
+  options:
+    - 'Zensuswahlrecht.'
+    - 'Dreiklassenwahlrecht.'
+    - 'Mehrheits- und Verhältniswahlrecht.'
+    - 'allgemeines Männerwahlrecht.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …
+  hint: >
+    A party wants to enter the German Bundestag. It must, however, obtain a minimum share of votes. That means …
+  answer: '5%-Hürde.'
+  options:
+    - '5%-Hürde.'
+    - 'Zulassungsgrenze.'
+    - 'Basiswert.'
+    - 'Richtlinie.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …
+  hint: >
+    Under which principle are elections in Germany governed? Elections in Germany are …
+  answer: 'frei, gleich, geheim.'
+  options:
+    - 'frei, gleich, geheim.'
+    - 'offen, sicher, frei.'
+    - 'geschlossen, gleich, sicher.'
+    - 'sicher, offen, freiwillig.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was ist in Deutschland die "5%-Hürde"?
+  hint: >
+    What is Germany’s “5 % hurdle”?
+  answer: 'Mindestanteil an Wählerstimmen, um ins Parlament zu kommen'
+  options:
+    - 'Abstimmungsregelung im Bundestag für kleine Parteien'
+    - 'Anwesenheitskontrolle im Bundestag für Abstimmungen'
+    - 'Mindestanteil an Wählerstimmen, um ins Parlament zu kommen'
+    - 'Anwesenheitskontrolle im Bundesrat für Abstimmungen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Die Bundestagswahl in Deutschland ist die Wahl …
+  hint: >
+    The German federal election is the election …
+  answer: 'des Parlaments für Deutschland.'
+  options:
+    - 'der Bundeskanzlerin/des Bundeskanzlers.'
+    - 'der Parlamente der Länder.'
+    - 'des Parlaments für Deutschland.'
+    - 'der Bundespräsidentin/des Bundespräsidenten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …
+  hint: >
+    In a democracy a function of regular elections is …
+  answer: 'nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.'
+  options:
+    - 'die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.'
+    - 'nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.'
+    - 'im Land bestehende Gesetze beizubehalten.'
+    - 'den Armen mehr Macht zu geben.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?
+  hint: >
+    What do eligible voters receive in Germany before an election?
+  answer: 'eine Wahlbenachrichtigung von der Gemeinde'
+  options:
+    - 'eine Wahlbenachrichtigung von der Gemeinde'
+    - 'eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten'
+    - 'eine Benachrichtigung von der Bundesversammlung'
+    - 'eine Benachrichtigung vom Pfarramt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …
+  hint: >
+    Why is there a 5 % hurdle in the German electoral law? It exists because …
+  answer: 'viele kleine Parteien die Regierungsbildung erschweren.'
+  options:
+    - 'die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.'
+    - 'die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.'
+    - 'viele kleine Parteien die Regierungsbildung erschweren.'
+    - 'die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …
+  hint: >
+    Members of Parliament elected by the people are called …
+  answer: 'Abgeordnete.'
+  options:
+    - 'Abgeordnete.'
+    - 'Kanzlerinnen/Kanzler.'
+    - 'Botschafterinnen/Botschafter.'
+    - 'Ministerpräsidentinnen/Ministerpräsidenten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Vom Volk gewählt wird in Deutschland …
+  hint: >
+    The people elect in Germany …
+  answer: 'der Bundestag.'
+  options:
+    - 'die Bundeskanzlerin/der Bundeskanzler.'
+    - 'die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.'
+    - 'der Bundestag.'
+    - 'die Bundespräsidentin/der Bundespräsident.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?
+  image: 'images/Teil_I_q130.png'
+  hint: >
+    Which ballot would be valid in a German federal election?
+  answer: '1'
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …
+  hint: >
+    In Germany a mayor is …
+  answer: 'das Oberhaupt einer Gemeinde.'
+  options:
+    - 'die Leiterin/der Leiter einer Schule.'
+    - 'die Chefin/der Chef einer Bank.'
+    - 'das Oberhaupt einer Gemeinde.'
+    - 'die/der Vorsitzende einer Partei.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?
+  hint: >
+    Many people in Germany work voluntarily in their free time. What does that mean?
+  answer: 'Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.'
+  options:
+    - 'Sie arbeiten als Soldatinnen/Soldaten.'
+    - 'Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.'
+    - 'Sie arbeiten in der Bundesregierung.'
+    - 'Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?
+  hint: >
+    What is allowed in German federal and state elections?
+  answer: 'Man kann durch Briefwahl seine Stimme abgeben.'
+  options:
+    - 'Der Ehemann wählt für seine Frau mit.'
+    - 'Man kann durch Briefwahl seine Stimme abgeben.'
+    - 'Man kann am Wahltag telefonisch seine Stimme abgeben.'
+    - 'Kinder ab dem Alter von 14 Jahren dürfen wählen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?
+  hint: >
+    You want to abolish the bus line you always take to work. What can you do to keep the bus line?
+  answer: 'Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.'
+  options:
+    - 'Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.'
+    - 'Ich werde Mitglied in einem Sportverein und trainiere Radfahren.'
+    - 'Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.'
+    - 'Ich schreibe einen Brief an das Forstamt der Gemeinde.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Wen vertreten die Gewerkschaften in Deutschland?
+  hint: >
+    Which organizations do trade unions represent in Germany?
+  answer: 'Arbeitnehmerinnen und Arbeitnehmer'
+  options:
+    - 'große Unternehmen'
+    - 'kleine Unternehmen'
+    - 'Selbstständige'
+    - 'Arbeitnehmerinnen und Arbeitnehmer'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Sie gehen in Deutschland zum Arbeitsgericht bei …
+  hint: >
+    You go to the labor court in Germany with …
+  answer: 'ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.'
+  options:
+    - 'falscher Nebenkostenabrechnung.'
+    - 'ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.'
+    - 'Problemen mit den Nachbarinnen/Nachbarn.'
+    - 'Schwierigkeiten nach einem Verkehrsunfall.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?
+  hint: >
+    Which court in Germany handles workplace conflicts?
+  answer: 'das Arbeitsgericht'
+  options:
+    - 'das Familiengericht'
+    - 'das Strafgericht'
+    - 'das Arbeitsgericht'
+    - 'das Amtsgericht'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?
+  hint: >
+    What can I do in Germany if my employer unjustly dismisses me?
+  answer: 'Kündigungsschutzklage erheben'
+  options:
+    - 'weiterarbeiten und freundlich zur Chefin/zum Chef sein'
+    - 'ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen'
+    - 'Kündigungsschutzklage erheben'
+    - 'die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …
+  hint: >
+    When does a lawsuit arise in German courts? When someone …
+  answer: 'eine Straftat begangen hat und angeklagt wird.'
+  options:
+    - 'zu einer anderen Religion übertritt.'
+    - 'eine Straftat begangen hat und angeklagt wird.'
+    - 'eine andere Meinung als die der Regierung vertritt.'
+    - 'sein Auto falsch geparkt hat und es abgeschleppt wird.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …
+  hint: >
+    What does a lay judge in Germany do? He/she …
+  answer: 'entscheidet mit Richterinnen/Richtern über Schuld und Strafe.'
+  options:
+    - 'entscheidet mit Richterinnen/Richtern über Schuld und Strafe.'
+    - 'gibt Bürgerinnen/Bürgern rechtlichen Rat.'
+    - 'stellt Urkunden aus.'
+    - 'verteidigt die Angeklagte/den Angeklagten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?
+  hint: >
+    Who advises people in Germany on legal matters and represents them in court?
+  answer: 'eine Rechtsanwältin/ein Rechtsanwalt'
+  options:
+    - 'eine Rechtsanwältin/ein Rechtsanwalt'
+    - 'eine Richterin/ein Richter'
+    - 'eine Schöffin/ein Schöffe'
+    - 'eine Staatsanwältin/ein Staatsanwalt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …
+  hint: >
+    What is the main task of a judge in Germany? A judge …
+  answer: 'arbeitet an einem Gericht und spricht Urteile.'
+  options:
+    - 'vertritt Bürgerinnen und Bürger vor einem Gericht.'
+    - 'arbeitet an einem Gericht und spricht Urteile.'
+    - 'ändert Gesetze.'
+    - 'betreut Jugendliche vor Gericht.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Eine Richterin/ein Richter in Deutschland gehört zur …
+  hint: >
+    A judge in Germany belongs to …
+  answer: 'Judikative.'
+  options:
+    - 'Judikative.'
+    - 'Exekutive.'
+    - 'Operative.'
+    - 'Legislative.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Eine Richterin/ein Richter gehört in Deutschland zur …
+  hint: >
+    A judge in Germany belongs to …
+  answer: 'rechtsprechenden Gewalt.'
+  options:
+    - 'vollziehenden Gewalt.'
+    - 'rechtsprechenden Gewalt.'
+    - 'planenden Gewalt.'
+    - 'gesetzgebenden Gewalt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …
+  hint: >
+    In Germany state power is divided. Which state power does a judge work in? He/she works for …
+  answer: 'Judikative'
+  options:
+    - 'Judikative'
+    - 'Exekutive'
+    - 'Presse'
+    - 'Legislative'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Wie nennt man in Deutschland ein Verfahren vor einem Gericht?
+  hint: >
+    What do you call a proceeding before a court in Germany?
+  answer: 'Prozess'
+  options:
+    - 'Programm'
+    - 'Prozedur'
+    - 'Protokoll'
+    - 'Prozess'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was ist die Arbeit einer Richterin/eines Richters in Deutschland?
+  hint: >
+    What is a judge’s work in Germany?
+  answer: 'Recht sprechen'
+  options:
+    - 'Deutschland regieren'
+    - 'Recht sprechen'
+    - 'Pläne erstellen'
+    - 'Gesetze erlassen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Was ist eine Aufgabe der Polizei in Deutschland?
+  hint: >
+    What is one duty of the police in Germany?
+  answer: 'die Einhaltung von Gesetzen zu überwachen'
+  options:
+    - 'das Land zu verteidigen'
+    - 'die Bürgerinnen und Bürger abzuhören'
+    - 'die Gesetze zu beschließen'
+    - 'die Einhaltung von Gesetzen zu überwachen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/121-150
+- question: >
+    Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …
+  hint: >
+    A judge’s lay judge in Germany is …
+  answer: 'eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.'
+  options:
+    - 'die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.'
+    - 'eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.'
+    - 'ein Mitglied eines Gemeinderats.'
+    - 'eine Person, die Jura studiert hat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wer baute die Mauer in Berlin?
+  hint: >
+    Who built the Berlin Wall?
+  answer: 'die DDR'
+  options:
+    - 'Großbritannien'
+    - 'die DDR'
+    - 'die Bundesrepublik Deutschland'
+    - 'die USA'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?
+  hint: >
+    When were the Nazis under Adolf Hitler in power in Germany?
+  answer: '1933 bis 1945'
+  options:
+    - '1918 bis 1923'
+    - '1932 bis 1950'
+    - '1933 bis 1945'
+    - '1945 bis 1989'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Was war am 8. Mai 1945?
+  hint: >
+    What happened on 8 May 1945?
+  answer: 'Ende des Zweiten Weltkriegs in Europa'
+  options:
+    - 'Tod Adolf Hitlers'
+    - 'Beginn des Berliner Mauerbaus'
+    - 'Wahl von Konrad Adenauer zum Bundeskanzler'
+    - 'Ende des Zweiten Weltkriegs in Europa'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wann war der Zweite Weltkrieg zu Ende?
+  hint: >
+    When did World War II end?
+  answer: '1945'
+  options:
+    - '1933'
+    - '1945'
+    - '1949'
+    - '1961'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wann waren die Nationalsozialisten in Deutschland an der Macht?
+  hint: >
+    When were the Nazis in power in Germany?
+  answer: '1933 bis 1945'
+  options:
+    - '1888 bis 1918'
+    - '1921 bis 1934'
+    - '1933 bis 1945'
+    - '1949 bis 1963'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    In welchem Jahr wurde Hitler Reichskanzler?
+  hint: >
+    In which year did Hitler become Reich Chancellor?
+  answer: '1933'
+  options:
+    - '1923'
+    - '1927'
+    - '1933'
+    - '1936'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …
+  hint: >
+    In 1933 the Nazis with Adolf Hitler established …
+  answer: 'eine Diktatur.'
+  options:
+    - 'eine Diktatur.'
+    - 'einen demokratischen Staat.'
+    - 'eine Monarchie.'
+    - 'ein Fürstentum.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Das "Dritte Reich" war eine …
+  hint: >
+    The “Third Reich” was a …
+  answer: 'Diktatur.'
+  options:
+    - 'Diktatur.'
+    - 'Demokratie.'
+    - 'Monarchie.'
+    - 'Räterepublik.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?
+  hint: >
+    What did not exist in Germany during the Nazi period?
+  answer: 'freie Wahlen'
+  options:
+    - 'freie Wahlen'
+    - 'Pressezensur'
+    - 'willkürliche Verhaftungen'
+    - 'Verfolgung von Juden'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Welcher Krieg dauerte von 1939 bis 1945?
+  hint: >
+    Which war lasted from 1939 to 1945?
+  answer: 'der Zweite Weltkrieg'
+  options:
+    - 'der Erste Weltkrieg'
+    - 'der Zweite Weltkrieg'
+    - 'der Vietnamkrieg'
+    - 'der Golfkrieg'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Was kennzeichnete den NS-Staat? Eine Politik …
+  hint: >
+    What characterised the Nazi state? A policy …
+  answer: 'des staatlichen Rassismus'
+  options:
+    - 'des staatlichen Rassismus'
+    - 'der Meinungsfreiheit'
+    - 'der allgemeinen Religionsfreiheit'
+    - 'der Entwicklung der Demokratie'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Claus Schenk Graf von Stauffenberg wurde bekannt durch …
+  hint: >
+    Claus Schenk Graf von Stauffenberg became known through …
+  answer: 'das Attentat auf Hitler am 20. Juli 1944.'
+  options:
+    - 'eine Goldmedaille bei den Olympischen Spielen 1936.'
+    - 'den Bau des Reichstagsgebäudes.'
+    - 'den Aufbau der Wehrmacht.'
+    - 'das Attentat auf Hitler am 20. Juli 1944.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?
+  hint: >
+    In which year did the Nazis destroy synagogues and Jewish businesses in Germany?
+  answer: '1938'
+  options:
+    - '1925'
+    - '1930'
+    - '1938'
+    - '1945'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Was passierte am 9. November 1938 in Deutschland?
+  hint: >
+    What happened on 9 November 1938 in Germany?
+  answer: 'Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.'
+  options:
+    - 'Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.'
+    - 'Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.'
+    - 'Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.'
+    - 'Hitler wird Reichspräsident und lässt alle Parteien verbieten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?
+  hint: >
+    Who was the first German Federal Chancellor?
+  answer: 'Konrad Adenauer'
+  options:
+    - 'Konrad Adenauer'
+    - 'Kurt Georg Kiesinger'
+    - 'Helmut Schmidt'
+    - 'Willy Brandt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Bei welchen Demonstrationen in Deutschland riefen die Menschen "Wir sind das Volk"?
+  hint: >
+    At which demonstrations in Germany did people shout “We are the people”?
+  answer: 'bei den Montagsdemonstrationen 1989 in der DDR'
+  options:
+    - 'beim Arbeiteraufstand 1953 in der DDR'
+    - 'bei den Demonstrationen 1968 in der Bundesrepublik Deutschland'
+    - 'bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland'
+    - 'bei den Montagsdemonstrationen 1989 in der DDR'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als "Alliierte Besatzungsmächte" bezeichnet?
+  hint: >
+    Which countries were called the “Allied occupying powers” in Germany after World War II?
+  answer: 'USA, Sowjetunion, Großbritannien, Frankreich'
+  options:
+    - 'Sowjetunion, Großbritannien, Polen, Schweden'
+    - 'Frankreich, Sowjetunion, Italien, Japan'
+    - 'USA, Sowjetunion, Spanien, Portugal'
+    - 'USA, Sowjetunion, Großbritannien, Frankreich'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Welches Land war keine "Alliierte Besatzungsmacht" in Deutschland?
+  hint: >
+    Which country was not an “Allied occupying power” in Germany?
+  answer: 'Japan'
+  options:
+    - 'USA'
+    - 'Sowjetunion'
+    - 'Frankreich'
+    - 'Japan'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wann wurde die Bundesrepublik Deutschland gegründet?
+  hint: >
+    When was the Federal Republic of Germany founded?
+  answer: '1949'
+  options:
+    - '1939'
+    - '1945'
+    - '1949'
+    - '1951'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Was gab es während der Zeit des Nationalsozialismus in Deutschland?
+  hint: >
+    What existed in Germany during the Nazi period?
+  answer: 'das Verbot von Parteien'
+  options:
+    - 'das Verbot von Parteien'
+    - 'das Recht zur freien Entfaltung der Persönlichkeit'
+    - 'Pressefreiheit'
+    - 'den Schutz der Menschenwürde'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Soziale Marktwirtschaft bedeutet, die Wirtschaft …
+  hint: >
+    The social market economy means that the economy …
+  answer: 'richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.'
+  options:
+    - 'steuert sich allein nach Angebot und Nachfrage.'
+    - 'wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.'
+    - 'richtet sich nach der Nachfrage im Ausland.'
+    - 'richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    In welcher Besatzungszone wurde die DDR gegründet? In der …
+  hint: >
+    In which occupation zone was East Germany founded? In the …
+  answer: 'sowjetischen Besatzungszone'
+  options:
+    - 'amerikanischen Besatzungszone'
+    - 'französischen Besatzungszone'
+    - 'britischen Besatzungszone'
+    - 'sowjetischen Besatzungszone'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Die Bundesrepublik Deutschland ist ein Gründungsmitglied …
+  hint: >
+    The Federal Republic of Germany is a founding member …
+  answer: 'der Europäischen Union (EU).'
+  options:
+    - 'des Nordatlantikpakts (NATO).'
+    - 'der Vereinten Nationen (VN).'
+    - 'der Europäischen Union (EU).'
+    - 'des Warschauer Pakts.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wann wurde die DDR gegründet?
+  hint: >
+    When was East Germany founded?
+  answer: '1949'
+  options:
+    - '1947'
+    - '1949'
+    - '1953'
+    - '1956'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?
+  hint: >
+    How many occupation zones were there in Germany after World War II?
+  answer: '4'
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?
+  image: "images/Teil_I_q176.png"
+  hint: >
+    How were Germany's occupation zones distributed after 1945?
+  answer: '1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich'
+  options:
+    - '1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA'
+    - '1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich'
+    - '1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich'
+    - '1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?
+  hint: >
+    Which German city was divided into four sectors after World War II?
+  answer: 'Berlin'
+  options:
+    - 'München'
+    - 'Berlin'
+    - 'Dresden'
+    - 'Frankfurt/Oder'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?
+  hint: >
+    From June 1948 to May 1949 West-Berlin residents were supplied by an air-bridge. What caused that?
+  answer: 'Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.'
+  options:
+    - 'Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.'
+    - 'Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.'
+    - 'Für Großbritannien war die Versorgung über die Luftbrücke schneller.'
+    - 'Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Wie endete der Zweite Weltkrieg in Europa offiziell?
+  hint: >
+    How did World War II in Europe officially end?
+  answer: 'durch die bedingungslose Kapitulation Deutschlands'
+  options:
+    - 'mit dem Tod Adolf Hitlers'
+    - 'durch die bedingungslose Kapitulation Deutschlands'
+    - 'mit dem Rückzug der Deutschen aus den besetzten Gebieten'
+    - 'durch eine Revolution in Deutschland'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/151-180
+- question: >
+    Der erste Bundeskanzler der Bundesrepublik Deutschland war …
+  hint: >
+    The first German Federal Chancellor was …
+  answer: 'Konrad Adenauer.'
+  options:
+    - 'Ludwig Erhard.'
+    - 'Willy Brandt.'
+    - 'Konrad Adenauer.'
+    - 'Gerhard Schröder.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?
+  image: 'images/Teil_I_q181.png'
+  hint: >
+    What did Willy Brandt want to express with his 1970 kneel in the former Jewish ghetto in Warsaw?
+  answer: 'Er bat Polen und die polnischen Juden um Vergebung.'
+  options:
+    - 'Er hat sich den ehemaligen Alliierten unterworfen.'
+    - 'Er bat Polen und die polnischen Juden um Vergebung.'
+    - 'Er zeigte seine Demut vor dem Warschauer Pakt.'
+    - 'Er sprach ein Gebet am Grab des Unbekannten Soldaten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Wann war in der Bundesrepublik Deutschland das "Wirtschaftswunder"?
+  hint: >
+    When was the “economic miracle” in West Germany?
+  answer: '50er Jahre'
+  options:
+    - '40er Jahre'
+    - '50er Jahre'
+    - '70er Jahre'
+    - '80er Jahre'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Wofür stand der Ausdruck "Eiserner Vorhang"? Für die Abschottung …
+  hint: >
+    What did the phrase “Iron Curtain” stand for? For the separation …
+  answer: 'des Warschauer Pakts gegen den Westen'
+  options:
+    - 'des Warschauer Pakts gegen den Westen'
+    - 'Norddeutschlands gegen Süddeutschland'
+    - 'Nazi-Deutschlands gegen die Alliierten'
+    - 'Europas gegen die USA'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?
+  hint: >
+    In 1953 there was an uprising in East Germany that for a long time in West Germany was commemorated as a holiday. When was it?
+  answer: '17. Juni'
+  options:
+    - '1. Mai'
+    - '17. Juni'
+    - '20. Juli'
+    - '9. November'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?
+  image: 'images/Teil_I_q187.png'
+  hint: >
+    Which German state had a black-red-gold flag with a hammer, compass and wreath of ears?
+  answer: 'DDR'
+  options:
+    - 'Preußen'
+    - 'Bundesrepublik Deutschland'
+    - '"Drittes Reich"'
+    - 'DDR'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    In welchem Jahr wurde die Mauer in Berlin gebaut?
+  hint: >
+    In which year was the Berlin Wall built?
+  answer: '1961'
+  options:
+    - '1953'
+    - '1956'
+    - '1959'
+    - '1961'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Wann baute die DDR die Mauer in Berlin?
+  hint: >
+    When did East Germany build the Berlin Wall?
+  answer: '1961'
+  options:
+    - '1919'
+    - '1933'
+    - '1961'
+    - '1990'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Was bedeutet die Abkürzung DDR?
+  hint: >
+    What does the abbreviation DDR stand for?
+  answer: 'Deutsche Demokratische Republik'
+  options:
+    - 'Dritter Deutscher Rundfunk'
+    - 'Die Deutsche Republik'
+    - 'Dritte Deutsche Republik'
+    - 'Deutsche Demokratische Republik'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Wann wurde die Mauer in Berlin für alle geöffnet?
+  hint: >
+    When was the Berlin Wall opened to everyone?
+  answer: '1989'
+  options:
+    - '1987'
+    - '1989'
+    - '1992'
+    - '1995'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  hint: >
+    Which current German state formerly belonged to East Germany?
+  answer: 'Brandenburg'
+  options:
+    - 'Brandenburg'
+    - 'Bayern'
+    - 'Saarland'
+    - 'Hessen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Von 1961 bis 1989 war Berlin …
+  hint: >
+    From 1961 to 1989 Berlin …
+  answer: 'durch eine Mauer geteilt.'
+  options:
+    - 'ohne Bürgermeister.'
+    - 'ein eigener Staat.'
+    - 'durch eine Mauer geteilt.'
+    - 'nur mit dem Flugzeug erreichbar.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …
+  hint: >
+    On 3 October Germany celebrates the Day of German …
+  answer: 'Einheit.'
+  options:
+    - 'Einheit.'
+    - 'Nation.'
+    - 'Bundesländer.'
+    - 'Städte.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  hint: >
+    Which current German state formerly belonged to East Germany?
+  answer: 'Sachsen-Anhalt'
+  options:
+    - 'Hessen'
+    - 'Sachsen-Anhalt'
+    - 'Nordrhein-Westfalen'
+    - 'Saarland'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Warum nennt man die Zeit im Herbst 1989 in der DDR "Die Wende"? In dieser Zeit veränderte sich die DDR politisch …
+  hint: >
+    Why is the autumn of 1989 in East Germany called “the turning point”? In that period East Germany politically …
+  answer: 'von einer Diktatur zur Demokratie.'
+  options:
+    - 'von einer Diktatur zur Demokratie.'
+    - 'von einer liberalen Marktwirtschaft zum Sozialismus.'
+    - 'von einer Monarchie zur Sozialdemokratie.'
+    - 'von einem religiösen Staat zu einem kommunistischen Staat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  hint: >
+    Which current German state formerly belonged to East Germany?
+  answer: 'Thüringen'
+  options:
+    - 'Thüringen'
+    - 'Hessen'
+    - 'Bayern'
+    - 'Bremen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  hint: >
+    Which current German state formerly belonged to East Germany?
+  answer: 'Sachsen'
+  options:
+    - 'Bayern'
+    - 'Niedersachsen'
+    - 'Sachsen'
+    - 'Baden-Württemberg'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Mit der Abkürzung "Stasi" meinte man in der DDR …
+  hint: >
+    The abbreviation “Stasi” referred to the East German secret police.
+  answer: 'das Ministerium für Staatssicherheit.'
+  options:
+    - 'das Parlament.'
+    - 'das Ministerium für Staatssicherheit.'
+    - 'eine regierende Partei.'
+    - 'das Ministerium für Volksbildung.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  hint: >
+    Which current German state formerly belonged to East Germany?
+  answer: 'Mecklenburg-Vorpommern'
+  options:
+    - 'Hessen'
+    - 'Schleswig-Holstein'
+    - 'Mecklenburg-Vorpommern'
+    - 'Saarland'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?
+  hint: >
+    Which of the following lists contains only states that were part of former East Germany?
+  answer: 'Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen'
+  options:
+    - 'Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg'
+    - 'Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen'
+    - 'Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen'
+    - 'Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Zu wem gehörte die DDR im "Kalten Krieg"?
+  hint: >
+    To whom did East Germany belong during the Cold War?
+  answer: 'zum Warschauer Pakt'
+  options:
+    - 'zu den Westmächten'
+    - 'zum Warschauer Pakt'
+    - 'zur NATO'
+    - 'zu den blockfreien Staaten'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Wie hieß das Wirtschaftssystem der DDR?
+  hint: >
+    What was the economic system of East Germany?
+  answer: 'Planwirtschaft'
+  options:
+    - 'Marktwirtschaft'
+    - 'Planwirtschaft'
+    - 'Angebot und Nachfrage'
+    - 'Kapitalismus'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?
+  hint: >
+    How were West Germany and East Germany turned into one state?
+  answer: 'Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.'
+  options:
+    - 'Die Bundesrepublik hat die DDR besetzt.'
+    - 'Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.'
+    - 'Die westlichen Bundesländer sind der DDR beigetreten.'
+    - 'Die DDR hat die Bundesrepublik Deutschland besetzt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …
+  hint: >
+    With the accession of East Germany to the Federal Republic, the new federal states also became …
+  answer: 'zur Europäischen Union.'
+  options:
+    - 'zur Europäischen Union.'
+    - 'zum Warschauer Pakt.'
+    - 'zur OPEC.'
+    - 'zur Europäischen Verteidigungsgemeinschaft.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    In welchem Militärbündnis war die DDR Mitglied?
+  hint: >
+    In which military alliance was East Germany a member?
+  answer: 'im Warschauer Pakt'
+  options:
+    - 'in der NATO'
+    - 'im Rheinbund'
+    - 'im Warschauer Pakt'
+    - 'im Europabündnis'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Was war die "Stasi"?
+  hint: >
+    What was the “Stasi”?
+  answer: 'der Geheimdienst der DDR'
+  options:
+    - 'der Geheimdienst im "Dritten Reich"'
+    - 'eine berühmte deutsche Gedenkstätte'
+    - 'der Geheimdienst der DDR'
+    - 'ein deutscher Sportverein während des Zweiten Weltkrieges'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Welches war das Wappen der Deutschen Demokratischen Republik?
+  image: 'images/Teil_I_q209.png'
+  hint: >
+    What was the coat of arms of the German Democratic Republic?
+  answer: 'Bild 4'
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/181-210
+- question: >
+    Was ereignete sich am 17. Juni 1953 in der DDR?
+  hint: >
+    What happened on 17 June 1953 in East Germany?
+  answer: 'landesweite Streiks und ein Volksaufstand'
+  options:
+    - 'der feierliche Beitritt zum Warschauer Pakt'
+    - 'landesweite Streiks und ein Volksaufstand'
+    - 'der 1. SED-Parteitag'
+    - 'der erste Besuch Fidel Castros'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welcher Politiker steht für die "Ostverträge"?
+  hint: >
+    Which politician represented the “East treaties”?
+  answer: 'Willy Brandt'
+  options:
+    - 'Helmut Kohl'
+    - 'Willy Brandt'
+    - 'Michail Gorbatschow'
+    - 'Ludwig Erhard'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wie heißt Deutschland mit vollem Namen?
+  hint: >
+    What is the full name of Germany?
+  answer: 'Bundesrepublik Deutschland'
+  options:
+    - 'Bundesstaat Deutschland'
+    - 'Bundesländer Deutschland'
+    - 'Bundesrepublik Deutschland'
+    - 'Bundesbezirk Deutschland'
+
+- question: >
+    Wie viele Einwohner hat Deutschland?
+  hint: >
+    How many inhabitants does Germany have?
+  answer: '84 Millionen'
+  options:
+    - '70 Millionen'
+    - '78 Millionen'
+    - '84 Millionen'
+    - '90 Millionen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welche Farben hat die deutsche Flagge?
+  hint: >
+    What colours are on the German flag?
+  answer: 'schwarz-rot-gold'
+  options:
+    - 'schwarz-rot-gold'
+    - 'rot-weiß-schwarz'
+    - 'schwarz-rot-grün'
+    - 'schwarz-gelb-rot'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wer wird als "Kanzler der Deutschen Einheit" bezeichnet?
+  hint: >
+    Who is called the “Chancellor of German Unity”?
+  answer: 'Helmut Kohl'
+  options:
+    - 'Gerhard Schröder'
+    - 'Helmut Kohl'
+    - 'Konrad Adenauer'
+    - 'Helmut Schmidt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?
+  image: 'images/Teil_I_q216.png'
+  hint: >
+    Which symbol is visible in the plenary hall of the German Bundestag?
+  answer: 'der Bundesadler'
+  options:
+    - 'der Bundesadler'
+    - 'die Fahne der Stadt Berlin'
+    - 'der Reichsadler'
+    - 'die Reichskrone'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
+  hint: >
+    During which period did the German Democratic Republic exist?
+  answer: '1949 bis 1990'
+  options:
+    - '1919 bis 1927'
+    - '1933 bis 1945'
+    - '1945 bis 1961'
+    - '1949 bis 1990'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?
+  hint: >
+    How many federal states joined Germany at reunification in 1990?
+  answer: '5'
+  options:
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Die Bundesrepublik Deutschland hat die Grenzen von heute seit …
+  hint: >
+    The Federal Republic of Germany has the borders it has today since …
+  answer: '1990'
+  options:
+    - '1933'
+    - '1949'
+    - '1971'
+    - '1990'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
+  hint: >
+    27 January is an official remembrance day in Germany. What does this day commemorate?
+  answer: 'an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)'
+  options:
+    - 'an das Ende des Zweiten Weltkrieges'
+    - 'an die Verabschiedung des Grundgesetzes'
+    - 'an die Wiedervereinigung Deutschlands'
+    - 'an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
+  hint: >
+    Germany is a member of the Schengen Agreement. What does that mean?
+  answer: 'Deutsche können in viele Länder Europas ohne Passkontrolle reisen.'
+  options:
+    - 'Deutsche können in viele Länder Europas ohne Passkontrolle reisen.'
+    - 'Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.'
+    - 'Deutsche können ohne Passkontrolle in jedes Land reisen.'
+    - 'Deutsche können in jedem Land mit dem Euro bezahlen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welches Land ist ein Nachbarland von Deutschland?
+  hint: >
+    Which country is a neighbouring country of Germany?
+  answer: 'Schweiz'
+  options:
+    - 'Ungarn'
+    - 'Portugal'
+    - 'Spanien'
+    - 'Schweiz'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welches Land ist ein Nachbarland von Deutschland?
+  hint: >
+    Which country is a neighbouring country of Germany?
+  answer: 'Polen'
+  options:
+    - 'Rumänien'
+    - 'Bulgarien'
+    - 'Polen'
+    - 'Griechenland'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Was bedeutet die Abkürzung EU?
+  hint: >
+    What does EU stand for?
+  answer: 'Europäische Union'
+  options:
+    - 'Europäische Unternehmen'
+    - 'Europäische Union'
+    - 'Einheitliche Union'
+    - 'Euro Union'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?
+  hint: >
+    In which other country is there a large German-speaking population?
+  answer: 'Österreich'
+  options:
+    - 'Tschechien'
+    - 'Norwegen'
+    - 'Spanien'
+    - 'Österreich'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welche ist die Flagge der Europäischen Union?
+  image: 'images/Teil_I_q226.png'
+  hint: >
+    What is the flag of the European Union?
+  answer: 'Bild 2'
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welches Land ist ein Nachbarland von Deutschland?
+  hint: >
+    Which country is a neighbouring country of Germany?
+  answer: 'Dänemark'
+  options:
+    - 'Finnland'
+    - 'Dänemark'
+    - 'Norwegen'
+    - 'Schweden'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?
+  hint: >
+    How is the accession of East Germany to the Federal Republic in 1990 generally called?
+  answer: 'Deutsche Wiedervereinigung'
+  options:
+    - 'NATO-Osterweiterung'
+    - 'EU-Osterweiterung'
+    - 'Deutsche Wiedervereinigung'
+    - 'Europäische Gemeinschaft'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welches Land ist ein Nachbarland von Deutschland?
+  hint: >
+    Which country is a neighbouring country of Germany?
+  answer: 'Luxemburg'
+  options:
+    - 'Spanien'
+    - 'Bulgarien'
+    - 'Norwegen'
+    - 'Luxemburg'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …
+  hint: >
+    The European Parliament is regularly elected, namely every …
+  answer: '5 Jahre.'
+  options:
+    - '5 Jahre.'
+    - '6 Jahre.'
+    - '7 Jahre.'
+    - '8 Jahre.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Was bedeutet der Begriff "europäische Integration"?
+  hint: >
+    What does the term “European integration” mean?
+  answer: 'Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.'
+  options:
+    - 'Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.'
+    - 'Der Begriff meint den Einwanderungsstopp nach Europa.'
+    - 'Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.'
+    - 'Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wer wird bei der Europawahl gewählt?
+  hint: >
+    Who is elected in the European election?
+  answer: 'die Abgeordneten des Europäischen Parlaments'
+  options:
+    - 'die Europäische Kommission'
+    - 'die Länder, die in die EU eintreten dürfen'
+    - 'die Abgeordneten des Europäischen Parlaments'
+    - 'die europäische Verfassung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Welches Land ist ein Nachbarland von Deutschland?
+  hint: >
+    Which country is a neighbouring country of Germany?
+  answer: 'Tschechien'
+  options:
+    - 'Tschechien'
+    - 'Bulgarien'
+    - 'Griechenland'
+    - 'Portugal'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wo ist ein Sitz des Europäischen Parlaments?
+  hint: >
+    Where is a seat of the European Parliament?
+  answer: 'Straßburg'
+  options:
+    - 'London'
+    - 'Paris'
+    - 'Berlin'
+    - 'Straßburg'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?
+  image: 'images/Teil_I_q235.png'
+  hint: >
+    Former French President François Mitterrand and former German Chancellor Helmut Kohl commemorate the dead of both world wars together in Verdun. Which European Union goal is made clear at this meeting?
+  answer: 'Frieden und Sicherheit in den Ländern der EU'
+  options:
+    - 'Freundschaft zwischen England und Deutschland'
+    - 'Reisefreiheit in alle Länder der EU'
+    - 'Frieden und Sicherheit in den Ländern der EU'
+    - 'einheitliche Feiertage in den Ländern der EU'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Wie viele Mitgliedstaaten hat die EU heute?
+  hint: >
+    How many member states does the EU have today?
+  answer: '27'
+  options:
+    - '21'
+    - '23'
+    - '25'
+    - '27'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    2007 wurde das 50-jährige Jubiläum der "Römischen Verträge" gefeiert. Was war der Inhalt der Verträge?
+  hint: >
+    In 2007 the 50-year anniversary of the “Treaties of Rome” was celebrated. What was the content of those treaties?
+  answer: 'Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)'
+  options:
+    - 'Beitritt Deutschlands zur NATO'
+    - 'Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)'
+    - 'Verpflichtung Deutschlands zu Reparationsleistungen'
+    - 'Festlegung der Oder-Neiße-Linie als Ostgrenze'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    An welchen Orten arbeitet das Europäische Parlament?
+  hint: >
+    Where does the European Parliament work?
+  answer: 'Straßburg, Luxemburg und Brüssel'
+  options:
+    - 'Paris, London und Den Haag'
+    - 'Straßburg, Luxemburg und Brüssel'
+    - 'Rom, Bern und Wien'
+    - 'Bonn, Zürich und Mailand'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
+  hint: >
+    Through which treaties did the Federal Republic of Germany join the European Economic Community with other states?
+  answer: 'durch die "Römischen Verträge"'
+  options:
+    - 'durch die "Hamburger Verträge"'
+    - 'durch die "Römischen Verträge"'
+    - 'durch die "Pariser Verträge"'
+    - 'durch die "Londoner Verträge"'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/211-240
+- question: >
+    Seit wann bezahlt man in Deutschland mit dem Euro in bar?
+  hint: >
+    Since when have Germans paid in cash with the euro?
+  answer: '2002'
+  options:
+    - '1995'
+    - '1998'
+    - '2002'
+    - '2005'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?
+  hint: >
+    Mrs. Seger has a child. What must she do to receive parental allowance?
+  answer: 'Sie muss einen Antrag bei der Elterngeldstelle stellen.'
+  options:
+    - 'Sie muss an ihre Krankenkasse schreiben.'
+    - 'Sie muss einen Antrag bei der Elterngeldstelle stellen.'
+    - 'Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.'
+    - 'Sie muss das Arbeitsamt um Erlaubnis bitten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?
+  hint: >
+    Who decides whether a child in Germany goes to kindergarten?
+  answer: 'die Eltern/die Erziehungsberechtigten'
+  options:
+    - 'der Staat'
+    - 'die Bundesländer'
+    - 'die Eltern/die Erziehungsberechtigten'
+    - 'die Schulen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
+  hint: >
+    Maik and Sybille want to hold a street demonstration with friends at their German residence. What must they do beforehand?
+  answer: 'Sie müssen die Demonstration anmelden.'
+  options:
+    - 'Sie müssen die Demonstration anmelden.'
+    - 'Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.'
+    - 'Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.'
+    - 'Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?
+  hint: >
+    What school qualification is normally required to begin a university degree in Germany?
+  answer: 'das Abitur'
+  options:
+    - 'das Abitur'
+    - 'ein Diplom'
+    - 'die Prokura'
+    - 'eine Gesellenprüfung'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wer darf in Deutschland nicht als Paar zusammenleben?
+  hint: >
+    Who may not live together as a couple in Germany?
+  answer: 'Anne (13 Jahre) und Tim (25 Jahre)'
+  options:
+    - 'Hans (20 Jahre) und Marie (19 Jahre)'
+    - 'Tom (20 Jahre) und Klaus (45 Jahre)'
+    - 'Sofie (35 Jahre) und Lisa (40 Jahre)'
+    - 'Anne (13 Jahre) und Tim (25 Jahre)'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Ab welchem Alter ist man in Deutschland volljährig?
+  hint: >
+    At what age are you legally an adult in Germany?
+  answer: '18'
+  options:
+    - '16'
+    - '18'
+    - '19'
+    - '21'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
+  hint: >
+    A woman is pregnant. She is just before and after giving birth protected by law. What is this protection called?
+  answer: 'Mutterschutz'
+  options:
+    - 'Elternzeit'
+    - 'Mutterschutz'
+    - 'Geburtsvorbereitung'
+    - 'Wochenbett'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …
+  hint: >
+    Parenting of children is primarily the task of …
+  answer: 'der Eltern.'
+  options:
+    - 'des Staates.'
+    - 'der Eltern.'
+    - 'der Großeltern.'
+    - 'der Schulen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?
+  hint: >
+    Who is mainly responsible for child upbringing in Germany?
+  answer: 'die Eltern'
+  options:
+    - 'der Staat'
+    - 'die Eltern'
+    - 'die Verwandten'
+    - 'die Schulen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …
+  hint: >
+    In Germany you have the best chances of a well-paid job if you …
+  answer: 'gut ausgebildet ist.'
+  options:
+    - 'katholisch ist.'
+    - 'gut ausgebildet ist.'
+    - 'eine Frau ist.'
+    - 'Mitglied einer Partei ist.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wenn man in Deutschland ein Kind schlägt, …
+  hint: >
+    If you beat a child in Germany …
+  answer: 'kann man dafür bestraft werden.'
+  options:
+    - 'geht das niemanden etwas an.'
+    - 'geht das nur die Familie etwas an.'
+    - 'kann man dafür nicht bestraft werden.'
+    - 'kann man dafür bestraft werden.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    In Deutschland …
+  hint: >
+    In Germany …
+  answer: 'darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.'
+  options:
+    - 'darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.'
+    - 'kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.'
+    - 'darf man nicht wieder heiraten, wenn man einmal verheiratet war.'
+    - 'darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?
+  hint: >
+    Where must you register when you move in Germany?
+  answer: 'beim Einwohnermeldeamt'
+  options:
+    - 'beim Einwohnermeldeamt'
+    - 'beim Standesamt'
+    - 'beim Ordnungsamt'
+    - 'beim Gewerbeamt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das "Trennungsjahr" einhalten. Was bedeutet das?
+  hint: >
+    Married couples in Germany may divorce. Usually they must observe the “separation year.” What does that mean?
+  answer: 'Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.'
+  options:
+    - 'Der Scheidungsprozess dauert ein Jahr.'
+    - 'Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.'
+    - 'Das Besuchsrecht für die Kinder gilt ein Jahr.'
+    - 'Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
+  hint: >
+    In case of parenting problems, parents can get help from …
+  answer: 'Jugendamt.'
+  options:
+    - 'Ordnungsamt.'
+    - 'Schulamt.'
+    - 'Jugendamt.'
+    - 'Gesundheitsamt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?
+  hint: >
+    A couple wants to open a restaurant in Germany. What is absolutely required?
+  answer: 'eine Gaststättenerlaubnis von der zuständigen Behörde'
+  options:
+    - 'eine Erlaubnis der Polizei'
+    - 'eine Genehmigung einer Partei'
+    - 'eine Genehmigung des Einwohnermeldeamts'
+    - 'eine Gaststättenerlaubnis von der zuständigen Behörde'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …
+  hint: >
+    An adult woman wants to retake her Abitur in Germany. She can do it at …
+  answer: 'einem Abendgymnasium.'
+  options:
+    - 'einer Hochschule.'
+    - 'einem Abendgymnasium.'
+    - 'einer Hauptschule.'
+    - 'einer Privatuniversität.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Was darf das Jugendamt in Deutschland?
+  hint: >
+    What may the youth welfare office do in Germany?
+  answer: 'Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.'
+  options:
+    - 'Es entscheidet, welche Schule das Kind besucht.'
+    - 'Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.'
+    - 'Es bezahlt das Kindergeld an die Eltern.'
+    - 'Es kontrolliert, ob das Kind einen Kindergarten besucht.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …
+  hint: >
+    The Career Information Centre BIZ at the Federal Employment Agency helps with …
+  answer: 'Lehrstellensuche.'
+  options:
+    - 'Rentenberechnung.'
+    - 'Lehrstellensuche.'
+    - 'Steuererklärung.'
+    - 'Krankenversicherung.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    In Deutschland hat ein Kind in der Schule …
+  hint: >
+    In Germany a child in school …
+  answer: 'Anwesenheitspflicht.'
+  options:
+    - 'Recht auf unbegrenzte Freizeit.'
+    - 'Wahlfreiheit für alle Fächer.'
+    - 'Anspruch auf Schulgeld.'
+    - 'Anwesenheitspflicht.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …
+  hint: >
+    A man wants to retake his Abitur at age 30 in Germany. Where can he do it? At …
+  answer: 'einem Abendgymnasium.'
+  options:
+    - 'einer Hochschule.'
+    - 'einem Abendgymnasium.'
+    - 'einer Hauptschule.'
+    - 'einer Privatuniversität.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?
+  hint: >
+    What does the principle of equal treatment mean in Germany?
+  answer: 'Niemand darf z.B. wegen einer Behinderung benachteiligt werden.'
+  options:
+    - 'Niemand darf z.B. wegen einer Behinderung benachteiligt werden.'
+    - 'Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.'
+    - 'Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.'
+    - 'Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …
+  hint: >
+    In Germany youths aged 14 and over are criminally liable. This means: Youths who are 14 years or older and violate criminal law, …
+  answer: 'werden bestraft.'
+  options:
+    - 'werden bestraft.'
+    - 'werden wie Erwachsene behandelt.'
+    - 'teilen die Strafe mit ihren Eltern.'
+    - 'werden nicht bestraft.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?
+  hint: >
+    To which festival do people in Germany wear colourful costumes and masks?
+  answer: 'am Rosenmontag'
+  options:
+    - 'am Rosenmontag'
+    - 'am Maifeiertag'
+    - 'beim Oktoberfest'
+    - 'an Pfingsten'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?
+  hint: >
+    Where must you first go in Germany if you want to marry?
+  answer: 'zum Standesamt'
+  options:
+    - 'zum Einwohnermeldeamt'
+    - 'zum Ordnungsamt'
+    - 'zur Agentur für Arbeit'
+    - 'zum Standesamt'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Wann beginnt die gesetzliche Nachtruhe in Deutschland?
+  hint: >
+    When does the legal quiet-night start in Germany?
+  answer: 'um 22 Uhr'
+  options:
+    - 'wenn die Sonne untergeht'
+    - 'wenn die Nachbarn schlafen gehen'
+    - 'um 0 Uhr, Mitternacht'
+    - 'um 22 Uhr'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?
+  hint: >
+    A young woman in Germany, 22 years old, lives with her boyfriend. Her parents do not approve because they dislike the boyfriend. What can parents do?
+  answer: 'Sie müssen die Entscheidung der volljährigen Tochter respektieren.'
+  options:
+    - 'Sie müssen die Entscheidung der volljährigen Tochter respektieren.'
+    - 'Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.'
+    - 'Sie können zur Polizei gehen und die Tochter anzeigen.'
+    - 'Sie suchen einen anderen Mann für die Tochter.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?
+  hint: >
+    A young woman wants to get a driver’s licence. She fears the test because German is not her native language. What is correct?
+  answer: 'Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.'
+  options:
+    - 'Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.'
+    - 'Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.'
+    - 'Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.'
+    - 'Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …
+  hint: >
+    In Germany children from age three until first school entry have a right to …
+  answer: 'einen Kindergartenplatz.'
+  options:
+    - 'monatliches Taschengeld.'
+    - 'einen Platz in einem Sportverein.'
+    - 'einen Kindergartenplatz.'
+    - 'einen Ferienpass.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/241-270
+- question: >
+    Die Volkshochschule in Deutschland ist eine Einrichtung …
+  hint: >
+    The adult education centre in Germany is a …
+  answer: 'zur Weiterbildung.'
+  options:
+    - 'für den Religionsunterricht.'
+    - 'nur für Jugendliche.'
+    - 'zur Weiterbildung.'
+    - 'nur für Rentnerinnen und Rentner.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Was ist in Deutschland ein Brauch zu Weihnachten?
+  hint: >
+    What is a custom in Germany at Christmas?
+  answer: 'einen Tannenbaum schmücken'
+  options:
+    - 'bunte Eier verstecken'
+    - 'einen Tannenbaum schmücken'
+    - 'sich mit Masken und Kostümen verkleiden'
+    - 'Kürbisse vor die Tür stellen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Welche Lebensform ist in Deutschland nicht erlaubt?
+  hint: >
+    Which form of life is not allowed in Germany?
+  answer: 'Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.'
+  options:
+    - 'Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.'
+    - 'Zwei Frauen leben zusammen.'
+    - 'Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.'
+    - 'Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Bei Erziehungsproblemen gehen Sie in Deutschland …
+  hint: >
+    In case of parenting problems you go in Germany …
+  answer: 'zum Jugendamt.'
+  options:
+    - 'zur Ärztin/zum Arzt.'
+    - 'zum Gesundheitsamt.'
+    - 'zum Einwohnermeldeamt.'
+    - 'zum Jugendamt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?
+  hint: >
+    You deliberately opened a letter addressed to another person in Germany. What did you not observe?
+  answer: 'das Briefgeheimnis'
+  options:
+    - 'das Schweigerecht'
+    - 'das Briefgeheimnis'
+    - 'die Schweigepflicht'
+    - 'die Meinungsfreiheit'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Was braucht man in Deutschland für eine Ehescheidung?
+  hint: >
+    What do you need in Germany for a divorce?
+  answer: 'die Unterstützung einer Anwältin/eines Anwalts'
+  options:
+    - 'die Einwilligung der Eltern'
+    - 'ein Attest einer Ärztin/eines Arztes'
+    - 'die Einwilligung der Kinder'
+    - 'die Unterstützung einer Anwältin/eines Anwalts'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?
+  hint: >
+    What should you do if you are badly treated by a contact person at a German authority?
+  answer: 'Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.'
+  options:
+    - 'Ich kann nichts tun.'
+    - 'Ich muss mir diese Behandlung gefallen lassen.'
+    - 'Ich drohe der Person.'
+    - 'Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …
+  hint: >
+    A woman with a two-year old child applies for a job in Germany. What is an example of discrimination? She is denied the job solely because she …
+  answer: 'Mutter ist.'
+  options:
+    - 'kein Englisch spricht.'
+    - 'zu hohe Gehaltsvorstellungen hat.'
+    - 'keine Erfahrungen in diesem Beruf hat.'
+    - 'Mutter ist.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …
+  hint: >
+    A man in a wheelchair applied for an accountant position. What is an example of discrimination? He is denied the job solely because he …
+  answer: 'im Rollstuhl sitzt.'
+  options:
+    - 'im Rollstuhl sitzt.'
+    - 'keine Erfahrung hat.'
+    - 'zu hohe Gehaltsvorstellungen hat.'
+    - 'kein Englisch spricht.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    In den meisten Mietshäusern in Deutschland gibt es eine "Hausordnung". Was steht in einer solchen "Hausordnung"? Sie nennt …
+  hint: >
+    In most German apartments there is a “house rule.” What is written in such a rule? It states …
+  answer: 'Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.'
+  options:
+    - 'Regeln für die Benutzung öffentlicher Verkehrsmittel.'
+    - 'alle Mieterinnen und Mieter im Haus.'
+    - 'Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.'
+    - 'die Adresse des nächsten Ordnungsamtes.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …
+  hint: >
+    If you want to challenge a wrong tax assessment in Germany, you must …
+  answer: 'Einspruch einlegen.'
+  options:
+    - 'nichts machen.'
+    - 'den Bescheid wegwerfen.'
+    - 'Einspruch einlegen.'
+    - 'warten, bis ein anderer Bescheid kommt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …
+  hint: >
+    Two friends want to enter a public swimming pool in Germany. Both have dark skin and are denied entry. Which right is violated? The right to …
+  answer: 'Gleichbehandlung'
+  options:
+    - 'Meinungsfreiheit'
+    - 'Gleichbehandlung'
+    - 'Versammlungsfreiheit'
+    - 'Freizügigkeit'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?
+  hint: >
+    Which civic duty must German citizens take on when asked?
+  answer: 'Wahlhelferin/Wahlhelfer'
+  options:
+    - 'Vereinstrainerin/Vereinstrainer'
+    - 'Wahlhelferin/Wahlhelfer'
+    - 'Bibliotheksaufsicht'
+    - 'Lehrerin/Lehrer'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?
+  hint: >
+    What do you do if you receive a wrong invoice from a German authority?
+  answer: 'Ich lege Widerspruch bei der Behörde ein.'
+  options:
+    - 'Ich lasse die Rechnung liegen.'
+    - 'Ich lege Widerspruch bei der Behörde ein.'
+    - 'Ich schicke die Rechnung an die Behörde zurück.'
+    - 'Ich gehe mit der Rechnung zum Finanzamt.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?
+  hint: >
+    What has changed rapidly in the future for the skills required for work? What can you do?
+  answer: 'Erwachsene müssen auch nach der Ausbildung immer weiter lernen.'
+  options:
+    - 'Es ist egal, was man lernt.'
+    - 'Erwachsene müssen auch nach der Ausbildung immer weiter lernen.'
+    - 'Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.'
+    - 'Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?
+  hint: >
+    Mrs. Frost works as a permanently employed employee. What does she not have to pay from her salary?
+  answer: 'Umsatzsteuer'
+  options:
+    - 'Lohnsteuer'
+    - 'Beiträge zur Arbeitslosenversicherung'
+    - 'Beiträge zur Renten- und Krankenversicherung'
+    - 'Umsatzsteuer'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?
+  hint: >
+    Which organisation in a company helps employees with problems with the employer?
+  answer: 'der Betriebsrat'
+  options:
+    - 'der Betriebsrat'
+    - 'die Betriebsprüferin/der Betriebsprüfer'
+    - 'die Betriebsgruppe'
+    - 'das Betriebsmanagement'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?
+  hint: >
+    You want to terminate your employment with a company in Germany. What must you consider?
+  answer: 'die Kündigungsfrist'
+  options:
+    - 'die Gehaltszahlungen'
+    - 'die Arbeitszeit'
+    - 'die Kündigungsfrist'
+    - 'die Versicherungspflicht'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
+  hint: >
+    A man with dark skin applies for a waiter position in a German restaurant. What is an example of discrimination? He is denied the job solely because he …
+  answer: 'er eine dunkle Haut hat.'
+  options:
+    - 'seine Deutschkenntnisse zu gering sind.'
+    - 'er zu hohe Gehaltsvorstellungen hat.'
+    - 'er eine dunkle Haut hat.'
+    - 'er keine Erfahrungen im Beruf hat.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?
+  hint: >
+    You bought a television in Germany. At home you unpack it, but it does not work. The TV is broken. What can you do?
+  answer: 'den Fernseher reklamieren'
+  options:
+    - 'eine Anzeige schreiben'
+    - 'den Fernseher reklamieren'
+    - 'das Gerät ungefragt austauschen'
+    - 'die Garantie verlängern'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …
+  hint: >
+    Why must you state in the tax return whether you belong to a church or not in Germany? Because …
+  answer: 'es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.'
+  options:
+    - 'es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.'
+    - 'das für die Statistik in Deutschland wichtig ist.'
+    - 'man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.'
+    - 'die Kirche für die Steuererklärung verantwortlich ist.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?
+  hint: >
+    People in Germany live according to the principle of religious tolerance. What does that mean?
+  answer: 'Jeder kann glauben, was er möchte.'
+  options:
+    - 'Es dürfen keine Moscheen gebaut werden.'
+    - 'Alle Menschen glauben an Gott.'
+    - 'Jeder kann glauben, was er möchte.'
+    - 'Der Staat entscheidet, an welchen Gott die Menschen glauben.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Was ist in Deutschland ein Brauch zu Ostern?
+  hint: >
+    What is a custom in Germany at Easter?
+  answer: 'Eier bemalen'
+  options:
+    - 'Kürbisse vor die Tür stellen'
+    - 'einen Tannenbaum schmücken'
+    - 'Eier bemalen'
+    - 'Raketen in die Luft schießen'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Pfingsten ist ein …
+  hint: >
+    Pentecost is a …
+  answer: 'christlicher Feiertag.'
+  options:
+    - 'christlicher Feiertag.'
+    - 'deutscher Gedenktag.'
+    - 'internationaler Trauertag.'
+    - 'bayerischer Brauch.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Welche Religion hat die europäische und deutsche Kultur geprägt?
+  hint: >
+    Which religion has shaped European and German culture?
+  answer: 'das Christentum'
+  options:
+    - 'der Hinduismus'
+    - 'das Christentum'
+    - 'der Buddhismus'
+    - 'der Islam'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    In Deutschland nennt man die letzten vier Wochen vor Weihnachten …
+  hint: >
+    In Germany the last four weeks before Christmas are called …
+  answer: 'die Adventszeit.'
+  options:
+    - 'den Buß- und Bettag.'
+    - 'das Erntedankfest.'
+    - 'die Adventszeit.'
+    - 'Allerheiligen.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?
+  hint: >
+    From which country do most migrants come to Germany?
+  answer: 'Türkei'
+  options:
+    - 'Italien'
+    - 'Polen'
+    - 'Marokko'
+    - 'Türkei'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    In der DDR lebten vor allem Migrantinnen und Migranten aus …
+  hint: >
+    In East Germany they mainly lived migrants from …
+  answer: 'Vietnam, Polen, Mosambik.'
+  options:
+    - 'Vietnam, Polen, Mosambik.'
+    - 'Frankreich, Rumänien, Somalia.'
+    - 'Chile, Ungarn, Simbabwe.'
+    - 'Nordkorea, Mexiko, Ägypten.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …
+  hint: >
+    Foreign workers recruited in the 1950s and 1960s by West Germany were called …
+  answer: 'Gastarbeiterinnen/Gastarbeiter.'
+  options:
+    - 'Schwarzarbeiterinnen/Schwarzarbeiter.'
+    - 'Gastarbeiterinnen/Gastarbeiter.'
+    - 'Zeitarbeiterinnen/Zeitarbeiter.'
+    - 'Schichtarbeiterinnen/Schichtarbeiter.'
+
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/271-300
+- question: >
+    Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?
+  hint: >
+    From which country did the first guest workers come to West Germany?
+  answer: 'Italien'
+  options:
+    - 'Italien'
+    - 'Spanien'
+    - 'Portugal'
+    - 'Türkei'

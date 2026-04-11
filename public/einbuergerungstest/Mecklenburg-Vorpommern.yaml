@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?
+  image: 'images/Mecklenburg-Vorpommern_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis in Mecklenburg-Vorpommern?
+  answer: ''
+  options:
+    - 'Prignitz'
+    - 'Mecklenburgische Seenplatte'
+    - 'Vogtlandkreis'
+    - 'Rhein-Sieg-Kreis'
+
+- question: >
+    Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?
+  answer: ''
+  options:
+    - 'schwarz-rot-gold'
+    - 'blau-weiß-gelb-rot'
+    - 'grün-weiß-rot'
+    - 'schwarz-gelb'
+
+- question: >
+    Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?
+  answer: ''
+  options:
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'bei den Kirchen'
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei der Verbraucherzentrale'
+
+- question: >
+    Die Landeshauptstadt von Mecklenburg-Vorpommern heißt …
+  answer: ''
+  options:
+    - 'Greifswald.'
+    - 'Schwerin.'
+    - 'Rostock.'
+    - 'Wismar.'
+
+- question: >
+    Welches Bundesland ist Mecklenburg-Vorpommern?
+  image: 'images/Mecklenburg-Vorpommern_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

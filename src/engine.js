@@ -112,10 +112,14 @@ function parseCategoryEntry(cat, index, inheritedNumOptions, pathPrefix = 'Categ
   const hasCategories = cat.categories !== undefined;
 
   if (hasQuestions && hasCategories) {
-    throw new Error(`${label} ("${cat.name}") must have either "questions" or "categories", not both`);
+    throw new Error(
+      `${label} ("${cat.name}") must have either "questions" or "categories", not both`
+    );
   }
   if (!hasQuestions && !hasCategories) {
-    throw new Error(`${label} ("${cat.name}") must have either a "questions" path or nested "categories"`);
+    throw new Error(
+      `${label} ("${cat.name}") must have either a "questions" path or nested "categories"`
+    );
   }
 
   if (hasCategories) {
@@ -126,7 +130,7 @@ function parseCategoryEntry(cat, index, inheritedNumOptions, pathPrefix = 'Categ
       name: cat.name,
       num_options: effectiveNumOptions,
       categories: cat.categories.map((child, j) =>
-        parseCategoryEntry(child, j, effectiveNumOptions, `${label} > Sub-category`),
+        parseCategoryEntry(child, j, effectiveNumOptions, `${label} > Sub-category`)
       ),
     };
   }
@@ -169,7 +173,7 @@ export function parseMetadata(yamlContent) {
       throw new Error('"categories" must be a non-empty array');
     }
     result.categories = data.categories.map((cat, i) =>
-      parseCategoryEntry(cat, i, result.num_options),
+      parseCategoryEntry(cat, i, result.num_options)
     );
   }
 

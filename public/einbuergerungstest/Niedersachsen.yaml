@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Bundesland Niedersachsen?
+  image: 'images/Niedersachsen_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis in Niedersachsen?
+  answer: ''
+  options:
+    - 'Ammerland'
+    - 'Rhein-Sieg-Kreis'
+    - 'Nordfriesland'
+    - 'Vogtlandkreis'
+
+- question: >
+    Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Niedersachsen?
+  answer: ''
+  options:
+    - 'weiß-blau'
+    - 'schwarz-rot-gold'
+    - 'schwarz-gelb'
+    - 'blau-weiß-rot'
+
+- question: >
+    Wo können Sie sich in Niedersachsen über politische Themen informieren?
+  answer: ''
+  options:
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei der Verbraucherzentrale'
+    - 'bei den Kirchen'
+
+- question: >
+    Die Landeshauptstadt von Niedersachsen heißt …
+  answer: ''
+  options:
+    - 'Hannover.'
+    - 'Braunschweig.'
+    - 'Wolfsburg.'
+    - 'Osnabrück.'
+
+- question: >
+    Welches Bundesland ist Niedersachsen?
+  image: 'images/Niedersachsen_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat Niedersachsen nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

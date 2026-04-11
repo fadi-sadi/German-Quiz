@@ -1,7 +1,7 @@
-- question: "Which is correct? Sie hat großen Einfluss ___ die Entscheidung."
-  answer: "auf"
+- question: 'Which is correct? Sie hat großen Einfluss ___ die Entscheidung.'
+  answer: 'auf'
   options:
-    - "in"
-    - "an"
-    - "auf"
-    - "mit"
+    - 'in'
+    - 'an'
+    - 'auf'
+    - 'mit'

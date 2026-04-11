@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?
+  image: 'images/Nordrhein-Westfalen_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis in Nordrhein-Westfalen?
+  answer: ''
+  options:
+    - 'Ammerland'
+    - 'Rhein-Sieg-Kreis'
+    - 'Nordfriesland'
+    - 'Vogtlandkreis'
+
+- question: >
+    Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Nordrhein-Westfalen?
+  answer: ''
+  options:
+    - 'rot-weiß'
+    - 'grün-weiß-rot'
+    - 'schwarz-gold'
+    - 'blau-weiß-rot'
+
+- question: >
+    Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?
+  answer: ''
+  options:
+    - 'bei den Kirchen'
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei der Verbraucherzentrale'
+    - 'bei der Landeszentrale für politische Bildung'
+
+- question: >
+    Die Landeshauptstadt von Nordrhein-Westfalen heißt …
+  answer: ''
+  options:
+    - 'Köln.'
+    - 'Bonn.'
+    - 'Düsseldorf.'
+    - 'Dortmund.'
+
+- question: >
+    Welches Bundesland ist Nordrhein-Westfalen?
+  image: 'images/Nordrhein-Westfalen_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef in Nordrhein-Westfalen?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat Nordrhein-Westfalen nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

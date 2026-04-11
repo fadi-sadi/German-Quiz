@@ -1,7 +1,7 @@
-- question: "Choose the correct article: ___ Hund ist groß."
-  answer: "Der"
+- question: 'Choose the correct article: ___ Hund ist groß.'
+  answer: 'Der'
   options:
-    - "Die"
-    - "Das"
-    - "Der"
-    - "Den"
+    - 'Die'
+    - 'Das'
+    - 'Der'
+    - 'Den'

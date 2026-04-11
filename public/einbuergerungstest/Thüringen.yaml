@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Freistaat Thüringen?
+  image: 'images/Thüringen_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis in Thüringen?
+  answer: ''
+  options:
+    - 'Ammerland'
+    - 'Altötting'
+    - 'Nordfriesland'
+    - 'Wartburgkreis'
+
+- question: >
+    Für wie viele Jahre wird der Landtag in Thüringen gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Thüringen bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Thüringen?
+  answer: ''
+  options:
+    - 'blau-weiß-rot'
+    - 'weiß-rot'
+    - 'grün-weiß-rot'
+    - 'schwarz-gold'
+
+- question: >
+    Wo können Sie sich in Thüringen über politische Themen informieren?
+  answer: ''
+  options:
+    - 'bei den Kirchen'
+    - 'bei der Verbraucherzentrale'
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'beim Ordnungsamt der Gemeinde'
+
+- question: >
+    Die Landeshauptstadt von Thüringen heißt …
+  answer: ''
+  options:
+    - 'Eisenach.'
+    - 'Erfurt.'
+    - 'Gera.'
+    - 'Jena.'
+
+- question: >
+    Welches Bundesland ist Thüringen?
+  image: 'images/Thüringen_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef in Thüringen?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat Thüringen nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

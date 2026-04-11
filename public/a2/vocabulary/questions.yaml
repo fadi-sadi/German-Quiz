@@ -1,7 +1,7 @@
 - question: "What does 'billig' mean?"
-  answer: "Cheap"
+  answer: 'Cheap'
   options:
-    - "Expensive"
-    - "Cheap"
-    - "Fast"
-    - "Slow"
+    - 'Expensive'
+    - 'Cheap'
+    - 'Fast'
+    - 'Slow'

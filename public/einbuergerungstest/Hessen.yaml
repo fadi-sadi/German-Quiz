@@ -1,0 +1,91 @@
+- question: >
+    Welches Wappen gehört zum Bundesland Hessen?
+  image: 'images/Hessen_q1.png'
+  answer: ''
+  options:
+    - 'Bild 1'
+    - 'Bild 2'
+    - 'Bild 3'
+    - 'Bild 4'
+
+- question: >
+    Welches ist ein Landkreis in Hessen?
+  answer: ''
+  options:
+    - 'Ammerland'
+    - 'Altötting'
+    - 'Prignitz'
+    - 'Main-Taunus-Kreis'
+
+- question: >
+    Für wie viele Jahre wird der Landtag in Hessen gewählt?
+  answer: ''
+  options:
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+
+- question: >
+    Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?
+  answer: ''
+  options:
+    - '14'
+    - '16'
+    - '18'
+    - '20'
+
+- question: >
+    Welche Farben hat die Landesflagge von Hessen?
+  answer: ''
+  options:
+    - 'blau-weiß-rot'
+    - 'rot-weiß'
+    - 'schwarz-gold'
+    - 'grün-weiß-rot'
+
+- question: >
+    Wo können Sie sich in Hessen über politische Themen informieren?
+  answer: ''
+  options:
+    - 'bei der Landeszentrale für politische Bildung'
+    - 'bei der Verbraucherzentrale'
+    - 'beim Ordnungsamt der Gemeinde'
+    - 'bei den Kirchen'
+
+- question: >
+    Die Landeshauptstadt von Hessen heißt …
+  answer: ''
+  options:
+    - 'Kassel.'
+    - 'Darmstadt.'
+    - 'Frankfurt.'
+    - 'Wiesbaden.'
+
+- question: >
+    Welches Bundesland ist Hessen?
+  image: 'images/Hessen_q8.png'
+  answer: ''
+  options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+
+- question: >
+    Wie nennt man die Regierungschefin/den Regierungschef in Hessen?
+  answer: ''
+  options:
+    - 'Erste Ministerin/Erster Minister'
+    - 'Premierministerin/Premierminister'
+    - 'Bürgermeisterin/Bürgermeister'
+    - 'Ministerpräsidentin/Ministerpräsident'
+
+- question: >
+    Welche Ministerin/welchen Minister hat Hessen nicht?
+  answer: ''
+  options:
+    - 'Justizministerin/Justizminister'
+    - 'Außenministerin/Außenminister'
+    - 'Finanzministerin/Finanzminister'
+    - 'Innenministerin/Innenminister'

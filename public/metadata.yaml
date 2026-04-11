@@ -50,3 +50,9 @@ categories:
         questions: c1/reading-comprehension/questions.yaml
       - name: Prepositions
         questions: c1/prepositions/questions.yaml
+  - name: Leben in Deutschland
+    categories:
+      - name: General
+        questions: einbuergerungstest/Teil-I_translated.yaml
+      - name: Niedersachsen
+        questions: einbuergerungstest/Niedersachsen.yaml
