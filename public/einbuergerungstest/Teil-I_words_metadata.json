@@ -1,0 +1,6774 @@
+{
+  "zu": {
+    "occurrences": 61,
+    "translation": "to; too"
+  },
+  "für": {
+    "occurrences": 52,
+    "translation": "for"
+  },
+  "von": {
+    "occurrences": 52,
+    "translation": "from; of; by"
+  },
+  "bei": {
+    "occurrences": 45,
+    "translation": "at; near; with"
+  },
+  "an": {
+    "occurrences": 44,
+    "translation": "on; at; to"
+  },
+  "zur": {
+    "occurrences": 44,
+    "translation": "to the; for the"
+  },
+  "deutsche": {
+    "occurrences": 43,
+    "translation": "German"
+  },
+  "im": {
+    "occurrences": 43,
+    "translation": "in the"
+  },
+  "Jahre": {
+    "occurrences": 43,
+    "translation": "years"
+  },
+  "mit": {
+    "occurrences": 43,
+    "translation": "with"
+  },
+  "Bundesrepublik": {
+    "occurrences": 41,
+    "translation": "Federal Republic"
+  },
+  "kann": {
+    "occurrences": 41,
+    "translation": "can"
+  },
+  "nicht": {
+    "occurrences": 40,
+    "translation": "not"
+  },
+  "hat": {
+    "occurrences": 37,
+    "translation": "has"
+  },
+  "wenn": {
+    "occurrences": 36,
+    "translation": "if; when"
+  },
+  "Staat": {
+    "occurrences": 31,
+    "translation": "state"
+  },
+  "werden": {
+    "occurrences": 31,
+    "translation": "to become; will"
+  },
+  "zum": {
+    "occurrences": 30,
+    "translation": "to the; for the"
+  },
+  "Bundestag": {
+    "occurrences": 29,
+    "translation": "Bundestag"
+  },
+  "Deutschen": {
+    "occurrences": 28,
+    "translation": "Germans"
+  },
+  "Wie": {
+    "occurrences": 27,
+    "translation": "how; like"
+  },
+  "wird": {
+    "occurrences": 27,
+    "translation": "becomes; will be"
+  },
+  "darf": {
+    "occurrences": 26,
+    "translation": "may"
+  },
+  "muss": {
+    "occurrences": 25,
+    "translation": "must"
+  },
+  "müssen": {
+    "occurrences": 25,
+    "translation": "must; have to"
+  },
+  "nach": {
+    "occurrences": 25,
+    "translation": "after; to; according to"
+  },
+  "Partei": {
+    "occurrences": 25,
+    "translation": "party"
+  },
+  "durch": {
+    "occurrences": 24,
+    "translation": "through; by"
+  },
+  "auf": {
+    "occurrences": 23,
+    "translation": "on; onto; to"
+  },
+  "sind": {
+    "occurrences": 23,
+    "translation": "are"
+  },
+  "bis": {
+    "occurrences": 21,
+    "translation": "until"
+  },
+  "nur": {
+    "occurrences": 21,
+    "translation": "only"
+  },
+  "vor": {
+    "occurrences": 21,
+    "translation": "before; in front of"
+  },
+  "weil": {
+    "occurrences": 21,
+    "translation": "because"
+  },
+  "bedeutet": {
+    "occurrences": 20,
+    "translation": "means"
+  },
+  "haben": {
+    "occurrences": 20,
+    "translation": "to have"
+  },
+  "Regierung": {
+    "occurrences": 20,
+    "translation": "Government"
+  },
+  "um": {
+    "occurrences": 20,
+    "translation": "around; at; in order to"
+  },
+  "wählen": {
+    "occurrences": 20,
+    "translation": "to vote; to choose"
+  },
+  "Frau": {
+    "occurrences": 18,
+    "translation": "woman; Ms."
+  },
+  "Recht": {
+    "occurrences": 18,
+    "translation": "right; law"
+  },
+  "aus": {
+    "occurrences": 17,
+    "translation": "from; out of"
+  },
+  "Bundesländer": {
+    "occurrences": 17,
+    "translation": "federal states"
+  },
+  "Bürger": {
+    "occurrences": 17,
+    "translation": "citizen"
+  },
+  "Land": {
+    "occurrences": 17,
+    "translation": "country; state"
+  },
+  "Wahl": {
+    "occurrences": 17,
+    "translation": "election; choice"
+  },
+  "als": {
+    "occurrences": 16,
+    "translation": "as; than; when"
+  },
+  "am": {
+    "occurrences": 16,
+    "translation": "at the; on the"
+  },
+  "Bild": {
+    "occurrences": 16,
+    "translation": "picture; image"
+  },
+  "Bundespräsidentin": {
+    "occurrences": 16,
+    "translation": "Federal President"
+  },
+  "gehört": {
+    "occurrences": 16,
+    "translation": "belongs"
+  },
+  "Gesetze": {
+    "occurrences": 16,
+    "translation": "Laws"
+  },
+  "Menschen": {
+    "occurrences": 16,
+    "translation": "people"
+  },
+  "Parteien": {
+    "occurrences": 16,
+    "translation": "parties"
+  },
+  "war": {
+    "occurrences": 16,
+    "translation": "was"
+  },
+  "Welche": {
+    "occurrences": 16,
+    "translation": "which"
+  },
+  "Bundeskanzler": {
+    "occurrences": 15,
+    "translation": "Chancellor"
+  },
+  "gibt": {
+    "occurrences": 15,
+    "translation": "gives"
+  },
+  "können": {
+    "occurrences": 15,
+    "translation": "can; to be able to"
+  },
+  "Parlament": {
+    "occurrences": 15,
+    "translation": "Parliament"
+  },
+  "Bürgerinnen": {
+    "occurrences": 14,
+    "translation": "female citizens; citizens"
+  },
+  "möchte": {
+    "occurrences": 14,
+    "translation": "would like"
+  },
+  "Wann": {
+    "occurrences": 14,
+    "translation": "When"
+  },
+  "Bundesrat": {
+    "occurrences": 13,
+    "translation": "Federal Council"
+  },
+  "Deutschlands": {
+    "occurrences": 13,
+    "translation": "Germany's"
+  },
+  "Eltern": {
+    "occurrences": 13,
+    "translation": "parents"
+  },
+  "Europäischen": {
+    "occurrences": 13,
+    "translation": "European"
+  },
+  "Meinungsfreiheit": {
+    "occurrences": 13,
+    "translation": "Freedom of expression"
+  },
+  "dürfen": {
+    "occurrences": 12,
+    "translation": "allowed"
+  },
+  "gegen": {
+    "occurrences": 12,
+    "translation": "against"
+  },
+  "Wahlen": {
+    "occurrences": 12,
+    "translation": "elections"
+  },
+  "Abgeordneten": {
+    "occurrences": 11,
+    "translation": "MPs"
+  },
+  "beim": {
+    "occurrences": 11,
+    "translation": "at the; while"
+  },
+  "Bundeskanzlerin": {
+    "occurrences": 11,
+    "translation": "Chancellor"
+  },
+  "EU": {
+    "occurrences": 11,
+    "translation": "EU"
+  },
+  "Europäische": {
+    "occurrences": 11,
+    "translation": "European"
+  },
+  "gewählt": {
+    "occurrences": 11,
+    "translation": "elected"
+  },
+  "Kind": {
+    "occurrences": 11,
+    "translation": "child"
+  },
+  "mehr": {
+    "occurrences": 11,
+    "translation": "more"
+  },
+  "meisten": {
+    "occurrences": 11,
+    "translation": "most"
+  },
+  "tun": {
+    "occurrences": 11,
+    "translation": "do"
+  },
+  "über": {
+    "occurrences": 11,
+    "translation": "about; over"
+  },
+  "bekommt": {
+    "occurrences": 10,
+    "translation": "gets"
+  },
+  "Bundesland": {
+    "occurrences": 10,
+    "translation": "federal state"
+  },
+  "Bundespräsident": {
+    "occurrences": 10,
+    "translation": "Federal President"
+  },
+  "gehen": {
+    "occurrences": 10,
+    "translation": "go"
+  },
+  "heißt": {
+    "occurrences": 10,
+    "translation": "is called"
+  },
+  "Jahr": {
+    "occurrences": 10,
+    "translation": "year"
+  },
+  "machen": {
+    "occurrences": 10,
+    "translation": "do"
+  },
+  "oder": {
+    "occurrences": 10,
+    "translation": "or"
+  },
+  "Republik": {
+    "occurrences": 10,
+    "translation": "Republic"
+  },
+  "Arbeit": {
+    "occurrences": 9,
+    "translation": "work"
+  },
+  "Arbeitgeber": {
+    "occurrences": 9,
+    "translation": "Employer"
+  },
+  "Arbeitnehmerinnen": {
+    "occurrences": 9,
+    "translation": "female workers"
+  },
+  "Aufgabe": {
+    "occurrences": 9,
+    "translation": "task"
+  },
+  "Behörde": {
+    "occurrences": 9,
+    "translation": "Authority"
+  },
+  "Diktatur": {
+    "occurrences": 9,
+    "translation": "Dictatorship"
+  },
+  "Gericht": {
+    "occurrences": 9,
+    "translation": "court"
+  },
+  "Grundgesetz": {
+    "occurrences": 9,
+    "translation": "Basic Law"
+  },
+  "Länder": {
+    "occurrences": 9,
+    "translation": "countries; states"
+  },
+  "nennt": {
+    "occurrences": 9,
+    "translation": "calls"
+  },
+  "ohne": {
+    "occurrences": 9,
+    "translation": "without"
+  },
+  "Richterin": {
+    "occurrences": 9,
+    "translation": "Judge"
+  },
+  "vom": {
+    "occurrences": 9,
+    "translation": "from the; of the"
+  },
+  "Weltkrieg": {
+    "occurrences": 9,
+    "translation": "World War"
+  },
+  "wurde": {
+    "occurrences": 9,
+    "translation": "became"
+  },
+  "Zeit": {
+    "occurrences": 9,
+    "translation": "time"
+  },
+  "Arbeitnehmer": {
+    "occurrences": 8,
+    "translation": "employees"
+  },
+  "Bundesregierung": {
+    "occurrences": 8,
+    "translation": "Federal Government"
+  },
+  "Bundesstaat": {
+    "occurrences": 8,
+    "translation": "State"
+  },
+  "Demokratie": {
+    "occurrences": 8,
+    "translation": "Democracy"
+  },
+  "Demokratische": {
+    "occurrences": 8,
+    "translation": "Democratic"
+  },
+  "Ende": {
+    "occurrences": 8,
+    "translation": "end"
+  },
+  "Mann": {
+    "occurrences": 8,
+    "translation": "Man"
+  },
+  "mindestens": {
+    "occurrences": 8,
+    "translation": "at least"
+  },
+  "Monarchie": {
+    "occurrences": 8,
+    "translation": "Monarchy"
+  },
+  "Stimmen": {
+    "occurrences": 8,
+    "translation": "votes; voices"
+  },
+  "Verträge": {
+    "occurrences": 8,
+    "translation": "Contracts"
+  },
+  "Abgeordnete": {
+    "occurrences": 7,
+    "translation": "MPs"
+  },
+  "Abkürzung": {
+    "occurrences": 7,
+    "translation": "Abbreviation"
+  },
+  "arbeiten": {
+    "occurrences": 7,
+    "translation": "work"
+  },
+  "Bundespräsidenten": {
+    "occurrences": 7,
+    "translation": "Federal President"
+  },
+  "Bundesversammlung": {
+    "occurrences": 7,
+    "translation": "Federal Assembly"
+  },
+  "Christlich": {
+    "occurrences": 7,
+    "translation": "Christian"
+  },
+  "dafür": {
+    "occurrences": 7,
+    "translation": "for that"
+  },
+  "Fraktion": {
+    "occurrences": 7,
+    "translation": "faction"
+  },
+  "frei": {
+    "occurrences": 7,
+    "translation": "free"
+  },
+  "freie": {
+    "occurrences": 7,
+    "translation": "free"
+  },
+  "Gebiet": {
+    "occurrences": 7,
+    "translation": "area"
+  },
+  "Gewalt": {
+    "occurrences": 7,
+    "translation": "power; violence"
+  },
+  "Kinder": {
+    "occurrences": 7,
+    "translation": "Children"
+  },
+  "leben": {
+    "occurrences": 7,
+    "translation": "live"
+  },
+  "Nationalsozialisten": {
+    "occurrences": 7,
+    "translation": "National Socialists"
+  },
+  "Pakt": {
+    "occurrences": 7,
+    "translation": "Pact"
+  },
+  "Personen": {
+    "occurrences": 7,
+    "translation": "people"
+  },
+  "Polizei": {
+    "occurrences": 7,
+    "translation": "Police"
+  },
+  "Richter": {
+    "occurrences": 7,
+    "translation": "Judge"
+  },
+  "Schulen": {
+    "occurrences": 7,
+    "translation": "Schools"
+  },
+  "soziale": {
+    "occurrences": 7,
+    "translation": "social"
+  },
+  "Verfassung": {
+    "occurrences": 7,
+    "translation": "Constitution"
+  },
+  "Volk": {
+    "occurrences": 7,
+    "translation": "people"
+  },
+  "wählt": {
+    "occurrences": 7,
+    "translation": "votes; chooses"
+  },
+  "Zweiten": {
+    "occurrences": 7,
+    "translation": "Second"
+  },
+  "Besatzungszone": {
+    "occurrences": 6,
+    "translation": "occupation zone"
+  },
+  "bestraft": {
+    "occurrences": 6,
+    "translation": "punished"
+  },
+  "bezahlt": {
+    "occurrences": 6,
+    "translation": "paid"
+  },
+  "Bundestagswahl": {
+    "occurrences": 6,
+    "translation": "Federal election"
+  },
+  "Bundesverfassungsgericht": {
+    "occurrences": 6,
+    "translation": "Federal Constitutional Court"
+  },
+  "Chef": {
+    "occurrences": 6,
+    "translation": "Boss"
+  },
+  "dadurch": {
+    "occurrences": 6,
+    "translation": "thereby"
+  },
+  "dazu": {
+    "occurrences": 6,
+    "translation": "for that; about that"
+  },
+  "Deutscher": {
+    "occurrences": 6,
+    "translation": "German"
+  },
+  "Einwohner": {
+    "occurrences": 6,
+    "translation": "residents"
+  },
+  "entscheiden": {
+    "occurrences": 6,
+    "translation": "decide"
+  },
+  "entscheidet": {
+    "occurrences": 6,
+    "translation": "decides"
+  },
+  "früher": {
+    "occurrences": 6,
+    "translation": "earlier"
+  },
+  "geht": {
+    "occurrences": 6,
+    "translation": "goes"
+  },
+  "gehörte": {
+    "occurrences": 6,
+    "translation": "belonged"
+  },
+  "Geld": {
+    "occurrences": 6,
+    "translation": "money"
+  },
+  "gilt": {
+    "occurrences": 6,
+    "translation": "applies"
+  },
+  "gleich": {
+    "occurrences": 6,
+    "translation": "same"
+  },
+  "Jahren": {
+    "occurrences": 6,
+    "translation": "years"
+  },
+  "Judikative": {
+    "occurrences": 6,
+    "translation": "Judiciary"
+  },
+  "Mauer": {
+    "occurrences": 6,
+    "translation": "wall"
+  },
+  "Nachfrage": {
+    "occurrences": 6,
+    "translation": "demand"
+  },
+  "ob": {
+    "occurrences": 6,
+    "translation": "whether; if"
+  },
+  "Parlaments": {
+    "occurrences": 6,
+    "translation": "Parliament"
+  },
+  "Schule": {
+    "occurrences": 6,
+    "translation": "school"
+  },
+  "Sozialversicherung": {
+    "occurrences": 6,
+    "translation": "Social Security"
+  },
+  "Stelle": {
+    "occurrences": 6,
+    "translation": "position"
+  },
+  "verheiratet": {
+    "occurrences": 6,
+    "translation": "married"
+  },
+  "zusammen": {
+    "occurrences": 6,
+    "translation": "together"
+  },
+  "zwei": {
+    "occurrences": 6,
+    "translation": "two"
+  },
+  "ab": {
+    "occurrences": 5,
+    "translation": "from; away"
+  },
+  "Angebot": {
+    "occurrences": 5,
+    "translation": "Offer"
+  },
+  "arbeitet": {
+    "occurrences": 5,
+    "translation": "works"
+  },
+  "Arbeitgeberin": {
+    "occurrences": 5,
+    "translation": "employer"
+  },
+  "Begriff": {
+    "occurrences": 5,
+    "translation": "term"
+  },
+  "bilden": {
+    "occurrences": 5,
+    "translation": "form"
+  },
+  "Buslinie": {
+    "occurrences": 5,
+    "translation": "Bus route"
+  },
+  "Bündnis": {
+    "occurrences": 5,
+    "translation": "Alliance"
+  },
+  "demokratischen": {
+    "occurrences": 5,
+    "translation": "democratic"
+  },
+  "denn": {
+    "occurrences": 5,
+    "translation": "because; then"
+  },
+  "deshalb": {
+    "occurrences": 5,
+    "translation": "therefore"
+  },
+  "eigene": {
+    "occurrences": 5,
+    "translation": "own"
+  },
+  "Einheit": {
+    "occurrences": 5,
+    "translation": "Unity"
+  },
+  "Einwohnerinnen": {
+    "occurrences": 5,
+    "translation": "residents"
+  },
+  "erste": {
+    "occurrences": 5,
+    "translation": "first"
+  },
+  "Exekutive": {
+    "occurrences": 5,
+    "translation": "Executive branch"
+  },
+  "Fernseher": {
+    "occurrences": 5,
+    "translation": "TV"
+  },
+  "Firma": {
+    "occurrences": 5,
+    "translation": "company"
+  },
+  "gab": {
+    "occurrences": 5,
+    "translation": "gave"
+  },
+  "geben": {
+    "occurrences": 5,
+    "translation": "give"
+  },
+  "Gemeinde": {
+    "occurrences": 5,
+    "translation": "community"
+  },
+  "Gesetz": {
+    "occurrences": 5,
+    "translation": "Law"
+  },
+  "Grundrecht": {
+    "occurrences": 5,
+    "translation": "Fundamental right"
+  },
+  "halten": {
+    "occurrences": 5,
+    "translation": "hold"
+  },
+  "heutige": {
+    "occurrences": 5,
+    "translation": "today"
+  },
+  "Hürde": {
+    "occurrences": 5,
+    "translation": "hurdle"
+  },
+  "Jugendamt": {
+    "occurrences": 5,
+    "translation": "Youth Welfare Office"
+  },
+  "kontrolliert": {
+    "occurrences": 5,
+    "translation": "controlled"
+  },
+  "Legislative": {
+    "occurrences": 5,
+    "translation": "Legislature"
+  },
+  "Marktwirtschaft": {
+    "occurrences": 5,
+    "translation": "Market economy"
+  },
+  "Mehrheit": {
+    "occurrences": 5,
+    "translation": "Majority"
+  },
+  "Meinung": {
+    "occurrences": 5,
+    "translation": "opinion"
+  },
+  "Millionen": {
+    "occurrences": 5,
+    "translation": "Millions"
+  },
+  "Mitglied": {
+    "occurrences": 5,
+    "translation": "member"
+  },
+  "Nachbarland": {
+    "occurrences": 5,
+    "translation": "neighboring country"
+  },
+  "Ordnungsamt": {
+    "occurrences": 5,
+    "translation": "Public order office"
+  },
+  "Person": {
+    "occurrences": 5,
+    "translation": "person"
+  },
+  "Pressefreiheit": {
+    "occurrences": 5,
+    "translation": "Freedom of the press"
+  },
+  "Religionsgemeinschaften": {
+    "occurrences": 5,
+    "translation": "Religious communities"
+  },
+  "sozialer": {
+    "occurrences": 5,
+    "translation": "social"
+  },
+  "spricht": {
+    "occurrences": 5,
+    "translation": "speaks"
+  },
+  "Staatsgewalt": {
+    "occurrences": 5,
+    "translation": "State power"
+  },
+  "steht": {
+    "occurrences": 5,
+    "translation": "stands"
+  },
+  "teilnimmt": {
+    "occurrences": 5,
+    "translation": "participates"
+  },
+  "Tochter": {
+    "occurrences": 5,
+    "translation": "daughter"
+  },
+  "vier": {
+    "occurrences": 5,
+    "translation": "four"
+  },
+  "Warum": {
+    "occurrences": 5,
+    "translation": "Why"
+  },
+  "weiter": {
+    "occurrences": 5,
+    "translation": "further"
+  },
+  "Wo": {
+    "occurrences": 5,
+    "translation": "where"
+  },
+  "wurden": {
+    "occurrences": 5,
+    "translation": "were"
+  },
+  "Zweite": {
+    "occurrences": 5,
+    "translation": "Second"
+  },
+  "Abendgymnasium": {
+    "occurrences": 4,
+    "translation": "Evening high school"
+  },
+  "aber": {
+    "occurrences": 4,
+    "translation": "but"
+  },
+  "Abitur": {
+    "occurrences": 4,
+    "translation": "High school diploma"
+  },
+  "aktives": {
+    "occurrences": 4,
+    "translation": "active"
+  },
+  "alt": {
+    "occurrences": 4,
+    "translation": "old"
+  },
+  "Alter": {
+    "occurrences": 4,
+    "translation": "Dude"
+  },
+  "andere": {
+    "occurrences": 4,
+    "translation": "other"
+  },
+  "Arbeitgeberinnen": {
+    "occurrences": 4,
+    "translation": "employers"
+  },
+  "Aufgaben": {
+    "occurrences": 4,
+    "translation": "Tasks"
+  },
+  "Beitritt": {
+    "occurrences": 4,
+    "translation": "Joining"
+  },
+  "bekommen": {
+    "occurrences": 4,
+    "translation": "get"
+  },
+  "Beruf": {
+    "occurrences": 4,
+    "translation": "Profession"
+  },
+  "Bundeskanzleramt": {
+    "occurrences": 4,
+    "translation": "Federal Chancellery"
+  },
+  "Bundestages": {
+    "occurrences": 4,
+    "translation": "Bundestag"
+  },
+  "Bürgerin": {
+    "occurrences": 4,
+    "translation": "citizen"
+  },
+  "Chefin": {
+    "occurrences": 4,
+    "translation": "boss"
+  },
+  "damit": {
+    "occurrences": 4,
+    "translation": "with that; so that"
+  },
+  "Demonstrationen": {
+    "occurrences": 4,
+    "translation": "Demonstrations"
+  },
+  "Einwohnermeldeamt": {
+    "occurrences": 4,
+    "translation": "Residents' Registration Office"
+  },
+  "erhalten": {
+    "occurrences": 4,
+    "translation": "received"
+  },
+  "Erwachsene": {
+    "occurrences": 4,
+    "translation": "adults"
+  },
+  "Familie": {
+    "occurrences": 4,
+    "translation": "family"
+  },
+  "Finanzamt": {
+    "occurrences": 4,
+    "translation": "tax office"
+  },
+  "Führerschein": {
+    "occurrences": 4,
+    "translation": "Driving license"
+  },
+  "geheim": {
+    "occurrences": 4,
+    "translation": "secret"
+  },
+  "gehören": {
+    "occurrences": 4,
+    "translation": "belong"
+  },
+  "Gerichte": {
+    "occurrences": 4,
+    "translation": "dishes"
+  },
+  "getrennt": {
+    "occurrences": 4,
+    "translation": "separated"
+  },
+  "glauben": {
+    "occurrences": 4,
+    "translation": "believe"
+  },
+  "gut": {
+    "occurrences": 4,
+    "translation": "good"
+  },
+  "Jeder": {
+    "occurrences": 4,
+    "translation": "each; every"
+  },
+  "Jugendliche": {
+    "occurrences": 4,
+    "translation": "teenagers"
+  },
+  "Juni": {
+    "occurrences": 4,
+    "translation": "June"
+  },
+  "Kanzler": {
+    "occurrences": 4,
+    "translation": "Chancellor"
+  },
+  "kleine": {
+    "occurrences": 4,
+    "translation": "small"
+  },
+  "kleinen": {
+    "occurrences": 4,
+    "translation": "small"
+  },
+  "Krankenversicherung": {
+    "occurrences": 4,
+    "translation": "Health insurance"
+  },
+  "lernen": {
+    "occurrences": 4,
+    "translation": "learn"
+  },
+  "Macht": {
+    "occurrences": 4,
+    "translation": "Power"
+  },
+  "Menschenwürde": {
+    "occurrences": 4,
+    "translation": "human dignity"
+  },
+  "Minister": {
+    "occurrences": 4,
+    "translation": "Minister"
+  },
+  "Ministerium": {
+    "occurrences": 4,
+    "translation": "Ministry"
+  },
+  "Ministerpräsident": {
+    "occurrences": 4,
+    "translation": "Prime Minister"
+  },
+  "Ministerpräsidentin": {
+    "occurrences": 4,
+    "translation": "Prime Minister"
+  },
+  "möglich": {
+    "occurrences": 4,
+    "translation": "possible"
+  },
+  "Nationalsozialismus": {
+    "occurrences": 4,
+    "translation": "National Socialism"
+  },
+  "NATO": {
+    "occurrences": 4,
+    "translation": "NATO"
+  },
+  "noch": {
+    "occurrences": 4,
+    "translation": "yet"
+  },
+  "Rechnung": {
+    "occurrences": 4,
+    "translation": "Invoice"
+  },
+  "Rechtsstaat": {
+    "occurrences": 4,
+    "translation": "Rule of law"
+  },
+  "schlägt": {
+    "occurrences": 4,
+    "translation": "beats"
+  },
+  "schreiben": {
+    "occurrences": 4,
+    "translation": "write"
+  },
+  "Staaten": {
+    "occurrences": 4,
+    "translation": "States"
+  },
+  "stellen": {
+    "occurrences": 4,
+    "translation": "put"
+  },
+  "Stimme": {
+    "occurrences": 4,
+    "translation": "voice"
+  },
+  "Tag": {
+    "occurrences": 4,
+    "translation": "day"
+  },
+  "verlieren": {
+    "occurrences": 4,
+    "translation": "lose"
+  },
+  "Volke": {
+    "occurrences": 4,
+    "translation": "people"
+  },
+  "Wahlrecht": {
+    "occurrences": 4,
+    "translation": "Right to vote"
+  },
+  "waren": {
+    "occurrences": 4,
+    "translation": "were"
+  },
+  "Wiedervereinigung": {
+    "occurrences": 4,
+    "translation": "Reunion"
+  },
+  "während": {
+    "occurrences": 4,
+    "translation": "while"
+  },
+  "zählen": {
+    "occurrences": 4,
+    "translation": "count"
+  },
+  "ändert": {
+    "occurrences": 4,
+    "translation": "changes"
+  },
+  "äußern": {
+    "occurrences": 4,
+    "translation": "express"
+  },
+  "abgeben": {
+    "occurrences": 3,
+    "translation": "give away"
+  },
+  "abschaffen": {
+    "occurrences": 3,
+    "translation": "abolish"
+  },
+  "anmelden": {
+    "occurrences": 3,
+    "translation": "log in"
+  },
+  "Arbeitsgericht": {
+    "occurrences": 3,
+    "translation": "Labor Court"
+  },
+  "Armee": {
+    "occurrences": 3,
+    "translation": "Army"
+  },
+  "auch": {
+    "occurrences": 3,
+    "translation": "also"
+  },
+  "befinden": {
+    "occurrences": 3,
+    "translation": "located"
+  },
+  "beginnt": {
+    "occurrences": 3,
+    "translation": "begins"
+  },
+  "beigetreten": {
+    "occurrences": 3,
+    "translation": "joined"
+  },
+  "Beispiel": {
+    "occurrences": 3,
+    "translation": "Example"
+  },
+  "benachteiligt": {
+    "occurrences": 3,
+    "translation": "disadvantaged"
+  },
+  "Besatzungszonen": {
+    "occurrences": 3,
+    "translation": "Occupation zones"
+  },
+  "beschäftigt": {
+    "occurrences": 3,
+    "translation": "busy"
+  },
+  "bestimmten": {
+    "occurrences": 3,
+    "translation": "certain"
+  },
+  "bezahlen": {
+    "occurrences": 3,
+    "translation": "pay"
+  },
+  "bezeichnet": {
+    "occurrences": 3,
+    "translation": "referred to"
+  },
+  "Brauch": {
+    "occurrences": 3,
+    "translation": "custom"
+  },
+  "braucht": {
+    "occurrences": 3,
+    "translation": "needs"
+  },
+  "Bundesadler": {
+    "occurrences": 3,
+    "translation": "Federal eagle"
+  },
+  "Bundeskabinett": {
+    "occurrences": 3,
+    "translation": "Federal Cabinet"
+  },
+  "Bundeslandes": {
+    "occurrences": 3,
+    "translation": "Federal state"
+  },
+  "Bundesratspräsident": {
+    "occurrences": 3,
+    "translation": "President of the Federal Council"
+  },
+  "Bundesratspräsidentin": {
+    "occurrences": 3,
+    "translation": "President of the Federal Council"
+  },
+  "Bundestagspräsident": {
+    "occurrences": 3,
+    "translation": "President of the Bundestag"
+  },
+  "Bundestagspräsidentin": {
+    "occurrences": 3,
+    "translation": "President of the Bundestag"
+  },
+  "Bürgerinitiative": {
+    "occurrences": 3,
+    "translation": "Citizens' initiative"
+  },
+  "christlicher": {
+    "occurrences": 3,
+    "translation": "Christian"
+  },
+  "dann": {
+    "occurrences": 3,
+    "translation": "then"
+  },
+  "demokratischer": {
+    "occurrences": 3,
+    "translation": "more democratic"
+  },
+  "Demonstration": {
+    "occurrences": 3,
+    "translation": "demonstration"
+  },
+  "demonstrieren": {
+    "occurrences": 3,
+    "translation": "demonstrate"
+  },
+  "Direktive": {
+    "occurrences": 3,
+    "translation": "Directive"
+  },
+  "Diskriminierung": {
+    "occurrences": 3,
+    "translation": "Discrimination"
+  },
+  "dort": {
+    "occurrences": 3,
+    "translation": "there"
+  },
+  "dunkle": {
+    "occurrences": 3,
+    "translation": "dark"
+  },
+  "Ehegatten": {
+    "occurrences": 3,
+    "translation": "spouses"
+  },
+  "ehrenamtliche": {
+    "occurrences": 3,
+    "translation": "volunteers"
+  },
+  "Eier": {
+    "occurrences": 3,
+    "translation": "Eggs"
+  },
+  "einhalten": {
+    "occurrences": 3,
+    "translation": "comply"
+  },
+  "Einhaltung": {
+    "occurrences": 3,
+    "translation": "Compliance"
+  },
+  "etwas": {
+    "occurrences": 3,
+    "translation": "something"
+  },
+  "Euro": {
+    "occurrences": 3,
+    "translation": "euros"
+  },
+  "falscher": {
+    "occurrences": 3,
+    "translation": "wrong"
+  },
+  "Feiertag": {
+    "occurrences": 3,
+    "translation": "Holiday"
+  },
+  "fest": {
+    "occurrences": 3,
+    "translation": "fixed"
+  },
+  "Flagge": {
+    "occurrences": 3,
+    "translation": "Flag"
+  },
+  "Frauen": {
+    "occurrences": 3,
+    "translation": "women"
+  },
+  "freiwillig": {
+    "occurrences": 3,
+    "translation": "voluntary"
+  },
+  "führen": {
+    "occurrences": 3,
+    "translation": "lead"
+  },
+  "fünf": {
+    "occurrences": 3,
+    "translation": "five"
+  },
+  "Gastarbeiter": {
+    "occurrences": 3,
+    "translation": "guest workers"
+  },
+  "Gastarbeiterinnen": {
+    "occurrences": 3,
+    "translation": "guest workers"
+  },
+  "gegründet": {
+    "occurrences": 3,
+    "translation": "founded"
+  },
+  "Gehaltsvorstellungen": {
+    "occurrences": 3,
+    "translation": "Salary expectations"
+  },
+  "Geheimdienst": {
+    "occurrences": 3,
+    "translation": "Secret Service"
+  },
+  "gemeint": {
+    "occurrences": 3,
+    "translation": "meant"
+  },
+  "genannt": {
+    "occurrences": 3,
+    "translation": "called"
+  },
+  "Geschäfte": {
+    "occurrences": 3,
+    "translation": "shops"
+  },
+  "geteilt": {
+    "occurrences": 3,
+    "translation": "shared"
+  },
+  "Gleichbehandlung": {
+    "occurrences": 3,
+    "translation": "Equal treatment"
+  },
+  "Grund": {
+    "occurrences": 3,
+    "translation": "reason"
+  },
+  "Grundgesetzes": {
+    "occurrences": 3,
+    "translation": "Basic Law"
+  },
+  "Grundsatz": {
+    "occurrences": 3,
+    "translation": "principle"
+  },
+  "gründe": {
+    "occurrences": 3,
+    "translation": "reasons"
+  },
+  "heiraten": {
+    "occurrences": 3,
+    "translation": "get married"
+  },
+  "helfen": {
+    "occurrences": 3,
+    "translation": "help"
+  },
+  "heute": {
+    "occurrences": 3,
+    "translation": "today"
+  },
+  "hier": {
+    "occurrences": 3,
+    "translation": "here"
+  },
+  "hohe": {
+    "occurrences": 3,
+    "translation": "high"
+  },
+  "immer": {
+    "occurrences": 3,
+    "translation": "always"
+  },
+  "ins": {
+    "occurrences": 3,
+    "translation": "into the"
+  },
+  "Juden": {
+    "occurrences": 3,
+    "translation": "Jews"
+  },
+  "Juli": {
+    "occurrences": 3,
+    "translation": "July"
+  },
+  "Jüdische": {
+    "occurrences": 3,
+    "translation": "Jewish"
+  },
+  "Kindergeld": {
+    "occurrences": 3,
+    "translation": "Child benefit"
+  },
+  "Kirche": {
+    "occurrences": 3,
+    "translation": "Church"
+  },
+  "Kirchensteuer": {
+    "occurrences": 3,
+    "translation": "Church tax"
+  },
+  "Koalition": {
+    "occurrences": 3,
+    "translation": "Coalition"
+  },
+  "kommen": {
+    "occurrences": 3,
+    "translation": "come"
+  },
+  "lebt": {
+    "occurrences": 3,
+    "translation": "lives"
+  },
+  "Lohnsteuer": {
+    "occurrences": 3,
+    "translation": "Payroll tax"
+  },
+  "Ländern": {
+    "occurrences": 3,
+    "translation": "countries"
+  },
+  "Mai": {
+    "occurrences": 3,
+    "translation": "May"
+  },
+  "meint": {
+    "occurrences": 3,
+    "translation": "means"
+  },
+  "Mindestanteil": {
+    "occurrences": 3,
+    "translation": "Minimum share"
+  },
+  "Ministerinnen": {
+    "occurrences": 3,
+    "translation": "Ministers"
+  },
+  "Muttersprache": {
+    "occurrences": 3,
+    "translation": "native language"
+  },
+  "Nein": {
+    "occurrences": 3,
+    "translation": "No"
+  },
+  "neuen": {
+    "occurrences": 3,
+    "translation": "new"
+  },
+  "Niemand": {
+    "occurrences": 3,
+    "translation": "Nobody"
+  },
+  "offen": {
+    "occurrences": 3,
+    "translation": "open"
+  },
+  "Opposition": {
+    "occurrences": 3,
+    "translation": "opposition"
+  },
+  "Pakts": {
+    "occurrences": 3,
+    "translation": "pact"
+  },
+  "Passkontrolle": {
+    "occurrences": 3,
+    "translation": "Passport control"
+  },
+  "Planwirtschaft": {
+    "occurrences": 3,
+    "translation": "Planned economy"
+  },
+  "Presse": {
+    "occurrences": 3,
+    "translation": "Press"
+  },
+  "Pressezensur": {
+    "occurrences": 3,
+    "translation": "Press censorship"
+  },
+  "Prozess": {
+    "occurrences": 3,
+    "translation": "Process"
+  },
+  "Regeln": {
+    "occurrences": 3,
+    "translation": "Rules"
+  },
+  "Regierungspartei": {
+    "occurrences": 3,
+    "translation": "Governing party"
+  },
+  "Reich": {
+    "occurrences": 3,
+    "translation": "Rich"
+  },
+  "reisen": {
+    "occurrences": 3,
+    "translation": "travel"
+  },
+  "Religion": {
+    "occurrences": 3,
+    "translation": "religion"
+  },
+  "Religionsfreiheit": {
+    "occurrences": 3,
+    "translation": "Religious freedom"
+  },
+  "Religionsunterricht": {
+    "occurrences": 3,
+    "translation": "Religious education"
+  },
+  "richtet": {
+    "occurrences": 3,
+    "translation": "directed"
+  },
+  "Rollstuhl": {
+    "occurrences": 3,
+    "translation": "Wheelchair"
+  },
+  "Scheidung": {
+    "occurrences": 3,
+    "translation": "Divorce"
+  },
+  "Schloss": {
+    "occurrences": 3,
+    "translation": "Castle"
+  },
+  "schmücken": {
+    "occurrences": 3,
+    "translation": "decorate"
+  },
+  "Schulpolitik": {
+    "occurrences": 3,
+    "translation": "School policy"
+  },
+  "Schutz": {
+    "occurrences": 3,
+    "translation": "Protection"
+  },
+  "schwieriger": {
+    "occurrences": 3,
+    "translation": "more difficult"
+  },
+  "seit": {
+    "occurrences": 3,
+    "translation": "since"
+  },
+  "sicher": {
+    "occurrences": 3,
+    "translation": "sure"
+  },
+  "Sicherheit": {
+    "occurrences": 3,
+    "translation": "Security"
+  },
+  "sitzt": {
+    "occurrences": 3,
+    "translation": "sits"
+  },
+  "Soldaten": {
+    "occurrences": 3,
+    "translation": "soldiers"
+  },
+  "Sportverein": {
+    "occurrences": 3,
+    "translation": "Sports club"
+  },
+  "staatliche": {
+    "occurrences": 3,
+    "translation": "state"
+  },
+  "Staatsangehörigen": {
+    "occurrences": 3,
+    "translation": "nationals"
+  },
+  "Staatsoberhaupt": {
+    "occurrences": 3,
+    "translation": "Head of State"
+  },
+  "Standesamt": {
+    "occurrences": 3,
+    "translation": "registry office"
+  },
+  "Steuererklärung": {
+    "occurrences": 3,
+    "translation": "Tax return"
+  },
+  "Stimmabgabe": {
+    "occurrences": 3,
+    "translation": "Voting"
+  },
+  "Strafe": {
+    "occurrences": 3,
+    "translation": "punishment"
+  },
+  "Synagogen": {
+    "occurrences": 3,
+    "translation": "Synagogues"
+  },
+  "Tannenbaum": {
+    "occurrences": 3,
+    "translation": "Christmas tree"
+  },
+  "Uhr": {
+    "occurrences": 3,
+    "translation": "clock"
+  },
+  "Unternehmen": {
+    "occurrences": 3,
+    "translation": "Company"
+  },
+  "verantwortlich": {
+    "occurrences": 3,
+    "translation": "responsible"
+  },
+  "verhaftet": {
+    "occurrences": 3,
+    "translation": "arrested"
+  },
+  "vertreten": {
+    "occurrences": 3,
+    "translation": "represented"
+  },
+  "vertritt": {
+    "occurrences": 3,
+    "translation": "represents"
+  },
+  "wahlberechtigte": {
+    "occurrences": 3,
+    "translation": "eligible voters"
+  },
+  "Wahlhelfer": {
+    "occurrences": 3,
+    "translation": "Election worker"
+  },
+  "Wahlhelferinnen": {
+    "occurrences": 3,
+    "translation": "election workers"
+  },
+  "will": {
+    "occurrences": 3,
+    "translation": "wants"
+  },
+  "Wirtschaftsgemeinschaft": {
+    "occurrences": 3,
+    "translation": "Economic community"
+  },
+  "Wohnort": {
+    "occurrences": 3,
+    "translation": "Place of residence"
+  },
+  "wollen": {
+    "occurrences": 3,
+    "translation": "want"
+  },
+  "Wähler": {
+    "occurrences": 3,
+    "translation": "voters"
+  },
+  "Wählerstimmen": {
+    "occurrences": 3,
+    "translation": "Electoral votes"
+  },
+  "zehn": {
+    "occurrences": 3,
+    "translation": "ten"
+  },
+  "Zwang": {
+    "occurrences": 3,
+    "translation": "Coercion"
+  },
+  "Abgeordneter": {
+    "occurrences": 2,
+    "translation": "MP"
+  },
+  "abgeschafft": {
+    "occurrences": 2,
+    "translation": "abolished"
+  },
+  "Abstimmungen": {
+    "occurrences": 2,
+    "translation": "Votes"
+  },
+  "Adler": {
+    "occurrences": 2,
+    "translation": "Eagle"
+  },
+  "Adventszeit": {
+    "occurrences": 2,
+    "translation": "Advent season"
+  },
+  "Alliierte": {
+    "occurrences": 2,
+    "translation": "Allies"
+  },
+  "Alliierten": {
+    "occurrences": 2,
+    "translation": "Allies"
+  },
+  "alten": {
+    "occurrences": 2,
+    "translation": "old"
+  },
+  "amerikanischen": {
+    "occurrences": 2,
+    "translation": "American"
+  },
+  "Amt": {
+    "occurrences": 2,
+    "translation": "office"
+  },
+  "Amtsgericht": {
+    "occurrences": 2,
+    "translation": "District Court"
+  },
+  "angeklagt": {
+    "occurrences": 2,
+    "translation": "accused"
+  },
+  "Angst": {
+    "occurrences": 2,
+    "translation": "Fear"
+  },
+  "Anhänger": {
+    "occurrences": 2,
+    "translation": "trailer"
+  },
+  "Anspruch": {
+    "occurrences": 2,
+    "translation": "claim"
+  },
+  "Antrag": {
+    "occurrences": 2,
+    "translation": "Application"
+  },
+  "Anwalts": {
+    "occurrences": 2,
+    "translation": "lawyer"
+  },
+  "Anwesenheitskontrolle": {
+    "occurrences": 2,
+    "translation": "Attendance control"
+  },
+  "Anwesenheitspflicht": {
+    "occurrences": 2,
+    "translation": "Compulsory attendance"
+  },
+  "Anwältin": {
+    "occurrences": 2,
+    "translation": "lawyer"
+  },
+  "anzeigen": {
+    "occurrences": 2,
+    "translation": "show"
+  },
+  "Arbeitslosenversicherung": {
+    "occurrences": 2,
+    "translation": "Unemployment insurance"
+  },
+  "Arbeitszeit": {
+    "occurrences": 2,
+    "translation": "Working time"
+  },
+  "Asyl": {
+    "occurrences": 2,
+    "translation": "Asylum"
+  },
+  "Attentat": {
+    "occurrences": 2,
+    "translation": "assassination attempt"
+  },
+  "Ausbildung": {
+    "occurrences": 2,
+    "translation": "Training"
+  },
+  "ausgebildet": {
+    "occurrences": 2,
+    "translation": "trained"
+  },
+  "Ausgleich": {
+    "occurrences": 2,
+    "translation": "Balance"
+  },
+  "Ausland": {
+    "occurrences": 2,
+    "translation": "Abroad"
+  },
+  "aussuchen": {
+    "occurrences": 2,
+    "translation": "choose"
+  },
+  "Auswahl": {
+    "occurrences": 2,
+    "translation": "Selection"
+  },
+  "automatisch": {
+    "occurrences": 2,
+    "translation": "automatically"
+  },
+  "B": {
+    "occurrences": 2,
+    "translation": "b"
+  },
+  "bat": {
+    "occurrences": 2,
+    "translation": "asked"
+  },
+  "baut": {
+    "occurrences": 2,
+    "translation": "builds"
+  },
+  "baute": {
+    "occurrences": 2,
+    "translation": "built"
+  },
+  "bedingungslose": {
+    "occurrences": 2,
+    "translation": "unconditional"
+  },
+  "beeinflusst": {
+    "occurrences": 2,
+    "translation": "influenced"
+  },
+  "Befreiung": {
+    "occurrences": 2,
+    "translation": "Liberation"
+  },
+  "begangen": {
+    "occurrences": 2,
+    "translation": "committed"
+  },
+  "behandelt": {
+    "occurrences": 2,
+    "translation": "treated"
+  },
+  "Behauptungen": {
+    "occurrences": 2,
+    "translation": "Claims"
+  },
+  "Behinderung": {
+    "occurrences": 2,
+    "translation": "Disability"
+  },
+  "Behördenleiter": {
+    "occurrences": 2,
+    "translation": "Head of authority"
+  },
+  "Behördenleiterin": {
+    "occurrences": 2,
+    "translation": "Head of authority"
+  },
+  "Beiträge": {
+    "occurrences": 2,
+    "translation": "Posts"
+  },
+  "bemalen": {
+    "occurrences": 2,
+    "translation": "paint"
+  },
+  "Benachrichtigung": {
+    "occurrences": 2,
+    "translation": "Notification"
+  },
+  "Bescheid": {
+    "occurrences": 2,
+    "translation": "notice"
+  },
+  "beschweren": {
+    "occurrences": 2,
+    "translation": "complain"
+  },
+  "besetzt": {
+    "occurrences": 2,
+    "translation": "occupied"
+  },
+  "bestimmt": {
+    "occurrences": 2,
+    "translation": "determined"
+  },
+  "besucht": {
+    "occurrences": 2,
+    "translation": "visited"
+  },
+  "beteilige": {
+    "occurrences": 2,
+    "translation": "participate"
+  },
+  "Betriebsrat": {
+    "occurrences": 2,
+    "translation": "Works council"
+  },
+  "Bevölkerung": {
+    "occurrences": 2,
+    "translation": "population"
+  },
+  "bewirbt": {
+    "occurrences": 2,
+    "translation": "applied"
+  },
+  "Bewohner": {
+    "occurrences": 2,
+    "translation": "residents"
+  },
+  "Bewohnerinnen": {
+    "occurrences": 2,
+    "translation": "residents"
+  },
+  "Brief": {
+    "occurrences": 2,
+    "translation": "letter"
+  },
+  "Briefgeheimnis": {
+    "occurrences": 2,
+    "translation": "Confidentiality of letters"
+  },
+  "Briefwahl": {
+    "occurrences": 2,
+    "translation": "Postal voting"
+  },
+  "Bund": {
+    "occurrences": 2,
+    "translation": "Federal"
+  },
+  "Bundestagsfraktionen": {
+    "occurrences": 2,
+    "translation": "Bundestag factions"
+  },
+  "Bundestagssitz": {
+    "occurrences": 2,
+    "translation": "Bundestag seat"
+  },
+  "Bundesverdienstkreuz": {
+    "occurrences": 2,
+    "translation": "Federal Cross of Merit"
+  },
+  "bunte": {
+    "occurrences": 2,
+    "translation": "colorful"
+  },
+  "Bürgermeister": {
+    "occurrences": 2,
+    "translation": "Mayor"
+  },
+  "Bürgern": {
+    "occurrences": 2,
+    "translation": "citizens"
+  },
+  "Bürgerversammlung": {
+    "occurrences": 2,
+    "translation": "Citizens' Meeting"
+  },
+  "Christentum": {
+    "occurrences": 2,
+    "translation": "Christianity"
+  },
+  "damalige": {
+    "occurrences": 2,
+    "translation": "at that time"
+  },
+  "Danach": {
+    "occurrences": 2,
+    "translation": "after that"
+  },
+  "dass": {
+    "occurrences": 2,
+    "translation": "that"
+  },
+  "Deutsch": {
+    "occurrences": 2,
+    "translation": "German"
+  },
+  "drei": {
+    "occurrences": 2,
+    "translation": "three"
+  },
+  "Dritte": {
+    "occurrences": 2,
+    "translation": "Third"
+  },
+  "ehemaligen": {
+    "occurrences": 2,
+    "translation": "former"
+  },
+  "ehrenamtlich": {
+    "occurrences": 2,
+    "translation": "voluntary"
+  },
+  "ehrenamtlicher": {
+    "occurrences": 2,
+    "translation": "volunteer"
+  },
+  "eigenen": {
+    "occurrences": 2,
+    "translation": "own"
+  },
+  "eigenes": {
+    "occurrences": 2,
+    "translation": "own"
+  },
+  "Einheitliche": {
+    "occurrences": 2,
+    "translation": "Uniform"
+  },
+  "Einigkeit": {
+    "occurrences": 2,
+    "translation": "Unity"
+  },
+  "Einkommen": {
+    "occurrences": 2,
+    "translation": "Income"
+  },
+  "einlegen": {
+    "occurrences": 2,
+    "translation": "insert"
+  },
+  "einmal": {
+    "occurrences": 2,
+    "translation": "once"
+  },
+  "Einspruch": {
+    "occurrences": 2,
+    "translation": "Objection"
+  },
+  "Einwilligung": {
+    "occurrences": 2,
+    "translation": "Consent"
+  },
+  "einzelne": {
+    "occurrences": 2,
+    "translation": "individual"
+  },
+  "Elterngeld": {
+    "occurrences": 2,
+    "translation": "Parental allowance"
+  },
+  "Elterngeldstelle": {
+    "occurrences": 2,
+    "translation": "Parental allowance office"
+  },
+  "empfangen": {
+    "occurrences": 2,
+    "translation": "received"
+  },
+  "Englisch": {
+    "occurrences": 2,
+    "translation": "English"
+  },
+  "Entscheidung": {
+    "occurrences": 2,
+    "translation": "decision"
+  },
+  "Erfahrungen": {
+    "occurrences": 2,
+    "translation": "experiences"
+  },
+  "Erhaltung": {
+    "occurrences": 2,
+    "translation": "Conservation"
+  },
+  "erheben": {
+    "occurrences": 2,
+    "translation": "raise"
+  },
+  "erhält": {
+    "occurrences": 2,
+    "translation": "receives"
+  },
+  "Erlaubnis": {
+    "occurrences": 2,
+    "translation": "permission"
+  },
+  "erlaubt": {
+    "occurrences": 2,
+    "translation": "allowed"
+  },
+  "ermöglichen": {
+    "occurrences": 2,
+    "translation": "enable"
+  },
+  "erschweren": {
+    "occurrences": 2,
+    "translation": "complicate"
+  },
+  "Erststimmen": {
+    "occurrences": 2,
+    "translation": "First votes"
+  },
+  "Erziehungsberechtigten": {
+    "occurrences": 2,
+    "translation": "legal guardians"
+  },
+  "Erziehungsproblemen": {
+    "occurrences": 2,
+    "translation": "educational problems"
+  },
+  "Europawahl": {
+    "occurrences": 2,
+    "translation": "European elections"
+  },
+  "europäischer": {
+    "occurrences": 2,
+    "translation": "European"
+  },
+  "EWG": {
+    "occurrences": 2,
+    "translation": "EEC"
+  },
+  "Flugzeug": {
+    "occurrences": 2,
+    "translation": "Airplane"
+  },
+  "Freiheit": {
+    "occurrences": 2,
+    "translation": "Freedom"
+  },
+  "Freizeit": {
+    "occurrences": 2,
+    "translation": "Leisure"
+  },
+  "Freizügigkeit": {
+    "occurrences": 2,
+    "translation": "freedom of movement"
+  },
+  "Freund": {
+    "occurrences": 2,
+    "translation": "friend"
+  },
+  "Frieden": {
+    "occurrences": 2,
+    "translation": "Peace"
+  },
+  "Fürstentum": {
+    "occurrences": 2,
+    "translation": "Principality"
+  },
+  "garantiert": {
+    "occurrences": 2,
+    "translation": "guaranteed"
+  },
+  "Gaststättenerlaubnis": {
+    "occurrences": 2,
+    "translation": "Restaurant permit"
+  },
+  "gebaut": {
+    "occurrences": 2,
+    "translation": "built"
+  },
+  "Gedenktag": {
+    "occurrences": 2,
+    "translation": "Remembrance Day"
+  },
+  "geknüpft": {
+    "occurrences": 2,
+    "translation": "tied"
+  },
+  "Geldstrafe": {
+    "occurrences": 2,
+    "translation": "Fine"
+  },
+  "Gemeinden": {
+    "occurrences": 2,
+    "translation": "communities"
+  },
+  "Genehmigung": {
+    "occurrences": 2,
+    "translation": "Approval"
+  },
+  "gesamten": {
+    "occurrences": 2,
+    "translation": "entire"
+  },
+  "geschlagen": {
+    "occurrences": 2,
+    "translation": "beaten"
+  },
+  "Gesetzen": {
+    "occurrences": 2,
+    "translation": "laws"
+  },
+  "Gesetzgebung": {
+    "occurrences": 2,
+    "translation": "Legislation"
+  },
+  "gesetzliche": {
+    "occurrences": 2,
+    "translation": "legal"
+  },
+  "Gesundheitsamt": {
+    "occurrences": 2,
+    "translation": "Health Department"
+  },
+  "Gewerkschaften": {
+    "occurrences": 2,
+    "translation": "Trade unions"
+  },
+  "Gewissensfreiheit": {
+    "occurrences": 2,
+    "translation": "Freedom of conscience"
+  },
+  "gezwungen": {
+    "occurrences": 2,
+    "translation": "forced"
+  },
+  "geöffnet": {
+    "occurrences": 2,
+    "translation": "opened"
+  },
+  "Glaubens": {
+    "occurrences": 2,
+    "translation": "faith"
+  },
+  "gleichen": {
+    "occurrences": 2,
+    "translation": "same"
+  },
+  "Gott": {
+    "occurrences": 2,
+    "translation": "God"
+  },
+  "große": {
+    "occurrences": 2,
+    "translation": "big"
+  },
+  "Grundrechten": {
+    "occurrences": 2,
+    "translation": "fundamental rights"
+  },
+  "größten": {
+    "occurrences": 2,
+    "translation": "largest"
+  },
+  "Gründung": {
+    "occurrences": 2,
+    "translation": "Founding"
+  },
+  "Hauptaufgabe": {
+    "occurrences": 2,
+    "translation": "Main task"
+  },
+  "Hauptschule": {
+    "occurrences": 2,
+    "translation": "secondary school"
+  },
+  "Hausordnung": {
+    "occurrences": 2,
+    "translation": "House rules"
+  },
+  "Haut": {
+    "occurrences": 2,
+    "translation": "skin"
+  },
+  "Hautfarbe": {
+    "occurrences": 2,
+    "translation": "Skin color"
+  },
+  "heutigen": {
+    "occurrences": 2,
+    "translation": "today"
+  },
+  "hieß": {
+    "occurrences": 2,
+    "translation": "was called"
+  },
+  "hilft": {
+    "occurrences": 2,
+    "translation": "helps"
+  },
+  "Hochschule": {
+    "occurrences": 2,
+    "translation": "College"
+  },
+  "hungern": {
+    "occurrences": 2,
+    "translation": "starve"
+  },
+  "häufigsten": {
+    "occurrences": 2,
+    "translation": "most common"
+  },
+  "Initiative": {
+    "occurrences": 2,
+    "translation": "initiative"
+  },
+  "Interessenverbände": {
+    "occurrences": 2,
+    "translation": "Interest groups"
+  },
+  "Internet": {
+    "occurrences": 2,
+    "translation": "Internet"
+  },
+  "Ja": {
+    "occurrences": 2,
+    "translation": "yes"
+  },
+  "jedes": {
+    "occurrences": 2,
+    "translation": "each; every"
+  },
+  "jemand": {
+    "occurrences": 2,
+    "translation": "someone"
+  },
+  "jetzige": {
+    "occurrences": 2,
+    "translation": "current"
+  },
+  "junge": {
+    "occurrences": 2,
+    "translation": "boy"
+  },
+  "kamen": {
+    "occurrences": 2,
+    "translation": "came"
+  },
+  "Kanzlerin": {
+    "occurrences": 2,
+    "translation": "Chancellor"
+  },
+  "Kapitulation": {
+    "occurrences": 2,
+    "translation": "Surrender"
+  },
+  "Kindergarten": {
+    "occurrences": 2,
+    "translation": "Kindergarten"
+  },
+  "Kindergartenplatz": {
+    "occurrences": 2,
+    "translation": "Kindergarten place"
+  },
+  "Kindern": {
+    "occurrences": 2,
+    "translation": "children"
+  },
+  "Kindes": {
+    "occurrences": 2,
+    "translation": "child"
+  },
+  "kommt": {
+    "occurrences": 2,
+    "translation": "comes"
+  },
+  "Kommunen": {
+    "occurrences": 2,
+    "translation": "Municipalities"
+  },
+  "Krieg": {
+    "occurrences": 2,
+    "translation": "war"
+  },
+  "Kritik": {
+    "occurrences": 2,
+    "translation": "Criticism"
+  },
+  "kämpft": {
+    "occurrences": 2,
+    "translation": "fights"
+  },
+  "König": {
+    "occurrences": 2,
+    "translation": "King"
+  },
+  "Kündigung": {
+    "occurrences": 2,
+    "translation": "Termination"
+  },
+  "Kündigungsfrist": {
+    "occurrences": 2,
+    "translation": "Notice period"
+  },
+  "Kündigungsschutzklage": {
+    "occurrences": 2,
+    "translation": "Dismissal protection lawsuit"
+  },
+  "Kürbisse": {
+    "occurrences": 2,
+    "translation": "Pumpkins"
+  },
+  "landesweite": {
+    "occurrences": 2,
+    "translation": "nationwide"
+  },
+  "Landtagswahl": {
+    "occurrences": 2,
+    "translation": "State election"
+  },
+  "Landwege": {
+    "occurrences": 2,
+    "translation": "Land routes"
+  },
+  "lange": {
+    "occurrences": 2,
+    "translation": "long"
+  },
+  "lassen": {
+    "occurrences": 2,
+    "translation": "let"
+  },
+  "Lebensversicherung": {
+    "occurrences": 2,
+    "translation": "Life insurance"
+  },
+  "lege": {
+    "occurrences": 2,
+    "translation": "lay"
+  },
+  "Lehrer": {
+    "occurrences": 2,
+    "translation": "teacher"
+  },
+  "Lehrstellensuche": {
+    "occurrences": 2,
+    "translation": "Apprenticeship search"
+  },
+  "leichter": {
+    "occurrences": 2,
+    "translation": "lighter"
+  },
+  "letzten": {
+    "occurrences": 2,
+    "translation": "last"
+  },
+  "Luftbrücke": {
+    "occurrences": 2,
+    "translation": "Airlift"
+  },
+  "Maik": {
+    "occurrences": 2,
+    "translation": "Mike"
+  },
+  "Masken": {
+    "occurrences": 2,
+    "translation": "Masks"
+  },
+  "Mehrheits": {
+    "occurrences": 2,
+    "translation": "majority"
+  },
+  "Meinungen": {
+    "occurrences": 2,
+    "translation": "Opinions"
+  },
+  "meistens": {
+    "occurrences": 2,
+    "translation": "mostly"
+  },
+  "Migranten": {
+    "occurrences": 2,
+    "translation": "Migrants"
+  },
+  "Migrantinnen": {
+    "occurrences": 2,
+    "translation": "migrants"
+  },
+  "Montagsdemonstrationen": {
+    "occurrences": 2,
+    "translation": "Monday demonstrations"
+  },
+  "Mutter": {
+    "occurrences": 2,
+    "translation": "mother"
+  },
+  "Mutterschutz": {
+    "occurrences": 2,
+    "translation": "Maternity leave"
+  },
+  "Nachbarn": {
+    "occurrences": 2,
+    "translation": "neighbors"
+  },
+  "nachholen": {
+    "occurrences": 2,
+    "translation": "catch up"
+  },
+  "Nachteile": {
+    "occurrences": 2,
+    "translation": "Disadvantages"
+  },
+  "nehmen": {
+    "occurrences": 2,
+    "translation": "take"
+  },
+  "neue": {
+    "occurrences": 2,
+    "translation": "new"
+  },
+  "normalerweise": {
+    "occurrences": 2,
+    "translation": "usually"
+  },
+  "November": {
+    "occurrences": 2,
+    "translation": "November"
+  },
+  "Oberhaupt": {
+    "occurrences": 2,
+    "translation": "Chief"
+  },
+  "oft": {
+    "occurrences": 2,
+    "translation": "often"
+  },
+  "Opfer": {
+    "occurrences": 2,
+    "translation": "Victim"
+  },
+  "Partner": {
+    "occurrences": 2,
+    "translation": "Partner"
+  },
+  "Partnerin": {
+    "occurrences": 2,
+    "translation": "partner"
+  },
+  "Pfarramt": {
+    "occurrences": 2,
+    "translation": "Parish office"
+  },
+  "Pfingsten": {
+    "occurrences": 2,
+    "translation": "Pentecost"
+  },
+  "Pflegeversicherung": {
+    "occurrences": 2,
+    "translation": "Nursing care insurance"
+  },
+  "Politik": {
+    "occurrences": 2,
+    "translation": "Politics"
+  },
+  "Politiker": {
+    "occurrences": 2,
+    "translation": "Politician"
+  },
+  "politische": {
+    "occurrences": 2,
+    "translation": "political"
+  },
+  "polnischen": {
+    "occurrences": 2,
+    "translation": "Polish"
+  },
+  "Privatpolizei": {
+    "occurrences": 2,
+    "translation": "Private police"
+  },
+  "Privatuniversität": {
+    "occurrences": 2,
+    "translation": "Private university"
+  },
+  "Problemen": {
+    "occurrences": 2,
+    "translation": "problems"
+  },
+  "Programm": {
+    "occurrences": 2,
+    "translation": "program"
+  },
+  "Präsidentin": {
+    "occurrences": 2,
+    "translation": "President"
+  },
+  "Rassismus": {
+    "occurrences": 2,
+    "translation": "Racism"
+  },
+  "Rechtsanwalt": {
+    "occurrences": 2,
+    "translation": "Lawyer"
+  },
+  "Rechtsanwältin": {
+    "occurrences": 2,
+    "translation": "Lawyer"
+  },
+  "rechtsprechenden": {
+    "occurrences": 2,
+    "translation": "jurisprudence"
+  },
+  "Regieren": {
+    "occurrences": 2,
+    "translation": "Govern"
+  },
+  "Regierungsbildung": {
+    "occurrences": 2,
+    "translation": "Formation of government"
+  },
+  "Regierungschefinnen": {
+    "occurrences": 2,
+    "translation": "Heads of government"
+  },
+  "Regierungschefs": {
+    "occurrences": 2,
+    "translation": "Heads of Government"
+  },
+  "Regierungsparteien": {
+    "occurrences": 2,
+    "translation": "Governing parties"
+  },
+  "Regierungsvertreter": {
+    "occurrences": 2,
+    "translation": "Government representative"
+  },
+  "reklamieren": {
+    "occurrences": 2,
+    "translation": "complain"
+  },
+  "religiösen": {
+    "occurrences": 2,
+    "translation": "religious"
+  },
+  "Rentner": {
+    "occurrences": 2,
+    "translation": "Pensioners"
+  },
+  "Rentnerinnen": {
+    "occurrences": 2,
+    "translation": "pensioners"
+  },
+  "repräsentiert": {
+    "occurrences": 2,
+    "translation": "represented"
+  },
+  "respektieren": {
+    "occurrences": 2,
+    "translation": "respect"
+  },
+  "Restaurant": {
+    "occurrences": 2,
+    "translation": "Restaurant"
+  },
+  "Richterinnen": {
+    "occurrences": 2,
+    "translation": "female judges"
+  },
+  "Richtern": {
+    "occurrences": 2,
+    "translation": "judges"
+  },
+  "Richters": {
+    "occurrences": 2,
+    "translation": "judge"
+  },
+  "richtig": {
+    "occurrences": 2,
+    "translation": "correct"
+  },
+  "Rosenmontag": {
+    "occurrences": 2,
+    "translation": "Rose Monday"
+  },
+  "sagen": {
+    "occurrences": 2,
+    "translation": "say"
+  },
+  "Schulabschluss": {
+    "occurrences": 2,
+    "translation": "School graduation"
+  },
+  "Schuld": {
+    "occurrences": 2,
+    "translation": "guilt"
+  },
+  "Schulpflicht": {
+    "occurrences": 2,
+    "translation": "Compulsory schooling"
+  },
+  "schwarz-rot-gold": {
+    "occurrences": 2,
+    "translation": "black-red-gold"
+  },
+  "Schweigepflicht": {
+    "occurrences": 2,
+    "translation": "Confidentiality"
+  },
+  "Schöffe": {
+    "occurrences": 2,
+    "translation": "Aldermen"
+  },
+  "Schöffin": {
+    "occurrences": 2,
+    "translation": "Alderman"
+  },
+  "selben": {
+    "occurrences": 2,
+    "translation": "same"
+  },
+  "selber": {
+    "occurrences": 2,
+    "translation": "yourself"
+  },
+  "selbst": {
+    "occurrences": 2,
+    "translation": "yourself"
+  },
+  "Sitze": {
+    "occurrences": 2,
+    "translation": "Seats"
+  },
+  "Soldatinnen": {
+    "occurrences": 2,
+    "translation": "female soldiers"
+  },
+  "sollen": {
+    "occurrences": 2,
+    "translation": "should; are supposed to"
+  },
+  "sorgt": {
+    "occurrences": 2,
+    "translation": "ensures"
+  },
+  "sowjetischen": {
+    "occurrences": 2,
+    "translation": "Soviet"
+  },
+  "Sozialabgaben": {
+    "occurrences": 2,
+    "translation": "Social security contributions"
+  },
+  "sozialen": {
+    "occurrences": 2,
+    "translation": "social"
+  },
+  "sozialistischer": {
+    "occurrences": 2,
+    "translation": "socialist"
+  },
+  "Sprachen": {
+    "occurrences": 2,
+    "translation": "languages"
+  },
+  "sprechen": {
+    "occurrences": 2,
+    "translation": "speak"
+  },
+  "staatlichen": {
+    "occurrences": 2,
+    "translation": "state"
+  },
+  "Staatsgäste": {
+    "occurrences": 2,
+    "translation": "State guests"
+  },
+  "Staatssicherheit": {
+    "occurrences": 2,
+    "translation": "State security"
+  },
+  "Stadt": {
+    "occurrences": 2,
+    "translation": "city"
+  },
+  "Stasi": {
+    "occurrences": 2,
+    "translation": "Stasi"
+  },
+  "Steuern": {
+    "occurrences": 2,
+    "translation": "Taxes"
+  },
+  "Straftat": {
+    "occurrences": 2,
+    "translation": "crime"
+  },
+  "Straße": {
+    "occurrences": 2,
+    "translation": "street"
+  },
+  "Straßen": {
+    "occurrences": 2,
+    "translation": "streets"
+  },
+  "Streiks": {
+    "occurrences": 2,
+    "translation": "strikes"
+  },
+  "stärksten": {
+    "occurrences": 2,
+    "translation": "strongest"
+  },
+  "Sybille": {
+    "occurrences": 2,
+    "translation": "Sybil"
+  },
+  "teilnehmen": {
+    "occurrences": 2,
+    "translation": "participate"
+  },
+  "Theorie-Prüfung": {
+    "occurrences": 2,
+    "translation": "Theory exam"
+  },
+  "Tod": {
+    "occurrences": 2,
+    "translation": "Death"
+  },
+  "tragen": {
+    "occurrences": 2,
+    "translation": "wear"
+  },
+  "tätig": {
+    "occurrences": 2,
+    "translation": "active"
+  },
+  "Tür": {
+    "occurrences": 2,
+    "translation": "door"
+  },
+  "Umsatzsteuer": {
+    "occurrences": 2,
+    "translation": "Sales tax"
+  },
+  "Unantastbarkeit": {
+    "occurrences": 2,
+    "translation": "Inviolability"
+  },
+  "unbezahlt": {
+    "occurrences": 2,
+    "translation": "unpaid"
+  },
+  "ungerechtfertigter": {
+    "occurrences": 2,
+    "translation": "more unjustified"
+  },
+  "Ungleichbehandlung": {
+    "occurrences": 2,
+    "translation": "Unequal treatment"
+  },
+  "unterbrach": {
+    "occurrences": 2,
+    "translation": "interrupted"
+  },
+  "unterschiedlichen": {
+    "occurrences": 2,
+    "translation": "different"
+  },
+  "Unterstützung": {
+    "occurrences": 2,
+    "translation": "Support"
+  },
+  "Urlaubsreisen": {
+    "occurrences": 2,
+    "translation": "Holiday trips"
+  },
+  "Urteile": {
+    "occurrences": 2,
+    "translation": "Judgments"
+  },
+  "verbieten": {
+    "occurrences": 2,
+    "translation": "ban"
+  },
+  "Verbot": {
+    "occurrences": 2,
+    "translation": "Ban"
+  },
+  "verboten": {
+    "occurrences": 2,
+    "translation": "forbidden"
+  },
+  "Verbreitung": {
+    "occurrences": 2,
+    "translation": "Spread"
+  },
+  "Verbänden": {
+    "occurrences": 2,
+    "translation": "associations"
+  },
+  "Vereinen": {
+    "occurrences": 2,
+    "translation": "Unite"
+  },
+  "verfassungswidrig": {
+    "occurrences": 2,
+    "translation": "unconstitutional"
+  },
+  "Vergebung": {
+    "occurrences": 2,
+    "translation": "Forgiveness"
+  },
+  "Verhältniswahlrecht": {
+    "occurrences": 2,
+    "translation": "Proportional representation"
+  },
+  "Verkehr": {
+    "occurrences": 2,
+    "translation": "Traffic"
+  },
+  "Vernichtungslagers": {
+    "occurrences": 2,
+    "translation": "extermination camp"
+  },
+  "Versammlungsfreiheit": {
+    "occurrences": 2,
+    "translation": "Freedom of assembly"
+  },
+  "verschiedene": {
+    "occurrences": 2,
+    "translation": "various"
+  },
+  "versorgt": {
+    "occurrences": 2,
+    "translation": "supplied"
+  },
+  "Versorgung": {
+    "occurrences": 2,
+    "translation": "Supply"
+  },
+  "verändert": {
+    "occurrences": 2,
+    "translation": "changed"
+  },
+  "vielleicht": {
+    "occurrences": 2,
+    "translation": "maybe"
+  },
+  "Volksaufstand": {
+    "occurrences": 2,
+    "translation": "popular uprising"
+  },
+  "Volkssouveränität": {
+    "occurrences": 2,
+    "translation": "Popular sovereignty"
+  },
+  "volljährigen": {
+    "occurrences": 2,
+    "translation": "adult"
+  },
+  "voneinander": {
+    "occurrences": 2,
+    "translation": "from each other"
+  },
+  "Wahlbenachrichtigung": {
+    "occurrences": 2,
+    "translation": "Election notification"
+  },
+  "Wahlhelferin": {
+    "occurrences": 2,
+    "translation": "Election worker"
+  },
+  "Wahlhelfern": {
+    "occurrences": 2,
+    "translation": "poll workers"
+  },
+  "Wahlkampf": {
+    "occurrences": 2,
+    "translation": "Election campaign"
+  },
+  "Wappen": {
+    "occurrences": 2,
+    "translation": "coat of arms"
+  },
+  "Wechsel": {
+    "occurrences": 2,
+    "translation": "Change"
+  },
+  "wechseln": {
+    "occurrences": 2,
+    "translation": "change"
+  },
+  "weder": {
+    "occurrences": 2,
+    "translation": "neither"
+  },
+  "wegen": {
+    "occurrences": 2,
+    "translation": "because of"
+  },
+  "Weihnachten": {
+    "occurrences": 2,
+    "translation": "Christmas"
+  },
+  "weiß": {
+    "occurrences": 2,
+    "translation": "white"
+  },
+  "Weiterbildung": {
+    "occurrences": 2,
+    "translation": "Further training"
+  },
+  "Weltkrieges": {
+    "occurrences": 2,
+    "translation": "World War"
+  },
+  "Weltkriegs": {
+    "occurrences": 2,
+    "translation": "World War"
+  },
+  "wende": {
+    "occurrences": 2,
+    "translation": "turn"
+  },
+  "Westen": {
+    "occurrences": 2,
+    "translation": "West"
+  },
+  "wichtig": {
+    "occurrences": 2,
+    "translation": "important"
+  },
+  "Widerspruch": {
+    "occurrences": 2,
+    "translation": "contradiction"
+  },
+  "wieder": {
+    "occurrences": 2,
+    "translation": "again"
+  },
+  "Willen": {
+    "occurrences": 2,
+    "translation": "will"
+  },
+  "Wirtschaft": {
+    "occurrences": 2,
+    "translation": "Economy"
+  },
+  "Wohnung": {
+    "occurrences": 2,
+    "translation": "apartment"
+  },
+  "Womit": {
+    "occurrences": 2,
+    "translation": "With what"
+  },
+  "Wählerin": {
+    "occurrences": 2,
+    "translation": "voter"
+  },
+  "Wählermehrheit": {
+    "occurrences": 2,
+    "translation": "majority of voters"
+  },
+  "z": {
+    "occurrences": 2,
+    "translation": "e.g"
+  },
+  "zahlen": {
+    "occurrences": 2,
+    "translation": "pay"
+  },
+  "Zentralwirtschaft": {
+    "occurrences": 2,
+    "translation": "Central economy"
+  },
+  "zerstört": {
+    "occurrences": 2,
+    "translation": "destroyed"
+  },
+  "Ziel": {
+    "occurrences": 2,
+    "translation": "Target"
+  },
+  "Zusammenarbeit": {
+    "occurrences": 2,
+    "translation": "Collaboration"
+  },
+  "Zusammenschluss": {
+    "occurrences": 2,
+    "translation": "merger"
+  },
+  "zuständig": {
+    "occurrences": 2,
+    "translation": "responsible"
+  },
+  "zuständigen": {
+    "occurrences": 2,
+    "translation": "responsible"
+  },
+  "Zwangsarbeit": {
+    "occurrences": 2,
+    "translation": "Forced labor"
+  },
+  "Zweitstimmen": {
+    "occurrences": 2,
+    "translation": "Second votes"
+  },
+  "Zwischenergebnisse": {
+    "occurrences": 2,
+    "translation": "Interim results"
+  },
+  "Ärztin": {
+    "occurrences": 2,
+    "translation": "doctor"
+  },
+  "öffentlichen": {
+    "occurrences": 2,
+    "translation": "public"
+  },
+  "östlichen": {
+    "occurrences": 2,
+    "translation": "eastern"
+  },
+  "überwachen": {
+    "occurrences": 2,
+    "translation": "monitor"
+  },
+  "abgeschleppt": {
+    "occurrences": 1,
+    "translation": "towed away"
+  },
+  "abhalten": {
+    "occurrences": 1,
+    "translation": "hold off"
+  },
+  "abhängig": {
+    "occurrences": 1,
+    "translation": "dependent"
+  },
+  "Abkommens": {
+    "occurrences": 1,
+    "translation": "agreement"
+  },
+  "Abschottung": {
+    "occurrences": 1,
+    "translation": "Isolation"
+  },
+  "absichtlich": {
+    "occurrences": 1,
+    "translation": "intentionally"
+  },
+  "Abstimmungsregelung": {
+    "occurrences": 1,
+    "translation": "Voting rules"
+  },
+  "abzugeben": {
+    "occurrences": 1,
+    "translation": "to give away"
+  },
+  "abzuhören": {
+    "occurrences": 1,
+    "translation": "to listen"
+  },
+  "Adresse": {
+    "occurrences": 1,
+    "translation": "Address"
+  },
+  "adressiert": {
+    "occurrences": 1,
+    "translation": "addressed"
+  },
+  "Agentur": {
+    "occurrences": 1,
+    "translation": "Agency"
+  },
+  "aktive": {
+    "occurrences": 1,
+    "translation": "active"
+  },
+  "aktiver": {
+    "occurrences": 1,
+    "translation": "more active"
+  },
+  "allein": {
+    "occurrences": 1,
+    "translation": "alone"
+  },
+  "alleinerziehender": {
+    "occurrences": 1,
+    "translation": "single parent"
+  },
+  "Allerheiligen": {
+    "occurrences": 1,
+    "translation": "All Saints Day"
+  },
+  "allgemein": {
+    "occurrences": 1,
+    "translation": "general"
+  },
+  "allgemeinen": {
+    "occurrences": 1,
+    "translation": "general"
+  },
+  "allgemeines": {
+    "occurrences": 1,
+    "translation": "general"
+  },
+  "amerikanische": {
+    "occurrences": 1,
+    "translation": "American"
+  },
+  "Ampelkoalition": {
+    "occurrences": 1,
+    "translation": "Traffic Light Coalition"
+  },
+  "Amtssitz": {
+    "occurrences": 1,
+    "translation": "Official residence"
+  },
+  "Angabe": {
+    "occurrences": 1,
+    "translation": "Information"
+  },
+  "Angeklagte": {
+    "occurrences": 1,
+    "translation": "Defendant"
+  },
+  "Angeklagten": {
+    "occurrences": 1,
+    "translation": "defendants"
+  },
+  "angestellt": {
+    "occurrences": 1,
+    "translation": "employed"
+  },
+  "angestellte": {
+    "occurrences": 1,
+    "translation": "employees"
+  },
+  "angeworben": {
+    "occurrences": 1,
+    "translation": "recruited"
+  },
+  "Angriff": {
+    "occurrences": 1,
+    "translation": "Attack"
+  },
+  "annehmen": {
+    "occurrences": 1,
+    "translation": "accept"
+  },
+  "Ansprechpartner": {
+    "occurrences": 1,
+    "translation": "Contact person"
+  },
+  "Ansprechpartnerin": {
+    "occurrences": 1,
+    "translation": "Contact person"
+  },
+  "Anti-Atomkraft-Demonstrationen": {
+    "occurrences": 1,
+    "translation": "Anti-nuclear demonstrations"
+  },
+  "Anzeige": {
+    "occurrences": 1,
+    "translation": "Advertisement"
+  },
+  "anzuregen": {
+    "occurrences": 1,
+    "translation": "to stimulate"
+  },
+  "Arbeiteraufstand": {
+    "occurrences": 1,
+    "translation": "Workers' uprising"
+  },
+  "Arbeiterinnen": {
+    "occurrences": 1,
+    "translation": "workers"
+  },
+  "Arbeitern": {
+    "occurrences": 1,
+    "translation": "workers"
+  },
+  "Arbeitnehmern": {
+    "occurrences": 1,
+    "translation": "employees"
+  },
+  "Arbeitsamt": {
+    "occurrences": 1,
+    "translation": "Employment office"
+  },
+  "Arbeitsplatz": {
+    "occurrences": 1,
+    "translation": "workplace"
+  },
+  "arbeitsunfähig": {
+    "occurrences": 1,
+    "translation": "unable to work"
+  },
+  "Arbeitsverhältnis": {
+    "occurrences": 1,
+    "translation": "employment relationship"
+  },
+  "Arbeitswelt": {
+    "occurrences": 1,
+    "translation": "Working world"
+  },
+  "Armen": {
+    "occurrences": 1,
+    "translation": "poor"
+  },
+  "Artikel": {
+    "occurrences": 1,
+    "translation": "Article"
+  },
+  "Arzt": {
+    "occurrences": 1,
+    "translation": "doctor"
+  },
+  "Arztes": {
+    "occurrences": 1,
+    "translation": "doctor"
+  },
+  "Attest": {
+    "occurrences": 1,
+    "translation": "Certificate"
+  },
+  "Aufbau": {
+    "occurrences": 1,
+    "translation": "Construction"
+  },
+  "aufgefordert": {
+    "occurrences": 1,
+    "translation": "prompted"
+  },
+  "aufgeteilt": {
+    "occurrences": 1,
+    "translation": "divided"
+  },
+  "aufhören": {
+    "occurrences": 1,
+    "translation": "stop"
+  },
+  "Auflistungen": {
+    "occurrences": 1,
+    "translation": "Listings"
+  },
+  "aufschreiben": {
+    "occurrences": 1,
+    "translation": "write down"
+  },
+  "Aufstand": {
+    "occurrences": 1,
+    "translation": "Uprising"
+  },
+  "Ausdruck": {
+    "occurrences": 1,
+    "translation": "expression"
+  },
+  "ausdrücken": {
+    "occurrences": 1,
+    "translation": "express"
+  },
+  "Auslegung": {
+    "occurrences": 1,
+    "translation": "Interpretation"
+  },
+  "Ausländer": {
+    "occurrences": 1,
+    "translation": "Foreigners"
+  },
+  "Ausländerinnen": {
+    "occurrences": 1,
+    "translation": "Foreigners"
+  },
+  "Ausländische": {
+    "occurrences": 1,
+    "translation": "Foreigners"
+  },
+  "ausreichende": {
+    "occurrences": 1,
+    "translation": "sufficient"
+  },
+  "Aussage": {
+    "occurrences": 1,
+    "translation": "statement"
+  },
+  "Außenminister": {
+    "occurrences": 1,
+    "translation": "Foreign Minister"
+  },
+  "Außenministerin": {
+    "occurrences": 1,
+    "translation": "Foreign Minister"
+  },
+  "Außenpolitik": {
+    "occurrences": 1,
+    "translation": "Foreign policy"
+  },
+  "austauschen": {
+    "occurrences": 1,
+    "translation": "exchange"
+  },
+  "Auswanderer": {
+    "occurrences": 1,
+    "translation": "Emigrants"
+  },
+  "Auswanderinnen": {
+    "occurrences": 1,
+    "translation": "Emigrants"
+  },
+  "Auswirkungen": {
+    "occurrences": 1,
+    "translation": "Impact"
+  },
+  "Auswärtiges": {
+    "occurrences": 1,
+    "translation": "Foreign affairs"
+  },
+  "Auszählung": {
+    "occurrences": 1,
+    "translation": "Counting"
+  },
+  "Auto": {
+    "occurrences": 1,
+    "translation": "car"
+  },
+  "Autos": {
+    "occurrences": 1,
+    "translation": "Cars"
+  },
+  "Autoversicherung": {
+    "occurrences": 1,
+    "translation": "Car insurance"
+  },
+  "Bank": {
+    "occurrences": 1,
+    "translation": "Bench"
+  },
+  "bar": {
+    "occurrences": 1,
+    "translation": "cash"
+  },
+  "Basiswert": {
+    "occurrences": 1,
+    "translation": "Underlying value"
+  },
+  "Bau": {
+    "occurrences": 1,
+    "translation": "Construction"
+  },
+  "bayerischer": {
+    "occurrences": 1,
+    "translation": "Bavarian"
+  },
+  "beachten": {
+    "occurrences": 1,
+    "translation": "note"
+  },
+  "beachtet": {
+    "occurrences": 1,
+    "translation": "observed"
+  },
+  "beenden": {
+    "occurrences": 1,
+    "translation": "finish"
+  },
+  "befolgen": {
+    "occurrences": 1,
+    "translation": "follow"
+  },
+  "begeht": {
+    "occurrences": 1,
+    "translation": "commits"
+  },
+  "Beginn": {
+    "occurrences": 1,
+    "translation": "beginning"
+  },
+  "beginnen": {
+    "occurrences": 1,
+    "translation": "begin"
+  },
+  "begrenzt": {
+    "occurrences": 1,
+    "translation": "limited"
+  },
+  "Behandlung": {
+    "occurrences": 1,
+    "translation": "Treatment"
+  },
+  "Beide": {
+    "occurrences": 1,
+    "translation": "Both"
+  },
+  "beizubehalten": {
+    "occurrences": 1,
+    "translation": "to maintain"
+  },
+  "bekannt": {
+    "occurrences": 1,
+    "translation": "known"
+  },
+  "bekleidet": {
+    "occurrences": 1,
+    "translation": "clothed"
+  },
+  "benachteiligen": {
+    "occurrences": 1,
+    "translation": "disadvantage"
+  },
+  "benachteiligten": {
+    "occurrences": 1,
+    "translation": "disadvantaged"
+  },
+  "Benutzung": {
+    "occurrences": 1,
+    "translation": "Usage"
+  },
+  "berufsbezogen": {
+    "occurrences": 1,
+    "translation": "job-related"
+  },
+  "Berufsinformationszentrum": {
+    "occurrences": 1,
+    "translation": "Career Information Center"
+  },
+  "Berufswahl": {
+    "occurrences": 1,
+    "translation": "Career choice"
+  },
+  "berät": {
+    "occurrences": 1,
+    "translation": "advises"
+  },
+  "berücksichtigt": {
+    "occurrences": 1,
+    "translation": "taken into account"
+  },
+  "berühmte": {
+    "occurrences": 1,
+    "translation": "famous"
+  },
+  "Besatzungsmacht": {
+    "occurrences": 1,
+    "translation": "occupying power"
+  },
+  "Besatzungsmächte": {
+    "occurrences": 1,
+    "translation": "occupying powers"
+  },
+  "beschimpfen": {
+    "occurrences": 1,
+    "translation": "insult"
+  },
+  "beschließen": {
+    "occurrences": 1,
+    "translation": "decide"
+  },
+  "beschließt": {
+    "occurrences": 1,
+    "translation": "decides"
+  },
+  "beschützt": {
+    "occurrences": 1,
+    "translation": "protected"
+  },
+  "besetzten": {
+    "occurrences": 1,
+    "translation": "occupied"
+  },
+  "besondere": {
+    "occurrences": 1,
+    "translation": "special"
+  },
+  "besonders": {
+    "occurrences": 1,
+    "translation": "especially"
+  },
+  "Bestechung": {
+    "occurrences": 1,
+    "translation": "Bribery"
+  },
+  "bestehende": {
+    "occurrences": 1,
+    "translation": "existing"
+  },
+  "besten": {
+    "occurrences": 1,
+    "translation": "best"
+  },
+  "bestimmte": {
+    "occurrences": 1,
+    "translation": "certain"
+  },
+  "Besuch": {
+    "occurrences": 1,
+    "translation": "Visit"
+  },
+  "Besuchsrecht": {
+    "occurrences": 1,
+    "translation": "Visitation rights"
+  },
+  "betreut": {
+    "occurrences": 1,
+    "translation": "cared for"
+  },
+  "Betriebsgruppe": {
+    "occurrences": 1,
+    "translation": "Operating group"
+  },
+  "Betriebsmanagement": {
+    "occurrences": 1,
+    "translation": "Operations management"
+  },
+  "Betriebsprüfer": {
+    "occurrences": 1,
+    "translation": "Auditor"
+  },
+  "Betriebsprüferin": {
+    "occurrences": 1,
+    "translation": "Auditor"
+  },
+  "Bettag": {
+    "occurrences": 1,
+    "translation": "Bed day"
+  },
+  "bevor": {
+    "occurrences": 1,
+    "translation": "before"
+  },
+  "bewegen": {
+    "occurrences": 1,
+    "translation": "move"
+  },
+  "beworben": {
+    "occurrences": 1,
+    "translation": "advertised"
+  },
+  "bezahlten": {
+    "occurrences": 1,
+    "translation": "paid"
+  },
+  "Bezirksämter": {
+    "occurrences": 1,
+    "translation": "District offices"
+  },
+  "Bibliotheksaufsicht": {
+    "occurrences": 1,
+    "translation": "Library supervision"
+  },
+  "bildet": {
+    "occurrences": 1,
+    "translation": "forms"
+  },
+  "Bildung": {
+    "occurrences": 1,
+    "translation": "Education"
+  },
+  "bitten": {
+    "occurrences": 1,
+    "translation": "ask"
+  },
+  "BIZ": {
+    "occurrences": 1,
+    "translation": "BIZ"
+  },
+  "blau-weiß-rot": {
+    "occurrences": 1,
+    "translation": "blue-white-red"
+  },
+  "blockfreien": {
+    "occurrences": 1,
+    "translation": "non-aligned"
+  },
+  "Botschafter": {
+    "occurrences": 1,
+    "translation": "Ambassador"
+  },
+  "Botschafterinnen": {
+    "occurrences": 1,
+    "translation": "ambassadors"
+  },
+  "Briefe": {
+    "occurrences": 1,
+    "translation": "letters"
+  },
+  "britischen": {
+    "occurrences": 1,
+    "translation": "British"
+  },
+  "Buchhalter": {
+    "occurrences": 1,
+    "translation": "Accountant"
+  },
+  "Buddhismus": {
+    "occurrences": 1,
+    "translation": "Buddhism"
+  },
+  "Bundes": {
+    "occurrences": 1,
+    "translation": "Federal"
+  },
+  "Bundesagentur": {
+    "occurrences": 1,
+    "translation": "Federal Agency"
+  },
+  "Bundesbezirk": {
+    "occurrences": 1,
+    "translation": "Federal District"
+  },
+  "Bundesgerichtshof": {
+    "occurrences": 1,
+    "translation": "Federal Court of Justice"
+  },
+  "Bundesgesetz": {
+    "occurrences": 1,
+    "translation": "Federal law"
+  },
+  "Bundeskanzlers": {
+    "occurrences": 1,
+    "translation": "Chancellor"
+  },
+  "Bundesländern": {
+    "occurrences": 1,
+    "translation": "Federal states"
+  },
+  "Bundesminister": {
+    "occurrences": 1,
+    "translation": "Federal Minister"
+  },
+  "Bundesministerin": {
+    "occurrences": 1,
+    "translation": "Federal Minister"
+  },
+  "Bundesparlament": {
+    "occurrences": 1,
+    "translation": "Federal Parliament"
+  },
+  "Bundespolitik": {
+    "occurrences": 1,
+    "translation": "Federal politics"
+  },
+  "Bundesratsgebäude": {
+    "occurrences": 1,
+    "translation": "Federal Council building"
+  },
+  "Bundestags": {
+    "occurrences": 1,
+    "translation": "Bundestag"
+  },
+  "Bundestagsabgeordnete": {
+    "occurrences": 1,
+    "translation": "Members of the Bundestag"
+  },
+  "Bundestagswahlen": {
+    "occurrences": 1,
+    "translation": "Federal elections"
+  },
+  "Bundesverfassung": {
+    "occurrences": 1,
+    "translation": "Federal Constitution"
+  },
+  "Bundesverfassungsgerichtes": {
+    "occurrences": 1,
+    "translation": "Federal Constitutional Court"
+  },
+  "Bundeswehr": {
+    "occurrences": 1,
+    "translation": "Bundeswehr"
+  },
+  "Buß": {
+    "occurrences": 1,
+    "translation": "Penance"
+  },
+  "Busse": {
+    "occurrences": 1,
+    "translation": "Buses"
+  },
+  "Bär": {
+    "occurrences": 1,
+    "translation": "Bear"
+  },
+  "Bürgermeisterin": {
+    "occurrences": 1,
+    "translation": "Mayor"
+  },
+  "Büro": {
+    "occurrences": 1,
+    "translation": "office"
+  },
+  "Chancen": {
+    "occurrences": 1,
+    "translation": "Opportunities"
+  },
+  "Club": {
+    "occurrences": 1,
+    "translation": "Club"
+  },
+  "dabei": {
+    "occurrences": 1,
+    "translation": "there"
+  },
+  "dauert": {
+    "occurrences": 1,
+    "translation": "takes"
+  },
+  "dauerte": {
+    "occurrences": 1,
+    "translation": "lasted"
+  },
+  "Demonstrative": {
+    "occurrences": 1,
+    "translation": "Demonstrative"
+  },
+  "Demut": {
+    "occurrences": 1,
+    "translation": "Humility"
+  },
+  "desto": {
+    "occurrences": 1,
+    "translation": "the more"
+  },
+  "deutlich": {
+    "occurrences": 1,
+    "translation": "clearly"
+  },
+  "Deutsches": {
+    "occurrences": 1,
+    "translation": "German"
+  },
+  "Deutschkenntnisse": {
+    "occurrences": 1,
+    "translation": "Knowledge of German"
+  },
+  "deutschsprachige": {
+    "occurrences": 1,
+    "translation": "German-speaking"
+  },
+  "Diplom": {
+    "occurrences": 1,
+    "translation": "Diploma"
+  },
+  "direkt": {
+    "occurrences": 1,
+    "translation": "directly"
+  },
+  "Direktkandidaten": {
+    "occurrences": 1,
+    "translation": "Direct candidates"
+  },
+  "Diskussionen": {
+    "occurrences": 1,
+    "translation": "Discussions"
+  },
+  "doch": {
+    "occurrences": 1,
+    "translation": "however; after all"
+  },
+  "Dreiklassenwahlrecht": {
+    "occurrences": 1,
+    "translation": "Three-class voting rights"
+  },
+  "dreistufigen": {
+    "occurrences": 1,
+    "translation": "three-stage"
+  },
+  "Drittel": {
+    "occurrences": 1,
+    "translation": "third"
+  },
+  "Dritten": {
+    "occurrences": 1,
+    "translation": "third party"
+  },
+  "Dritter": {
+    "occurrences": 1,
+    "translation": "Third"
+  },
+  "Drittes": {
+    "occurrences": 1,
+    "translation": "Third"
+  },
+  "drohe": {
+    "occurrences": 1,
+    "translation": "threaten"
+  },
+  "dunkler": {
+    "occurrences": 1,
+    "translation": "darker"
+  },
+  "egal": {
+    "occurrences": 1,
+    "translation": "no matter"
+  },
+  "ehemalige": {
+    "occurrences": 1,
+    "translation": "former"
+  },
+  "ehemaliger": {
+    "occurrences": 1,
+    "translation": "former"
+  },
+  "Ehemann": {
+    "occurrences": 1,
+    "translation": "husband"
+  },
+  "Ehepaar": {
+    "occurrences": 1,
+    "translation": "married couple"
+  },
+  "Ehepaare": {
+    "occurrences": 1,
+    "translation": "married couples"
+  },
+  "Ehepartner": {
+    "occurrences": 1,
+    "translation": "spouse"
+  },
+  "Ehepartnerinnen": {
+    "occurrences": 1,
+    "translation": "spouses"
+  },
+  "Ehescheidung": {
+    "occurrences": 1,
+    "translation": "Divorce"
+  },
+  "Ehrenamt": {
+    "occurrences": 1,
+    "translation": "Volunteering"
+  },
+  "Ehrentitel": {
+    "occurrences": 1,
+    "translation": "Honorary title"
+  },
+  "eigener": {
+    "occurrences": 1,
+    "translation": "own"
+  },
+  "eingeschränkt": {
+    "occurrences": 1,
+    "translation": "restricted"
+  },
+  "einig": {
+    "occurrences": 1,
+    "translation": "agree"
+  },
+  "einreisen": {
+    "occurrences": 1,
+    "translation": "enter"
+  },
+  "Einrichtung": {
+    "occurrences": 1,
+    "translation": "Facility"
+  },
+  "eintreten": {
+    "occurrences": 1,
+    "translation": "enter"
+  },
+  "Einverständnis": {
+    "occurrences": 1,
+    "translation": "Consent"
+  },
+  "Einwanderer": {
+    "occurrences": 1,
+    "translation": "Immigrants"
+  },
+  "Einwanderinnen": {
+    "occurrences": 1,
+    "translation": "immigrants"
+  },
+  "Einwanderungsstopp": {
+    "occurrences": 1,
+    "translation": "Immigration stop"
+  },
+  "Einwohnermeldeamts": {
+    "occurrences": 1,
+    "translation": "Residents' Registration Office"
+  },
+  "Eiserner": {
+    "occurrences": 1,
+    "translation": "Iron"
+  },
+  "elterliche": {
+    "occurrences": 1,
+    "translation": "parental"
+  },
+  "Elternzeit": {
+    "occurrences": 1,
+    "translation": "Parental leave"
+  },
+  "endete": {
+    "occurrences": 1,
+    "translation": "ended"
+  },
+  "Entfaltung": {
+    "occurrences": 1,
+    "translation": "unfolding"
+  },
+  "enthält": {
+    "occurrences": 1,
+    "translation": "contains"
+  },
+  "Entlassung": {
+    "occurrences": 1,
+    "translation": "Dismissal"
+  },
+  "entwerfen": {
+    "occurrences": 1,
+    "translation": "design"
+  },
+  "Entwicklung": {
+    "occurrences": 1,
+    "translation": "Development"
+  },
+  "entwirft": {
+    "occurrences": 1,
+    "translation": "designs"
+  },
+  "erbracht": {
+    "occurrences": 1,
+    "translation": "provided"
+  },
+  "ereignete": {
+    "occurrences": 1,
+    "translation": "occurred"
+  },
+  "Erfahrung": {
+    "occurrences": 1,
+    "translation": "Experience"
+  },
+  "erinnert": {
+    "occurrences": 1,
+    "translation": "remembered"
+  },
+  "erinnerte": {
+    "occurrences": 1,
+    "translation": "remembered"
+  },
+  "erlassen": {
+    "occurrences": 1,
+    "translation": "enacted"
+  },
+  "erledigt": {
+    "occurrences": 1,
+    "translation": "done"
+  },
+  "ernennt": {
+    "occurrences": 1,
+    "translation": "appointed"
+  },
+  "Ernennungsurkunde": {
+    "occurrences": 1,
+    "translation": "Certificate of appointment"
+  },
+  "Erntedankfest": {
+    "occurrences": 1,
+    "translation": "Thanksgiving Day"
+  },
+  "erreichbar": {
+    "occurrences": 1,
+    "translation": "reachable"
+  },
+  "erreichen": {
+    "occurrences": 1,
+    "translation": "reach"
+  },
+  "errichten": {
+    "occurrences": 1,
+    "translation": "build"
+  },
+  "errichteten": {
+    "occurrences": 1,
+    "translation": "constructed"
+  },
+  "Ersteinschulung": {
+    "occurrences": 1,
+    "translation": "Initial training"
+  },
+  "erstellen": {
+    "occurrences": 1,
+    "translation": "create"
+  },
+  "ersten": {
+    "occurrences": 1,
+    "translation": "first"
+  },
+  "Erster": {
+    "occurrences": 1,
+    "translation": "First"
+  },
+  "Erwerbstätigen": {
+    "occurrences": 1,
+    "translation": "employed people"
+  },
+  "Erziehung": {
+    "occurrences": 1,
+    "translation": "Education"
+  },
+  "eröffnen": {
+    "occurrences": 1,
+    "translation": "open"
+  },
+  "EU-Osterweiterung": {
+    "occurrences": 1,
+    "translation": "EU eastward expansion"
+  },
+  "EU-Parlaments": {
+    "occurrences": 1,
+    "translation": "EU Parliament"
+  },
+  "Europabündnis": {
+    "occurrences": 1,
+    "translation": "European alliance"
+  },
+  "Fahne": {
+    "occurrences": 1,
+    "translation": "flag"
+  },
+  "fahren": {
+    "occurrences": 1,
+    "translation": "drive"
+  },
+  "falsch": {
+    "occurrences": 1,
+    "translation": "wrong"
+  },
+  "falsche": {
+    "occurrences": 1,
+    "translation": "false"
+  },
+  "falschen": {
+    "occurrences": 1,
+    "translation": "wrong"
+  },
+  "Familiengericht": {
+    "occurrences": 1,
+    "translation": "Family court"
+  },
+  "Familienministerium": {
+    "occurrences": 1,
+    "translation": "Family Ministry"
+  },
+  "Familienunternehmen": {
+    "occurrences": 1,
+    "translation": "Family business"
+  },
+  "Farben": {
+    "occurrences": 1,
+    "translation": "colors"
+  },
+  "Faustrecht": {
+    "occurrences": 1,
+    "translation": "Law of the fist"
+  },
+  "feierliche": {
+    "occurrences": 1,
+    "translation": "celebratory"
+  },
+  "feiert": {
+    "occurrences": 1,
+    "translation": "celebrates"
+  },
+  "Feiertage": {
+    "occurrences": 1,
+    "translation": "Holidays"
+  },
+  "Ferienpass": {
+    "occurrences": 1,
+    "translation": "Holiday pass"
+  },
+  "Festlegung": {
+    "occurrences": 1,
+    "translation": "Determination"
+  },
+  "Feuerversicherung": {
+    "occurrences": 1,
+    "translation": "Fire insurance"
+  },
+  "finanziert": {
+    "occurrences": 1,
+    "translation": "financed"
+  },
+  "Finanzminister": {
+    "occurrences": 1,
+    "translation": "finance minister"
+  },
+  "Finanzministerin": {
+    "occurrences": 1,
+    "translation": "female finance minister"
+  },
+  "finden": {
+    "occurrences": 1,
+    "translation": "find"
+  },
+  "folgenden": {
+    "occurrences": 1,
+    "translation": "following"
+  },
+  "Folter": {
+    "occurrences": 1,
+    "translation": "Torture"
+  },
+  "Forstamt": {
+    "occurrences": 1,
+    "translation": "Forestry Department"
+  },
+  "Fraktionen": {
+    "occurrences": 1,
+    "translation": "factions"
+  },
+  "französische": {
+    "occurrences": 1,
+    "translation": "French"
+  },
+  "französischen": {
+    "occurrences": 1,
+    "translation": "French"
+  },
+  "freien": {
+    "occurrences": 1,
+    "translation": "free"
+  },
+  "Freude": {
+    "occurrences": 1,
+    "translation": "joy"
+  },
+  "Freunde": {
+    "occurrences": 1,
+    "translation": "Friends"
+  },
+  "Freunden": {
+    "occurrences": 1,
+    "translation": "friends"
+  },
+  "freundlich": {
+    "occurrences": 1,
+    "translation": "friendly"
+  },
+  "Freundschaft": {
+    "occurrences": 1,
+    "translation": "Friendship"
+  },
+  "friedlich": {
+    "occurrences": 1,
+    "translation": "peaceful"
+  },
+  "Friedliche": {
+    "occurrences": 1,
+    "translation": "Peaceful"
+  },
+  "früheren": {
+    "occurrences": 1,
+    "translation": "previous"
+  },
+  "Funktion": {
+    "occurrences": 1,
+    "translation": "Function"
+  },
+  "funktioniert": {
+    "occurrences": 1,
+    "translation": "works"
+  },
+  "Fächer": {
+    "occurrences": 1,
+    "translation": "subjects"
+  },
+  "fördert": {
+    "occurrences": 1,
+    "translation": "promotes"
+  },
+  "Führende": {
+    "occurrences": 1,
+    "translation": "Leading"
+  },
+  "führt": {
+    "occurrences": 1,
+    "translation": "leads"
+  },
+  "ganz": {
+    "occurrences": 1,
+    "translation": "completely"
+  },
+  "gar": {
+    "occurrences": 1,
+    "translation": "even"
+  },
+  "Garantie": {
+    "occurrences": 1,
+    "translation": "Guarantee"
+  },
+  "Gebet": {
+    "occurrences": 1,
+    "translation": "Prayer"
+  },
+  "Gebieten": {
+    "occurrences": 1,
+    "translation": "areas"
+  },
+  "Geburt": {
+    "occurrences": 1,
+    "translation": "birth"
+  },
+  "Geburtsvorbereitung": {
+    "occurrences": 1,
+    "translation": "Birth preparation"
+  },
+  "Gebäudeversicherung": {
+    "occurrences": 1,
+    "translation": "Building insurance"
+  },
+  "gedenken": {
+    "occurrences": 1,
+    "translation": "commemorate"
+  },
+  "Gedenkstätte": {
+    "occurrences": 1,
+    "translation": "Memorial"
+  },
+  "geehrt": {
+    "occurrences": 1,
+    "translation": "honored"
+  },
+  "gefallen": {
+    "occurrences": 1,
+    "translation": "liked"
+  },
+  "gefeiert": {
+    "occurrences": 1,
+    "translation": "celebrated"
+  },
+  "gefällt": {
+    "occurrences": 1,
+    "translation": "likes"
+  },
+  "Gefängnis": {
+    "occurrences": 1,
+    "translation": "Prison"
+  },
+  "gegliedert": {
+    "occurrences": 1,
+    "translation": "structured"
+  },
+  "Gehalt": {
+    "occurrences": 1,
+    "translation": "Salary"
+  },
+  "Gehaltszahlungen": {
+    "occurrences": 1,
+    "translation": "Salary payments"
+  },
+  "gehe": {
+    "occurrences": 1,
+    "translation": "go"
+  },
+  "gehörten": {
+    "occurrences": 1,
+    "translation": "belonged"
+  },
+  "geistigem": {
+    "occurrences": 1,
+    "translation": "spiritual"
+  },
+  "gekauft": {
+    "occurrences": 1,
+    "translation": "bought"
+  },
+  "gekommen": {
+    "occurrences": 1,
+    "translation": "came"
+  },
+  "gekündigt": {
+    "occurrences": 1,
+    "translation": "terminated"
+  },
+  "gelenkte": {
+    "occurrences": 1,
+    "translation": "directed"
+  },
+  "Gemeinderats": {
+    "occurrences": 1,
+    "translation": "municipal council"
+  },
+  "Gemeindeverwaltung": {
+    "occurrences": 1,
+    "translation": "Municipal administration"
+  },
+  "gemeinsam": {
+    "occurrences": 1,
+    "translation": "together"
+  },
+  "Gemeinsamkeiten": {
+    "occurrences": 1,
+    "translation": "Commonalities"
+  },
+  "Gemeinschaft": {
+    "occurrences": 1,
+    "translation": "Community"
+  },
+  "geparkt": {
+    "occurrences": 1,
+    "translation": "parked"
+  },
+  "geplant": {
+    "occurrences": 1,
+    "translation": "planned"
+  },
+  "geprägt": {
+    "occurrences": 1,
+    "translation": "shaped"
+  },
+  "Gerichtsschöffe": {
+    "occurrences": 1,
+    "translation": "Magistrates"
+  },
+  "Gerichtsschöffin": {
+    "occurrences": 1,
+    "translation": "Magistrate"
+  },
+  "gering": {
+    "occurrences": 1,
+    "translation": "low"
+  },
+  "Gerät": {
+    "occurrences": 1,
+    "translation": "device"
+  },
+  "Geschichtsunterricht": {
+    "occurrences": 1,
+    "translation": "History lessons"
+  },
+  "geschieden": {
+    "occurrences": 1,
+    "translation": "divorced"
+  },
+  "geschlechtsabhängig": {
+    "occurrences": 1,
+    "translation": "gender dependent"
+  },
+  "geschlossen": {
+    "occurrences": 1,
+    "translation": "closed"
+  },
+  "Gesellenprüfung": {
+    "occurrences": 1,
+    "translation": "Journeyman examination"
+  },
+  "Gesetzbuch": {
+    "occurrences": 1,
+    "translation": "Code of Laws"
+  },
+  "gesetzestreu": {
+    "occurrences": 1,
+    "translation": "law-abiding"
+  },
+  "gesetzgebenden": {
+    "occurrences": 1,
+    "translation": "legislative"
+  },
+  "gesetzlichen": {
+    "occurrences": 1,
+    "translation": "legal"
+  },
+  "gesteuert": {
+    "occurrences": 1,
+    "translation": "controlled"
+  },
+  "gestorben": {
+    "occurrences": 1,
+    "translation": "died"
+  },
+  "Gewerbeamt": {
+    "occurrences": 1,
+    "translation": "trade office"
+  },
+  "gewinnt": {
+    "occurrences": 1,
+    "translation": "wins"
+  },
+  "Ghetto": {
+    "occurrences": 1,
+    "translation": "Ghetto"
+  },
+  "gleichzeitig": {
+    "occurrences": 1,
+    "translation": "at the same time"
+  },
+  "Goldmedaille": {
+    "occurrences": 1,
+    "translation": "Gold medal"
+  },
+  "Golfkrieg": {
+    "occurrences": 1,
+    "translation": "Gulf War"
+  },
+  "Grab": {
+    "occurrences": 1,
+    "translation": "Grave"
+  },
+  "Grenzen": {
+    "occurrences": 1,
+    "translation": "Boundaries"
+  },
+  "Großeltern": {
+    "occurrences": 1,
+    "translation": "grandparents"
+  },
+  "grundsätzlich": {
+    "occurrences": 1,
+    "translation": "basically"
+  },
+  "Gruppen": {
+    "occurrences": 1,
+    "translation": "groups"
+  },
+  "größer": {
+    "occurrences": 1,
+    "translation": "bigger"
+  },
+  "gründen": {
+    "occurrences": 1,
+    "translation": "establish"
+  },
+  "Gründungsmitglied": {
+    "occurrences": 1,
+    "translation": "Founding member"
+  },
+  "Gästehaus": {
+    "occurrences": 1,
+    "translation": "Guesthouse"
+  },
+  "Götterfunken": {
+    "occurrences": 1,
+    "translation": "Sparks of the gods"
+  },
+  "gültig": {
+    "occurrences": 1,
+    "translation": "valid"
+  },
+  "habe": {
+    "occurrences": 1,
+    "translation": "have"
+  },
+  "Hafen": {
+    "occurrences": 1,
+    "translation": "Port"
+  },
+  "Haftpflicht": {
+    "occurrences": 1,
+    "translation": "Liability"
+  },
+  "Haftpflichtversicherung": {
+    "occurrences": 1,
+    "translation": "Liability insurance"
+  },
+  "Hamas": {
+    "occurrences": 1,
+    "translation": "Hamas"
+  },
+  "Hammer": {
+    "occurrences": 1,
+    "translation": "Hammer"
+  },
+  "handelt": {
+    "occurrences": 1,
+    "translation": "acts"
+  },
+  "hatte": {
+    "occurrences": 1,
+    "translation": "had"
+  },
+  "hatten": {
+    "occurrences": 1,
+    "translation": "had"
+  },
+  "hauptsächlich": {
+    "occurrences": 1,
+    "translation": "mainly"
+  },
+  "Haus": {
+    "occurrences": 1,
+    "translation": "house"
+  },
+  "Hause": {
+    "occurrences": 1,
+    "translation": "home"
+  },
+  "Hausratsversicherung": {
+    "occurrences": 1,
+    "translation": "Home contents insurance"
+  },
+  "heißen": {
+    "occurrences": 1,
+    "translation": "called"
+  },
+  "Held": {
+    "occurrences": 1,
+    "translation": "Hero"
+  },
+  "Herbst": {
+    "occurrences": 1,
+    "translation": "Autumn"
+  },
+  "herrscht": {
+    "occurrences": 1,
+    "translation": "prevails"
+  },
+  "heutiges": {
+    "occurrences": 1,
+    "translation": "today"
+  },
+  "hierfür": {
+    "occurrences": 1,
+    "translation": "for this"
+  },
+  "Hilfe": {
+    "occurrences": 1,
+    "translation": "Help"
+  },
+  "Hinduismus": {
+    "occurrences": 1,
+    "translation": "Hinduism"
+  },
+  "hineingelassen": {
+    "occurrences": 1,
+    "translation": "let in"
+  },
+  "hinzu": {
+    "occurrences": 1,
+    "translation": "added"
+  },
+  "Hälfte": {
+    "occurrences": 1,
+    "translation": "half"
+  },
+  "hält": {
+    "occurrences": 1,
+    "translation": "holds"
+  },
+  "hört": {
+    "occurrences": 1,
+    "translation": "hears"
+  },
+  "informieren": {
+    "occurrences": 1,
+    "translation": "to inform"
+  },
+  "Inhalt": {
+    "occurrences": 1,
+    "translation": "Content"
+  },
+  "Innenminister": {
+    "occurrences": 1,
+    "translation": "interior minister"
+  },
+  "Innenministerin": {
+    "occurrences": 1,
+    "translation": "female interior minister"
+  },
+  "Integration": {
+    "occurrences": 1,
+    "translation": "Integration"
+  },
+  "internationaler": {
+    "occurrences": 1,
+    "translation": "more international"
+  },
+  "Islam": {
+    "occurrences": 1,
+    "translation": "Islam"
+  },
+  "Islamischer": {
+    "occurrences": 1,
+    "translation": "Islamic"
+  },
+  "Januar": {
+    "occurrences": 1,
+    "translation": "January"
+  },
+  "Je": {
+    "occurrences": 1,
+    "translation": "Je"
+  },
+  "jedem": {
+    "occurrences": 1,
+    "translation": "each; every"
+  },
+  "jederzeit": {
+    "occurrences": 1,
+    "translation": "at any time"
+  },
+  "Journalisten": {
+    "occurrences": 1,
+    "translation": "Journalists"
+  },
+  "Jubiläum": {
+    "occurrences": 1,
+    "translation": "anniversary"
+  },
+  "Jugendlichen": {
+    "occurrences": 1,
+    "translation": "young people"
+  },
+  "Jura": {
+    "occurrences": 1,
+    "translation": "Law"
+  },
+  "Justizminister": {
+    "occurrences": 1,
+    "translation": "justice minister"
+  },
+  "Justizministerin": {
+    "occurrences": 1,
+    "translation": "female justice minister"
+  },
+  "jährige": {
+    "occurrences": 1,
+    "translation": "year old"
+  },
+  "jährlich": {
+    "occurrences": 1,
+    "translation": "annually"
+  },
+  "jüdischen": {
+    "occurrences": 1,
+    "translation": "Jewish"
+  },
+  "Kalten": {
+    "occurrences": 1,
+    "translation": "Cold"
+  },
+  "kam": {
+    "occurrences": 1,
+    "translation": "came"
+  },
+  "Kandidaten": {
+    "occurrences": 1,
+    "translation": "Candidates"
+  },
+  "Kandidatin": {
+    "occurrences": 1,
+    "translation": "candidate"
+  },
+  "Kantone": {
+    "occurrences": 1,
+    "translation": "Cantons"
+  },
+  "Kanzlerinnen": {
+    "occurrences": 1,
+    "translation": "Chancellors"
+  },
+  "Kanzlerkandidaten": {
+    "occurrences": 1,
+    "translation": "Candidates for chancellor"
+  },
+  "Kanzlerkandidatin": {
+    "occurrences": 1,
+    "translation": "Candidate for chancellor"
+  },
+  "Kapitalismus": {
+    "occurrences": 1,
+    "translation": "Capitalism"
+  },
+  "kapitalistische": {
+    "occurrences": 1,
+    "translation": "capitalist"
+  },
+  "kaputt": {
+    "occurrences": 1,
+    "translation": "broken"
+  },
+  "Karten": {
+    "occurrences": 1,
+    "translation": "Cards"
+  },
+  "katholisch": {
+    "occurrences": 1,
+    "translation": "catholic"
+  },
+  "Kellner": {
+    "occurrences": 1,
+    "translation": "Waiter"
+  },
+  "kennzeichnete": {
+    "occurrences": 1,
+    "translation": "marked"
+  },
+  "Kindererziehung": {
+    "occurrences": 1,
+    "translation": "Raising children"
+  },
+  "Kirchen": {
+    "occurrences": 1,
+    "translation": "churches"
+  },
+  "klagen": {
+    "occurrences": 1,
+    "translation": "complain"
+  },
+  "Kleidung": {
+    "occurrences": 1,
+    "translation": "Clothing"
+  },
+  "Kniefall": {
+    "occurrences": 1,
+    "translation": "Kneeling"
+  },
+  "Kommission": {
+    "occurrences": 1,
+    "translation": "Commission"
+  },
+  "Kommunalwahl": {
+    "occurrences": 1,
+    "translation": "Local election"
+  },
+  "Kommunalwahlen": {
+    "occurrences": 1,
+    "translation": "municipal elections"
+  },
+  "kommunistische": {
+    "occurrences": 1,
+    "translation": "communist"
+  },
+  "kommunistischen": {
+    "occurrences": 1,
+    "translation": "communist"
+  },
+  "Konflikten": {
+    "occurrences": 1,
+    "translation": "conflicts"
+  },
+  "konnten": {
+    "occurrences": 1,
+    "translation": "could"
+  },
+  "kontrollieren": {
+    "occurrences": 1,
+    "translation": "control"
+  },
+  "kostengünstiger": {
+    "occurrences": 1,
+    "translation": "cheaper"
+  },
+  "kostenlos": {
+    "occurrences": 1,
+    "translation": "free of charge"
+  },
+  "Kostüme": {
+    "occurrences": 1,
+    "translation": "costumes"
+  },
+  "Kostümen": {
+    "occurrences": 1,
+    "translation": "costumes"
+  },
+  "krank": {
+    "occurrences": 1,
+    "translation": "sick"
+  },
+  "Krankenhaus": {
+    "occurrences": 1,
+    "translation": "Hospital"
+  },
+  "Krankenkasse": {
+    "occurrences": 1,
+    "translation": "Health insurance"
+  },
+  "kritisch": {
+    "occurrences": 1,
+    "translation": "critical"
+  },
+  "Kultur": {
+    "occurrences": 1,
+    "translation": "Culture"
+  },
+  "kulturellem": {
+    "occurrences": 1,
+    "translation": "cultural"
+  },
+  "kurz": {
+    "occurrences": 1,
+    "translation": "short"
+  },
+  "Königin": {
+    "occurrences": 1,
+    "translation": "Queen"
+  },
+  "Landesflagge": {
+    "occurrences": 1,
+    "translation": "state flag"
+  },
+  "Landeshauptstadt": {
+    "occurrences": 1,
+    "translation": "state capital"
+  },
+  "Landeszentrale": {
+    "occurrences": 1,
+    "translation": "state center"
+  },
+  "Landkreis": {
+    "occurrences": 1,
+    "translation": "district"
+  },
+  "Landräte": {
+    "occurrences": 1,
+    "translation": "District administrators"
+  },
+  "Landtag": {
+    "occurrences": 1,
+    "translation": "state parliament"
+  },
+  "Landtagsabgeordnete": {
+    "occurrences": 1,
+    "translation": "Members of the state parliament"
+  },
+  "Landtagswahlen": {
+    "occurrences": 1,
+    "translation": "State elections"
+  },
+  "Landtransport": {
+    "occurrences": 1,
+    "translation": "Land transport"
+  },
+  "lasse": {
+    "occurrences": 1,
+    "translation": "let"
+  },
+  "Last": {
+    "occurrences": 1,
+    "translation": "load"
+  },
+  "Lebensform": {
+    "occurrences": 1,
+    "translation": "form of life"
+  },
+  "Lebensjahr": {
+    "occurrences": 1,
+    "translation": "year of life"
+  },
+  "Lebensmittel": {
+    "occurrences": 1,
+    "translation": "Food"
+  },
+  "lebten": {
+    "occurrences": 1,
+    "translation": "lived"
+  },
+  "Lehrerin": {
+    "occurrences": 1,
+    "translation": "teacher"
+  },
+  "Lehrerinnen": {
+    "occurrences": 1,
+    "translation": "teachers"
+  },
+  "leicht": {
+    "occurrences": 1,
+    "translation": "easily"
+  },
+  "Leistung": {
+    "occurrences": 1,
+    "translation": "Performance"
+  },
+  "Leiter": {
+    "occurrences": 1,
+    "translation": "Head"
+  },
+  "Leiterin": {
+    "occurrences": 1,
+    "translation": "Head"
+  },
+  "leitet": {
+    "occurrences": 1,
+    "translation": "directs"
+  },
+  "lernt": {
+    "occurrences": 1,
+    "translation": "learns"
+  },
+  "liberalen": {
+    "occurrences": 1,
+    "translation": "liberals"
+  },
+  "liegen": {
+    "occurrences": 1,
+    "translation": "lie"
+  },
+  "Luft": {
+    "occurrences": 1,
+    "translation": "air"
+  },
+  "lässt": {
+    "occurrences": 1,
+    "translation": "lets"
+  },
+  "lösen": {
+    "occurrences": 1,
+    "translation": "solve"
+  },
+  "Löwe": {
+    "occurrences": 1,
+    "translation": "Leo"
+  },
+  "Mahnverfahren": {
+    "occurrences": 1,
+    "translation": "Dunning procedure"
+  },
+  "Maifeiertag": {
+    "occurrences": 1,
+    "translation": "May Day"
+  },
+  "Maßnahme": {
+    "occurrences": 1,
+    "translation": "Measure"
+  },
+  "Mauerbaus": {
+    "occurrences": 1,
+    "translation": "Wall construction"
+  },
+  "Medien": {
+    "occurrences": 1,
+    "translation": "Media"
+  },
+  "mehrheitlich": {
+    "occurrences": 1,
+    "translation": "majority"
+  },
+  "meinte": {
+    "occurrences": 1,
+    "translation": "said"
+  },
+  "Meinungsäußerungen": {
+    "occurrences": 1,
+    "translation": "Expressions of opinion"
+  },
+  "Mensch": {
+    "occurrences": 1,
+    "translation": "Human"
+  },
+  "Merkmal": {
+    "occurrences": 1,
+    "translation": "feature"
+  },
+  "Mieter": {
+    "occurrences": 1,
+    "translation": "tenant"
+  },
+  "Mieterinnen": {
+    "occurrences": 1,
+    "translation": "tenants"
+  },
+  "Mietshäusern": {
+    "occurrences": 1,
+    "translation": "tenement houses"
+  },
+  "Militär": {
+    "occurrences": 1,
+    "translation": "military"
+  },
+  "Militärbündnis": {
+    "occurrences": 1,
+    "translation": "military alliance"
+  },
+  "Militärdienst": {
+    "occurrences": 1,
+    "translation": "Military service"
+  },
+  "Ministerien": {
+    "occurrences": 1,
+    "translation": "Ministries"
+  },
+  "Ministerin": {
+    "occurrences": 1,
+    "translation": "Minister"
+  },
+  "Ministerpräsidenten": {
+    "occurrences": 1,
+    "translation": "Prime Ministers"
+  },
+  "Ministerpräsidentinnen": {
+    "occurrences": 1,
+    "translation": "Prime Ministers"
+  },
+  "Mitarbeiterin": {
+    "occurrences": 1,
+    "translation": "employee"
+  },
+  "Mitgliedstaaten": {
+    "occurrences": 1,
+    "translation": "Member States"
+  },
+  "Mitternacht": {
+    "occurrences": 1,
+    "translation": "Midnight"
+  },
+  "monatliches": {
+    "occurrences": 1,
+    "translation": "monthly"
+  },
+  "Moscheen": {
+    "occurrences": 1,
+    "translation": "Mosques"
+  },
+  "Museen": {
+    "occurrences": 1,
+    "translation": "Museums"
+  },
+  "Männer": {
+    "occurrences": 1,
+    "translation": "men"
+  },
+  "Männerwahlrecht": {
+    "occurrences": 1,
+    "translation": "Male suffrage"
+  },
+  "möchten": {
+    "occurrences": 1,
+    "translation": "would like"
+  },
+  "Nachbarinnen": {
+    "occurrences": 1,
+    "translation": "neighbors"
+  },
+  "Nachtruhe": {
+    "occurrences": 1,
+    "translation": "Night's rest"
+  },
+  "Namen": {
+    "occurrences": 1,
+    "translation": "names"
+  },
+  "nannte": {
+    "occurrences": 1,
+    "translation": "called"
+  },
+  "Nation": {
+    "occurrences": 1,
+    "translation": "nation"
+  },
+  "Nationalhymne": {
+    "occurrences": 1,
+    "translation": "National anthem"
+  },
+  "Nationen": {
+    "occurrences": 1,
+    "translation": "Nations"
+  },
+  "NATO-Osterweiterung": {
+    "occurrences": 1,
+    "translation": "NATO eastward expansion"
+  },
+  "Nazi": {
+    "occurrences": 1,
+    "translation": "Nazi"
+  },
+  "Nebenkostenabrechnung": {
+    "occurrences": 1,
+    "translation": "Utility billing"
+  },
+  "neues": {
+    "occurrences": 1,
+    "translation": "new"
+  },
+  "nie": {
+    "occurrences": 1,
+    "translation": "never"
+  },
+  "niemanden": {
+    "occurrences": 1,
+    "translation": "nobody"
+  },
+  "Nordatlantikpakts": {
+    "occurrences": 1,
+    "translation": "North Atlantic Treaty"
+  },
+  "NS-Staat": {
+    "occurrences": 1,
+    "translation": "Nazi state"
+  },
+  "nun": {
+    "occurrences": 1,
+    "translation": "now"
+  },
+  "nächsten": {
+    "occurrences": 1,
+    "translation": "next"
+  },
+  "nämlich": {
+    "occurrences": 1,
+    "translation": "namely"
+  },
+  "Oberlandesgericht": {
+    "occurrences": 1,
+    "translation": "Higher Regional Court"
+  },
+  "offiziell": {
+    "occurrences": 1,
+    "translation": "official"
+  },
+  "offizieller": {
+    "occurrences": 1,
+    "translation": "more official"
+  },
+  "Oktober": {
+    "occurrences": 1,
+    "translation": "October"
+  },
+  "Oktoberfest": {
+    "occurrences": 1,
+    "translation": "Oktoberfest"
+  },
+  "Olympischen": {
+    "occurrences": 1,
+    "translation": "Olympics"
+  },
+  "OPEC": {
+    "occurrences": 1,
+    "translation": "OPEC"
+  },
+  "Operative": {
+    "occurrences": 1,
+    "translation": "Operational"
+  },
+  "Ordnungsamtes": {
+    "occurrences": 1,
+    "translation": "public order office"
+  },
+  "Organ": {
+    "occurrences": 1,
+    "translation": "organ"
+  },
+  "Organisation": {
+    "occurrences": 1,
+    "translation": "Organization"
+  },
+  "orientiert": {
+    "occurrences": 1,
+    "translation": "oriented"
+  },
+  "Orientierung": {
+    "occurrences": 1,
+    "translation": "Orientation"
+  },
+  "Orten": {
+    "occurrences": 1,
+    "translation": "places"
+  },
+  "Ostern": {
+    "occurrences": 1,
+    "translation": "Easter"
+  },
+  "Ostgrenze": {
+    "occurrences": 1,
+    "translation": "Eastern border"
+  },
+  "Oststaat": {
+    "occurrences": 1,
+    "translation": "Eastern State"
+  },
+  "Ostverträge": {
+    "occurrences": 1,
+    "translation": "Eastern treaties"
+  },
+  "Paar": {
+    "occurrences": 1,
+    "translation": "Couple"
+  },
+  "packen": {
+    "occurrences": 1,
+    "translation": "pack"
+  },
+  "parlamentarische": {
+    "occurrences": 1,
+    "translation": "parliamentary"
+  },
+  "Parlamente": {
+    "occurrences": 1,
+    "translation": "Parliaments"
+  },
+  "Parlamentsmitglieder": {
+    "occurrences": 1,
+    "translation": "Members of Parliament"
+  },
+  "Parteimitglieder": {
+    "occurrences": 1,
+    "translation": "party members"
+  },
+  "Parteitag": {
+    "occurrences": 1,
+    "translation": "party convention"
+  },
+  "Partnern": {
+    "occurrences": 1,
+    "translation": "partners"
+  },
+  "Passanten": {
+    "occurrences": 1,
+    "translation": "passers-by"
+  },
+  "passierte": {
+    "occurrences": 1,
+    "translation": "happened"
+  },
+  "Personenkontrolle": {
+    "occurrences": 1,
+    "translation": "Personal control"
+  },
+  "persönliche": {
+    "occurrences": 1,
+    "translation": "personal"
+  },
+  "Persönlichkeit": {
+    "occurrences": 1,
+    "translation": "personality"
+  },
+  "Petitionen": {
+    "occurrences": 1,
+    "translation": "Petitions"
+  },
+  "Pferd": {
+    "occurrences": 1,
+    "translation": "horse"
+  },
+  "Pflicht": {
+    "occurrences": 1,
+    "translation": "Duty"
+  },
+  "planenden": {
+    "occurrences": 1,
+    "translation": "planning"
+  },
+  "Platz": {
+    "occurrences": 1,
+    "translation": "place"
+  },
+  "Plenarsaal": {
+    "occurrences": 1,
+    "translation": "Plenary hall"
+  },
+  "Pläne": {
+    "occurrences": 1,
+    "translation": "Plans"
+  },
+  "Politikerinnen": {
+    "occurrences": 1,
+    "translation": "female politicians"
+  },
+  "Politikunterricht": {
+    "occurrences": 1,
+    "translation": "Politics lessons"
+  },
+  "politisch": {
+    "occurrences": 1,
+    "translation": "political"
+  },
+  "politischem": {
+    "occurrences": 1,
+    "translation": "political"
+  },
+  "Premierminister": {
+    "occurrences": 1,
+    "translation": "Prime Minister"
+  },
+  "Premierministerin": {
+    "occurrences": 1,
+    "translation": "Prime Minister"
+  },
+  "preußischen": {
+    "occurrences": 1,
+    "translation": "Prussian"
+  },
+  "private": {
+    "occurrences": 1,
+    "translation": "private"
+  },
+  "produziert": {
+    "occurrences": 1,
+    "translation": "produced"
+  },
+  "Programme": {
+    "occurrences": 1,
+    "translation": "programs"
+  },
+  "Prokura": {
+    "occurrences": 1,
+    "translation": "Procuratorate"
+  },
+  "Protokoll": {
+    "occurrences": 1,
+    "translation": "Protocol"
+  },
+  "Prozedur": {
+    "occurrences": 1,
+    "translation": "Procedure"
+  },
+  "Prozent": {
+    "occurrences": 1,
+    "translation": "percent"
+  },
+  "Präsident": {
+    "occurrences": 1,
+    "translation": "President"
+  },
+  "Präsidenten": {
+    "occurrences": 1,
+    "translation": "Presidents"
+  },
+  "Prüfung": {
+    "occurrences": 1,
+    "translation": "Exam"
+  },
+  "Prügelstrafe": {
+    "occurrences": 1,
+    "translation": "corporal punishment"
+  },
+  "Radfahren": {
+    "occurrences": 1,
+    "translation": "Cycling"
+  },
+  "Raketen": {
+    "occurrences": 1,
+    "translation": "Rockets"
+  },
+  "Rat": {
+    "occurrences": 1,
+    "translation": "Advice"
+  },
+  "rechte": {
+    "occurrences": 1,
+    "translation": "rights"
+  },
+  "rechtlichen": {
+    "occurrences": 1,
+    "translation": "legal"
+  },
+  "Rechtsfragen": {
+    "occurrences": 1,
+    "translation": "Legal issues"
+  },
+  "Rechtsprechung": {
+    "occurrences": 1,
+    "translation": "jurisprudence"
+  },
+  "rechtsstaatlich": {
+    "occurrences": 1,
+    "translation": "constitutional"
+  },
+  "regelmäßig": {
+    "occurrences": 1,
+    "translation": "regularly"
+  },
+  "regelmäßige": {
+    "occurrences": 1,
+    "translation": "regular"
+  },
+  "regelmäßigen": {
+    "occurrences": 1,
+    "translation": "regular"
+  },
+  "regierende": {
+    "occurrences": 1,
+    "translation": "governing"
+  },
+  "regierenden": {
+    "occurrences": 1,
+    "translation": "governing"
+  },
+  "regiert": {
+    "occurrences": 1,
+    "translation": "governed"
+  },
+  "Regierungschef": {
+    "occurrences": 1,
+    "translation": "head of government"
+  },
+  "Regierungschefin": {
+    "occurrences": 1,
+    "translation": "female head of government"
+  },
+  "Regierungsgeschäfte": {
+    "occurrences": 1,
+    "translation": "Government business"
+  },
+  "Regierungswechsel": {
+    "occurrences": 1,
+    "translation": "Change of government"
+  },
+  "reiches": {
+    "occurrences": 1,
+    "translation": "rich"
+  },
+  "Reichsadler": {
+    "occurrences": 1,
+    "translation": "Imperial eagle"
+  },
+  "Reichskanzler": {
+    "occurrences": 1,
+    "translation": "Reich Chancellor"
+  },
+  "Reichskrone": {
+    "occurrences": 1,
+    "translation": "Imperial crown"
+  },
+  "Reichspräsident": {
+    "occurrences": 1,
+    "translation": "Reich President"
+  },
+  "Reisefreiheit": {
+    "occurrences": 1,
+    "translation": "Freedom to travel"
+  },
+  "Religionen": {
+    "occurrences": 1,
+    "translation": "Religions"
+  },
+  "Religionspflicht": {
+    "occurrences": 1,
+    "translation": "Religious obligation"
+  },
+  "Renten": {
+    "occurrences": 1,
+    "translation": "Pensions"
+  },
+  "Rentenberechnung": {
+    "occurrences": 1,
+    "translation": "Pension calculation"
+  },
+  "Rentenversicherung": {
+    "occurrences": 1,
+    "translation": "Pension insurance"
+  },
+  "Reparationsleistungen": {
+    "occurrences": 1,
+    "translation": "Reparations payments"
+  },
+  "Revolution": {
+    "occurrences": 1,
+    "translation": "revolution"
+  },
+  "Rheinbund": {
+    "occurrences": 1,
+    "translation": "Rhine Confederation"
+  },
+  "Richtlinie": {
+    "occurrences": 1,
+    "translation": "Policy"
+  },
+  "Richtung": {
+    "occurrences": 1,
+    "translation": "direction"
+  },
+  "riefen": {
+    "occurrences": 1,
+    "translation": "shouted"
+  },
+  "Risiko": {
+    "occurrences": 1,
+    "translation": "Risk"
+  },
+  "rot-weiß-schwarz": {
+    "occurrences": 1,
+    "translation": "red-white-black"
+  },
+  "Rundfunk": {
+    "occurrences": 1,
+    "translation": "Broadcasting"
+  },
+  "Räterepublik": {
+    "occurrences": 1,
+    "translation": "Soviet Republic"
+  },
+  "Rückzug": {
+    "occurrences": 1,
+    "translation": "retreat"
+  },
+  "Sachen": {
+    "occurrences": 1,
+    "translation": "things"
+  },
+  "schafft": {
+    "occurrences": 1,
+    "translation": "creates"
+  },
+  "scheiden": {
+    "occurrences": 1,
+    "translation": "divorce"
+  },
+  "Scheidungsprozess": {
+    "occurrences": 1,
+    "translation": "Divorce process"
+  },
+  "Schichtarbeiter": {
+    "occurrences": 1,
+    "translation": "Shift workers"
+  },
+  "Schichtarbeiterinnen": {
+    "occurrences": 1,
+    "translation": "Shift workers"
+  },
+  "schicke": {
+    "occurrences": 1,
+    "translation": "send"
+  },
+  "schießen": {
+    "occurrences": 1,
+    "translation": "shoot"
+  },
+  "schlafen": {
+    "occurrences": 1,
+    "translation": "sleep"
+  },
+  "schlecht": {
+    "occurrences": 1,
+    "translation": "bad"
+  },
+  "schnell": {
+    "occurrences": 1,
+    "translation": "quickly"
+  },
+  "schneller": {
+    "occurrences": 1,
+    "translation": "faster"
+  },
+  "schreibe": {
+    "occurrences": 1,
+    "translation": "write"
+  },
+  "Schulamt": {
+    "occurrences": 1,
+    "translation": "School Board"
+  },
+  "Schulgeld": {
+    "occurrences": 1,
+    "translation": "School fees"
+  },
+  "Schulwesen": {
+    "occurrences": 1,
+    "translation": "School system"
+  },
+  "schwanger": {
+    "occurrences": 1,
+    "translation": "pregnant"
+  },
+  "schwarz-gelb": {
+    "occurrences": 1,
+    "translation": "black-yellow"
+  },
+  "schwarz-gelb-rot": {
+    "occurrences": 1,
+    "translation": "black-yellow-red"
+  },
+  "schwarz-rot-goldene": {
+    "occurrences": 1,
+    "translation": "black-red-gold"
+  },
+  "schwarz-rot-grün": {
+    "occurrences": 1,
+    "translation": "black-red-green"
+  },
+  "Schwarzarbeiter": {
+    "occurrences": 1,
+    "translation": "Black workers"
+  },
+  "Schwarzarbeiterinnen": {
+    "occurrences": 1,
+    "translation": "Black workers"
+  },
+  "Schweigerecht": {
+    "occurrences": 1,
+    "translation": "Right to remain silent"
+  },
+  "Schwierigkeiten": {
+    "occurrences": 1,
+    "translation": "difficulties"
+  },
+  "Schwimmbad": {
+    "occurrences": 1,
+    "translation": "Swimming pool"
+  },
+  "schöner": {
+    "occurrences": 1,
+    "translation": "more beautiful"
+  },
+  "Schüler": {
+    "occurrences": 1,
+    "translation": "student"
+  },
+  "Schülerinnen": {
+    "occurrences": 1,
+    "translation": "students"
+  },
+  "sechs": {
+    "occurrences": 1,
+    "translation": "six"
+  },
+  "sehen": {
+    "occurrences": 1,
+    "translation": "see"
+  },
+  "sehr": {
+    "occurrences": 1,
+    "translation": "very"
+  },
+  "Sektoren": {
+    "occurrences": 1,
+    "translation": "sectors"
+  },
+  "Selbstjustiz": {
+    "occurrences": 1,
+    "translation": "Vigilantism"
+  },
+  "selbstständig": {
+    "occurrences": 1,
+    "translation": "independent"
+  },
+  "Selbstständige": {
+    "occurrences": 1,
+    "translation": "Self-employed people"
+  },
+  "Senator": {
+    "occurrences": 1,
+    "translation": "Senator"
+  },
+  "Senatorin": {
+    "occurrences": 1,
+    "translation": "Senator"
+  },
+  "Sichere": {
+    "occurrences": 1,
+    "translation": "Secure"
+  },
+  "Signale": {
+    "occurrences": 1,
+    "translation": "Signals"
+  },
+  "Situation": {
+    "occurrences": 1,
+    "translation": "situation"
+  },
+  "Sitz": {
+    "occurrences": 1,
+    "translation": "Seat"
+  },
+  "Sitzungen": {
+    "occurrences": 1,
+    "translation": "meetings"
+  },
+  "so": {
+    "occurrences": 1,
+    "translation": "so; like this"
+  },
+  "solange": {
+    "occurrences": 1,
+    "translation": "as long as"
+  },
+  "solchen": {
+    "occurrences": 1,
+    "translation": "such"
+  },
+  "sollten": {
+    "occurrences": 1,
+    "translation": "should"
+  },
+  "Sonne": {
+    "occurrences": 1,
+    "translation": "sun"
+  },
+  "Souveränität": {
+    "occurrences": 1,
+    "translation": "Sovereignty"
+  },
+  "Sozialdemokratie": {
+    "occurrences": 1,
+    "translation": "Social democracy"
+  },
+  "sozialem": {
+    "occurrences": 1,
+    "translation": "social"
+  },
+  "Sozialgerechte": {
+    "occurrences": 1,
+    "translation": "Socially just"
+  },
+  "Sozialhilfe": {
+    "occurrences": 1,
+    "translation": "Social assistance"
+  },
+  "Sozialismus": {
+    "occurrences": 1,
+    "translation": "Socialism"
+  },
+  "Sozialistische": {
+    "occurrences": 1,
+    "translation": "Socialist"
+  },
+  "Sozialpolitische": {
+    "occurrences": 1,
+    "translation": "Social-political"
+  },
+  "Sozialstaat": {
+    "occurrences": 1,
+    "translation": "welfare state"
+  },
+  "Sozialversicherungen": {
+    "occurrences": 1,
+    "translation": "Social Security"
+  },
+  "spenden": {
+    "occurrences": 1,
+    "translation": "donate"
+  },
+  "Spendengeldern": {
+    "occurrences": 1,
+    "translation": "donations"
+  },
+  "speziell": {
+    "occurrences": 1,
+    "translation": "special"
+  },
+  "Spielen": {
+    "occurrences": 1,
+    "translation": "Play"
+  },
+  "Sportler": {
+    "occurrences": 1,
+    "translation": "Athlete"
+  },
+  "Sportlerinnen": {
+    "occurrences": 1,
+    "translation": "Female athletes"
+  },
+  "sprach": {
+    "occurrences": 1,
+    "translation": "spoke"
+  },
+  "Sprache": {
+    "occurrences": 1,
+    "translation": "language"
+  },
+  "Sprachunterricht": {
+    "occurrences": 1,
+    "translation": "Language lessons"
+  },
+  "spät": {
+    "occurrences": 1,
+    "translation": "late"
+  },
+  "Staat-Symbole": {
+    "occurrences": 1,
+    "translation": "State symbols"
+  },
+  "Staatenbund": {
+    "occurrences": 1,
+    "translation": "Confederation of States"
+  },
+  "Staatenverbund": {
+    "occurrences": 1,
+    "translation": "Association of states"
+  },
+  "Staates": {
+    "occurrences": 1,
+    "translation": "State"
+  },
+  "Staatsanwalt": {
+    "occurrences": 1,
+    "translation": "Prosecutor"
+  },
+  "Staatsanwältin": {
+    "occurrences": 1,
+    "translation": "Prosecutor"
+  },
+  "Staatsbürger": {
+    "occurrences": 1,
+    "translation": "Citizen"
+  },
+  "Staatsbürgerinnen": {
+    "occurrences": 1,
+    "translation": "Citizens"
+  },
+  "Staatsform": {
+    "occurrences": 1,
+    "translation": "form of government"
+  },
+  "Staatspräsident": {
+    "occurrences": 1,
+    "translation": "President"
+  },
+  "Stadtoberhaupts": {
+    "occurrences": 1,
+    "translation": "city leader"
+  },
+  "Stadträte": {
+    "occurrences": 1,
+    "translation": "City councillors"
+  },
+  "stand": {
+    "occurrences": 1,
+    "translation": "stood"
+  },
+  "Statistik": {
+    "occurrences": 1,
+    "translation": "Statistics"
+  },
+  "stellt": {
+    "occurrences": 1,
+    "translation": "provides"
+  },
+  "Stellvertreter": {
+    "occurrences": 1,
+    "translation": "Deputy"
+  },
+  "Stellvertreterin": {
+    "occurrences": 1,
+    "translation": "Deputy"
+  },
+  "Steuerbescheid": {
+    "occurrences": 1,
+    "translation": "Tax notice"
+  },
+  "steuert": {
+    "occurrences": 1,
+    "translation": "controls"
+  },
+  "Steuerzahler": {
+    "occurrences": 1,
+    "translation": "Taxpayer"
+  },
+  "Steuerzahlerin": {
+    "occurrences": 1,
+    "translation": "taxpayer"
+  },
+  "Stimmzettel": {
+    "occurrences": 1,
+    "translation": "Ballot"
+  },
+  "Strafgericht": {
+    "occurrences": 1,
+    "translation": "criminal court"
+  },
+  "Strafgesetze": {
+    "occurrences": 1,
+    "translation": "Criminal laws"
+  },
+  "strafmündig": {
+    "occurrences": 1,
+    "translation": "criminally responsible"
+  },
+  "Straftäter": {
+    "occurrences": 1,
+    "translation": "criminals"
+  },
+  "Straftäterinnen": {
+    "occurrences": 1,
+    "translation": "female offenders"
+  },
+  "studiert": {
+    "occurrences": 1,
+    "translation": "studied"
+  },
+  "Studium": {
+    "occurrences": 1,
+    "translation": "Study"
+  },
+  "Stufe": {
+    "occurrences": 1,
+    "translation": "stage"
+  },
+  "Städte": {
+    "occurrences": 1,
+    "translation": "Cities"
+  },
+  "suchen": {
+    "occurrences": 1,
+    "translation": "search"
+  },
+  "Symbol": {
+    "occurrences": 1,
+    "translation": "symbol"
+  },
+  "Süddeutsche": {
+    "occurrences": 1,
+    "translation": "South Germans"
+  },
+  "Taschengeld": {
+    "occurrences": 1,
+    "translation": "Pocket money"
+  },
+  "teilen": {
+    "occurrences": 1,
+    "translation": "share"
+  },
+  "teilzunehmen": {
+    "occurrences": 1,
+    "translation": "to participate"
+  },
+  "telefonisch": {
+    "occurrences": 1,
+    "translation": "by telephone"
+  },
+  "teuer": {
+    "occurrences": 1,
+    "translation": "expensive"
+  },
+  "Themen": {
+    "occurrences": 1,
+    "translation": "topics"
+  },
+  "Tier": {
+    "occurrences": 1,
+    "translation": "animal"
+  },
+  "Todesstrafe": {
+    "occurrences": 1,
+    "translation": "Death penalty"
+  },
+  "tolerant": {
+    "occurrences": 1,
+    "translation": "tolerant"
+  },
+  "Toleranz": {
+    "occurrences": 1,
+    "translation": "Tolerance"
+  },
+  "Toten": {
+    "occurrences": 1,
+    "translation": "dead"
+  },
+  "trainiere": {
+    "occurrences": 1,
+    "translation": "train"
+  },
+  "Trauertag": {
+    "occurrences": 1,
+    "translation": "day of mourning"
+  },
+  "Treffen": {
+    "occurrences": 1,
+    "translation": "meeting"
+  },
+  "Trennungsjahr": {
+    "occurrences": 1,
+    "translation": "year of separation"
+  },
+  "Umstand": {
+    "occurrences": 1,
+    "translation": "circumstance"
+  },
+  "Umweltschutz": {
+    "occurrences": 1,
+    "translation": "Environmental protection"
+  },
+  "umziehen": {
+    "occurrences": 1,
+    "translation": "move"
+  },
+  "unantastbar": {
+    "occurrences": 1,
+    "translation": "untouchable"
+  },
+  "unbedingt": {
+    "occurrences": 1,
+    "translation": "absolutely"
+  },
+  "unbegrenzte": {
+    "occurrences": 1,
+    "translation": "unlimited"
+  },
+  "Unbekannten": {
+    "occurrences": 1,
+    "translation": "unknown"
+  },
+  "Unfallversicherung": {
+    "occurrences": 1,
+    "translation": "Accident insurance"
+  },
+  "ungefragt": {
+    "occurrences": 1,
+    "translation": "without asking"
+  },
+  "Universität": {
+    "occurrences": 1,
+    "translation": "University"
+  },
+  "Universitäten": {
+    "occurrences": 1,
+    "translation": "Universities"
+  },
+  "Unrecht": {
+    "occurrences": 1,
+    "translation": "Injustice"
+  },
+  "unter": {
+    "occurrences": 1,
+    "translation": "under; among"
+  },
+  "untergeht": {
+    "occurrences": 1,
+    "translation": "goes down"
+  },
+  "Unterhaltung": {
+    "occurrences": 1,
+    "translation": "Entertainment"
+  },
+  "unterliegen": {
+    "occurrences": 1,
+    "translation": "subject to"
+  },
+  "Unternehmer": {
+    "occurrences": 1,
+    "translation": "Entrepreneur"
+  },
+  "Unternehmerverband": {
+    "occurrences": 1,
+    "translation": "Business association"
+  },
+  "unterste": {
+    "occurrences": 1,
+    "translation": "lowest"
+  },
+  "unterstützt": {
+    "occurrences": 1,
+    "translation": "supported"
+  },
+  "unterworfen": {
+    "occurrences": 1,
+    "translation": "subjected"
+  },
+  "Urkunden": {
+    "occurrences": 1,
+    "translation": "Certificates"
+  },
+  "Vater": {
+    "occurrences": 1,
+    "translation": "Father"
+  },
+  "Vaterland": {
+    "occurrences": 1,
+    "translation": "fatherland"
+  },
+  "Vaterländischen": {
+    "occurrences": 1,
+    "translation": "Patriotic"
+  },
+  "Verabschiedung": {
+    "occurrences": 1,
+    "translation": "Farewell"
+  },
+  "Verband": {
+    "occurrences": 1,
+    "translation": "Association"
+  },
+  "verbietet": {
+    "occurrences": 1,
+    "translation": "prohibits"
+  },
+  "Verbraucherzentrale": {
+    "occurrences": 1,
+    "translation": "consumer advice center"
+  },
+  "Verbrechen": {
+    "occurrences": 1,
+    "translation": "Crime"
+  },
+  "verdienen": {
+    "occurrences": 1,
+    "translation": "earn"
+  },
+  "Verdienstorden": {
+    "occurrences": 1,
+    "translation": "Order of Merit"
+  },
+  "Verein": {
+    "occurrences": 1,
+    "translation": "Club"
+  },
+  "vereinbar": {
+    "occurrences": 1,
+    "translation": "compatible"
+  },
+  "Vereine": {
+    "occurrences": 1,
+    "translation": "Clubs"
+  },
+  "Vereinigung": {
+    "occurrences": 1,
+    "translation": "Association"
+  },
+  "Vereinsbeiträgen": {
+    "occurrences": 1,
+    "translation": "Club contributions"
+  },
+  "Vereinstrainer": {
+    "occurrences": 1,
+    "translation": "Club coach"
+  },
+  "Vereinstrainerin": {
+    "occurrences": 1,
+    "translation": "Club coach"
+  },
+  "Vereinten": {
+    "occurrences": 1,
+    "translation": "United"
+  },
+  "Verfahren": {
+    "occurrences": 1,
+    "translation": "Procedure"
+  },
+  "Verfassungsorganen": {
+    "occurrences": 1,
+    "translation": "constitutional bodies"
+  },
+  "Verfassungsvertrag": {
+    "occurrences": 1,
+    "translation": "Constitutional Treaty"
+  },
+  "verfolgt": {
+    "occurrences": 1,
+    "translation": "pursued"
+  },
+  "Verfolgung": {
+    "occurrences": 1,
+    "translation": "Persecution"
+  },
+  "Verhaftungen": {
+    "occurrences": 1,
+    "translation": "Arrests"
+  },
+  "verhindern": {
+    "occurrences": 1,
+    "translation": "prevent"
+  },
+  "verkauft": {
+    "occurrences": 1,
+    "translation": "sold"
+  },
+  "Verkehrsmittel": {
+    "occurrences": 1,
+    "translation": "Means of transport"
+  },
+  "Verkehrsunfall": {
+    "occurrences": 1,
+    "translation": "Traffic accident"
+  },
+  "verkleiden": {
+    "occurrences": 1,
+    "translation": "dress up"
+  },
+  "verletzt": {
+    "occurrences": 1,
+    "translation": "injured"
+  },
+  "verliert": {
+    "occurrences": 1,
+    "translation": "loses"
+  },
+  "verlängern": {
+    "occurrences": 1,
+    "translation": "extend"
+  },
+  "Verpflichtung": {
+    "occurrences": 1,
+    "translation": "Commitment"
+  },
+  "Versicherung": {
+    "occurrences": 1,
+    "translation": "Insurance"
+  },
+  "Versicherungspflicht": {
+    "occurrences": 1,
+    "translation": "Compulsory insurance"
+  },
+  "verstecken": {
+    "occurrences": 1,
+    "translation": "hide"
+  },
+  "versteht": {
+    "occurrences": 1,
+    "translation": "understands"
+  },
+  "verstoßen": {
+    "occurrences": 1,
+    "translation": "violated"
+  },
+  "verteidigen": {
+    "occurrences": 1,
+    "translation": "defend"
+  },
+  "verteidigt": {
+    "occurrences": 1,
+    "translation": "defended"
+  },
+  "Verteidigungsgemeinschaft": {
+    "occurrences": 1,
+    "translation": "Defense Community"
+  },
+  "Verteidigungspolitik": {
+    "occurrences": 1,
+    "translation": "Defense policy"
+  },
+  "verteilt": {
+    "occurrences": 1,
+    "translation": "distributed"
+  },
+  "verurteilten": {
+    "occurrences": 1,
+    "translation": "condemned"
+  },
+  "Verwaltung": {
+    "occurrences": 1,
+    "translation": "Administration"
+  },
+  "Verwaltungsaufbau": {
+    "occurrences": 1,
+    "translation": "Administrative structure"
+  },
+  "Verwaltungsgericht": {
+    "occurrences": 1,
+    "translation": "Administrative Court"
+  },
+  "Verwandten": {
+    "occurrences": 1,
+    "translation": "relatives"
+  },
+  "veränderte": {
+    "occurrences": 1,
+    "translation": "changed"
+  },
+  "Vietnamkrieg": {
+    "occurrences": 1,
+    "translation": "Vietnam War"
+  },
+  "VN": {
+    "occurrences": 1,
+    "translation": "VN"
+  },
+  "Volksbildung": {
+    "occurrences": 1,
+    "translation": "Popular education"
+  },
+  "Volksgesetz": {
+    "occurrences": 1,
+    "translation": "People's Law"
+  },
+  "Volkshochschule": {
+    "occurrences": 1,
+    "translation": "Community college"
+  },
+  "Volkskammer": {
+    "occurrences": 1,
+    "translation": "People's Chamber"
+  },
+  "vollem": {
+    "occurrences": 1,
+    "translation": "full"
+  },
+  "volljährig": {
+    "occurrences": 1,
+    "translation": "of legal age"
+  },
+  "vollziehenden": {
+    "occurrences": 1,
+    "translation": "executing"
+  },
+  "Vorhang": {
+    "occurrences": 1,
+    "translation": "curtain"
+  },
+  "vorher": {
+    "occurrences": 1,
+    "translation": "before"
+  },
+  "vorliegen": {
+    "occurrences": 1,
+    "translation": "present"
+  },
+  "vorschlägt": {
+    "occurrences": 1,
+    "translation": "suggests"
+  },
+  "Vorsitzende": {
+    "occurrences": 1,
+    "translation": "Chairman"
+  },
+  "Völker": {
+    "occurrences": 1,
+    "translation": "peoples"
+  },
+  "Waffenbesitz": {
+    "occurrences": 1,
+    "translation": "Weapon possession"
+  },
+  "Wahlbenachrichtigungen": {
+    "occurrences": 1,
+    "translation": "Election notifications"
+  },
+  "wahlberechtigten": {
+    "occurrences": 1,
+    "translation": "eligible voters"
+  },
+  "Wahlerlaubnis": {
+    "occurrences": 1,
+    "translation": "Voting permit"
+  },
+  "Wahlfreiheit": {
+    "occurrences": 1,
+    "translation": "Freedom of choice"
+  },
+  "Wahlgesetz": {
+    "occurrences": 1,
+    "translation": "Electoral law"
+  },
+  "Wahlkabine": {
+    "occurrences": 1,
+    "translation": "Voting booth"
+  },
+  "Wahlkampagne": {
+    "occurrences": 1,
+    "translation": "election campaign"
+  },
+  "Wahllokals": {
+    "occurrences": 1,
+    "translation": "polling station"
+  },
+  "Wahlpflicht": {
+    "occurrences": 1,
+    "translation": "Compulsory voting"
+  },
+  "Wahlsystem": {
+    "occurrences": 1,
+    "translation": "Electoral system"
+  },
+  "Wahltag": {
+    "occurrences": 1,
+    "translation": "Election Day"
+  },
+  "Wahlverfahren": {
+    "occurrences": 1,
+    "translation": "Electoral procedure"
+  },
+  "Wappentier": {
+    "occurrences": 1,
+    "translation": "Heraldic animal"
+  },
+  "warten": {
+    "occurrences": 1,
+    "translation": "wait"
+  },
+  "wegwerfen": {
+    "occurrences": 1,
+    "translation": "throw away"
+  },
+  "wehren": {
+    "occurrences": 1,
+    "translation": "defend"
+  },
+  "Wehrmacht": {
+    "occurrences": 1,
+    "translation": "Wehrmacht"
+  },
+  "weiß-blau": {
+    "occurrences": 1,
+    "translation": "white-blue"
+  },
+  "weiterarbeiten": {
+    "occurrences": 1,
+    "translation": "continue working"
+  },
+  "Weltkriege": {
+    "occurrences": 1,
+    "translation": "World Wars"
+  },
+  "wem": {
+    "occurrences": 1,
+    "translation": "who"
+  },
+  "weniger": {
+    "occurrences": 1,
+    "translation": "less"
+  },
+  "werde": {
+    "occurrences": 1,
+    "translation": "will"
+  },
+  "westlichen": {
+    "occurrences": 1,
+    "translation": "western"
+  },
+  "Westmächten": {
+    "occurrences": 1,
+    "translation": "Western powers"
+  },
+  "Weststaat": {
+    "occurrences": 1,
+    "translation": "Western State"
+  },
+  "Wettbewerb": {
+    "occurrences": 1,
+    "translation": "competition"
+  },
+  "widerspreche": {
+    "occurrences": 1,
+    "translation": "contradict"
+  },
+  "willkürliche": {
+    "occurrences": 1,
+    "translation": "arbitrary"
+  },
+  "wirken": {
+    "occurrences": 1,
+    "translation": "act"
+  },
+  "wirtschaftlichem": {
+    "occurrences": 1,
+    "translation": "economic"
+  },
+  "wirtschaftlichen": {
+    "occurrences": 1,
+    "translation": "economic"
+  },
+  "Wirtschaftsform": {
+    "occurrences": 1,
+    "translation": "economic form"
+  },
+  "Wirtschaftspolitik": {
+    "occurrences": 1,
+    "translation": "Economic policy"
+  },
+  "Wirtschaftssystem": {
+    "occurrences": 1,
+    "translation": "Economic system"
+  },
+  "Wirtschaftswunder": {
+    "occurrences": 1,
+    "translation": "Economic miracle"
+  },
+  "Wochen": {
+    "occurrences": 1,
+    "translation": "weeks"
+  },
+  "Wochenbett": {
+    "occurrences": 1,
+    "translation": "puerperal bed"
+  },
+  "Wofür": {
+    "occurrences": 1,
+    "translation": "For what"
+  },
+  "Wohin": {
+    "occurrences": 1,
+    "translation": "Where to"
+  },
+  "Wohngeld": {
+    "occurrences": 1,
+    "translation": "Housing benefit"
+  },
+  "wohnt": {
+    "occurrences": 1,
+    "translation": "lives"
+  },
+  "wollte": {
+    "occurrences": 1,
+    "translation": "wanted"
+  },
+  "Woran": {
+    "occurrences": 1,
+    "translation": "About what"
+  },
+  "Worten": {
+    "occurrences": 1,
+    "translation": "words"
+  },
+  "Wählerinnen": {
+    "occurrences": 1,
+    "translation": "women voters"
+  },
+  "Währung": {
+    "occurrences": 1,
+    "translation": "Currency"
+  },
+  "wäre": {
+    "occurrences": 1,
+    "translation": "would be"
+  },
+  "Würde": {
+    "occurrences": 1,
+    "translation": "Dignity"
+  },
+  "zahlt": {
+    "occurrences": 1,
+    "translation": "pays"
+  },
+  "zeigt": {
+    "occurrences": 1,
+    "translation": "shows"
+  },
+  "zeigte": {
+    "occurrences": 1,
+    "translation": "showed"
+  },
+  "Zeitarbeiter": {
+    "occurrences": 1,
+    "translation": "Temporary worker"
+  },
+  "Zeitarbeiterinnen": {
+    "occurrences": 1,
+    "translation": "temporary workers"
+  },
+  "Zeitraum": {
+    "occurrences": 1,
+    "translation": "period"
+  },
+  "Zeitungen": {
+    "occurrences": 1,
+    "translation": "Newspapers"
+  },
+  "Zensuswahlrecht": {
+    "occurrences": 1,
+    "translation": "Census voting rights"
+  },
+  "Zentralstaat": {
+    "occurrences": 1,
+    "translation": "Central government"
+  },
+  "zerstörten": {
+    "occurrences": 1,
+    "translation": "destroyed"
+  },
+  "ziehen": {
+    "occurrences": 1,
+    "translation": "pull"
+  },
+  "Zirkel": {
+    "occurrences": 1,
+    "translation": "Circle"
+  },
+  "zuerst": {
+    "occurrences": 1,
+    "translation": "first"
+  },
+  "Zukunft": {
+    "occurrences": 1,
+    "translation": "future"
+  },
+  "Zulassungsgrenze": {
+    "occurrences": 1,
+    "translation": "Admission limit"
+  },
+  "zurzeit": {
+    "occurrences": 1,
+    "translation": "currently"
+  },
+  "zurück": {
+    "occurrences": 1,
+    "translation": "back"
+  },
+  "zurückzuholen": {
+    "occurrences": 1,
+    "translation": "to retrieve"
+  },
+  "zusammenleben": {
+    "occurrences": 1,
+    "translation": "live together"
+  },
+  "zuvor": {
+    "occurrences": 1,
+    "translation": "before"
+  },
+  "zweijähriges": {
+    "occurrences": 1,
+    "translation": "two year old"
+  },
+  "zwingen": {
+    "occurrences": 1,
+    "translation": "force"
+  },
+  "zwischen": {
+    "occurrences": 1,
+    "translation": "between"
+  },
+  "Ährenkranz": {
+    "occurrences": 1,
+    "translation": "Wreath of wheat"
+  },
+  "älter": {
+    "occurrences": 1,
+    "translation": "older"
+  },
+  "älteste": {
+    "occurrences": 1,
+    "translation": "oldest"
+  },
+  "Ältestenrat": {
+    "occurrences": 1,
+    "translation": "Council of Elders"
+  },
+  "äußert": {
+    "occurrences": 1,
+    "translation": "expresses"
+  },
+  "öffentlich": {
+    "occurrences": 1,
+    "translation": "public"
+  },
+  "öffentlicher": {
+    "occurrences": 1,
+    "translation": "public"
+  },
+  "öffentliches": {
+    "occurrences": 1,
+    "translation": "public"
+  },
+  "Öffentlichkeit": {
+    "occurrences": 1,
+    "translation": "public"
+  },
+  "üben": {
+    "occurrences": 1,
+    "translation": "practice"
+  },
+  "überall": {
+    "occurrences": 1,
+    "translation": "everywhere"
+  },
+  "Überfällen": {
+    "occurrences": 1,
+    "translation": "raids"
+  },
+  "übernehmen": {
+    "occurrences": 1,
+    "translation": "take over"
+  },
+  "übertritt": {
+    "occurrences": 1,
+    "translation": "transgresses"
+  },
+  "überwacht": {
+    "occurrences": 1,
+    "translation": "monitored"
+  }
+}

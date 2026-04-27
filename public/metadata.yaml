@@ -56,3 +56,5 @@ categories:
         questions: einbuergerungstest/Teil-I_translated.yaml
       - name: Niedersachsen
         questions: einbuergerungstest/Niedersachsen.yaml
+      - name: Words
+        questions: einbuergerungstest/Teil-I_words.yaml
