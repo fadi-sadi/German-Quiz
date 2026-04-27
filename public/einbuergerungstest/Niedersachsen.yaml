@@ -1,89 +1,99 @@
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welches Wappen gehört zum Bundesland Niedersachsen?
   image: 'images/Niedersachsen_q1.png'
-  answer: ''
+  answer: 'Bild 3'
   options:
     - 'Bild 1'
     - 'Bild 2'
     - 'Bild 3'
     - 'Bild 4'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welches ist ein Landkreis in Niedersachsen?
-  answer: ''
+  answer: 'Ammerland'
   options:
     - 'Ammerland'
     - 'Rhein-Sieg-Kreis'
     - 'Nordfriesland'
     - 'Vogtlandkreis'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?
-  answer: ''
+  answer: '5'
   options:
     - '3'
     - '4'
     - '5'
     - '6'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?
-  answer: ''
+  answer: '16'
   options:
     - '14'
     - '16'
     - '18'
     - '20'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welche Farben hat die Landesflagge von Niedersachsen?
-  answer: ''
+  answer: 'schwarz-rot-gold'
   options:
     - 'weiß-blau'
     - 'schwarz-rot-gold'
     - 'schwarz-gelb'
     - 'blau-weiß-rot'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Wo können Sie sich in Niedersachsen über politische Themen informieren?
-  answer: ''
+  answer: 'bei der Landeszentrale für politische Bildung'
   options:
     - 'bei der Landeszentrale für politische Bildung'
     - 'beim Ordnungsamt der Gemeinde'
     - 'bei der Verbraucherzentrale'
     - 'bei den Kirchen'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Die Landeshauptstadt von Niedersachsen heißt …
-  answer: ''
+  answer: 'Hannover.'
   options:
     - 'Hannover.'
     - 'Braunschweig.'
     - 'Wolfsburg.'
     - 'Osnabrück.'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welches Bundesland ist Niedersachsen?
   image: 'images/Niedersachsen_q8.png'
-  answer: ''
+  answer: '1'
   options:
     - '1'
     - '2'
     - '3'
     - '4'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?
-  answer: ''
+  answer: 'Ministerpräsidentin/Ministerpräsident'
   options:
     - 'Erste Ministerin/Erster Minister'
     - 'Premierministerin/Premierminister'
     - 'Bürgermeisterin/Bürgermeister'
     - 'Ministerpräsidentin/Ministerpräsident'
 
+# https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welche Ministerin/welchen Minister hat Niedersachsen nicht?
-  answer: ''
+  answer: 'Außenministerin/Außenminister'
   options:
     - 'Justizministerin/Justizminister'
     - 'Außenministerin/Außenminister'
