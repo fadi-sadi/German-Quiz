@@ -1,55 +1,55 @@
 name: German Quiz
 categories:
-  - name: A1
-    categories:
-      - name: Vocabulary
-        questions: a1/vocabulary/questions.yaml
-      - name: Grammar
-        questions: a1/grammar/questions.yaml
-      - name: Reading Comprehension
-        questions: a1/reading-comprehension/questions.yaml
-      - name: Prepositions
-        questions: a1/prepositions/questions.yaml
-  - name: A2
-    categories:
-      - name: Vocabulary
-        questions: a2/vocabulary/questions.yaml
-      - name: Grammar
-        questions: a2/grammar/questions.yaml
-      - name: Reading Comprehension
-        questions: a2/reading-comprehension/questions.yaml
-      - name: Prepositions
-        questions: a2/prepositions/questions.yaml
-  - name: B1
-    categories:
-      - name: Vocabulary
-        questions: b1/vocabulary/questions.yaml
-      - name: Grammar
-        questions: b1/grammar/questions.yaml
-      - name: Reading Comprehension
-        questions: b1/reading-comprehension/questions.yaml
-      - name: Prepositions
-        questions: b1/prepositions/questions.yaml
-  - name: B2
-    categories:
-      - name: Vocabulary
-        questions: b2/vocabulary/questions.yaml
-      - name: Grammar
-        questions: b2/grammar/questions.yaml
-      - name: Reading Comprehension
-        questions: b2/reading-comprehension/questions.yaml
-      - name: Prepositions
-        questions: b2/prepositions/questions.yaml
-  - name: C1
-    categories:
-      - name: Vocabulary
-        questions: c1/vocabulary/questions.yaml
-      - name: Grammar
-        questions: c1/grammar/questions.yaml
-      - name: Reading Comprehension
-        questions: c1/reading-comprehension/questions.yaml
-      - name: Prepositions
-        questions: c1/prepositions/questions.yaml
+  # - name: A1
+  #   categories:
+  #     - name: Vocabulary
+  #       questions: a1/vocabulary/questions.yaml
+  #     - name: Grammar
+  #       questions: a1/grammar/questions.yaml
+  #     - name: Reading Comprehension
+  #       questions: a1/reading-comprehension/questions.yaml
+  #     - name: Prepositions
+  #       questions: a1/prepositions/questions.yaml
+  # - name: A2
+  #   categories:
+  #     - name: Vocabulary
+  #       questions: a2/vocabulary/questions.yaml
+  #     - name: Grammar
+  #       questions: a2/grammar/questions.yaml
+  #     - name: Reading Comprehension
+  #       questions: a2/reading-comprehension/questions.yaml
+  #     - name: Prepositions
+  #       questions: a2/prepositions/questions.yaml
+  # - name: B1
+  #   categories:
+  #     - name: Vocabulary
+  #       questions: b1/vocabulary/questions.yaml
+  #     - name: Grammar
+  #       questions: b1/grammar/questions.yaml
+  #     - name: Reading Comprehension
+  #       questions: b1/reading-comprehension/questions.yaml
+  #     - name: Prepositions
+  #       questions: b1/prepositions/questions.yaml
+  # - name: B2
+  #   categories:
+  #     - name: Vocabulary
+  #       questions: b2/vocabulary/questions.yaml
+  #     - name: Grammar
+  #       questions: b2/grammar/questions.yaml
+  #     - name: Reading Comprehension
+  #       questions: b2/reading-comprehension/questions.yaml
+  #     - name: Prepositions
+  #       questions: b2/prepositions/questions.yaml
+  # - name: C1
+  #   categories:
+  #     - name: Vocabulary
+  #       questions: c1/vocabulary/questions.yaml
+  #     - name: Grammar
+  #       questions: c1/grammar/questions.yaml
+  #     - name: Reading Comprehension
+  #       questions: c1/reading-comprehension/questions.yaml
+  #     - name: Prepositions
+  #       questions: c1/prepositions/questions.yaml
   - name: Leben in Deutschland
     categories:
       - name: General
