@@ -2,6 +2,8 @@
 - question: >
     Welches Wappen gehört zum Bundesland Niedersachsen?
   image: 'images/Niedersachsen_q1.png'
+  hint: >
+    Which coat of arms belongs to the federal state of Lower Saxony?
   answer: 'Bild 3'
   options:
     - 'Bild 1'
@@ -12,6 +14,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welches ist ein Landkreis in Niedersachsen?
+  hint: >
+    Which is a district in Lower Saxony?
   answer: 'Ammerland'
   options:
     - 'Ammerland'
@@ -22,6 +26,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?
+  hint: >
+    For how many years is the state parliament in Lower Saxony elected?
   answer: '5'
   options:
     - '3'
@@ -32,6 +38,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?
+  hint: >
+    From what age are people allowed to vote in municipal elections in Lower Saxony?
   answer: '16'
   options:
     - '14'
@@ -42,6 +50,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welche Farben hat die Landesflagge von Niedersachsen?
+  hint: >
+    What colors does the state flag of Lower Saxony have?
   answer: 'schwarz-rot-gold'
   options:
     - 'weiß-blau'
@@ -52,6 +62,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Wo können Sie sich in Niedersachsen über politische Themen informieren?
+  hint: >
+    Where can you get information about political topics in Lower Saxony?
   answer: 'bei der Landeszentrale für politische Bildung'
   options:
     - 'bei der Landeszentrale für politische Bildung'
@@ -62,6 +74,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Die Landeshauptstadt von Niedersachsen heißt …
+  hint: >
+    The state capital of Lower Saxony is called …
   answer: 'Hannover.'
   options:
     - 'Hannover.'
@@ -73,6 +87,8 @@
 - question: >
     Welches Bundesland ist Niedersachsen?
   image: 'images/Niedersachsen_q8.png'
+  hint: >
+    Which federal state is Lower Saxony?
   answer: '1'
   options:
     - '1'
@@ -83,6 +99,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?
+  hint: >
+    What is the head of government in Lower Saxony called?
   answer: 'Ministerpräsidentin/Ministerpräsident'
   options:
     - 'Erste Ministerin/Erster Minister'
@@ -93,6 +111,8 @@
 # https://www.lebenindeutschlandtest.eu/fragenkatalog/ni
 - question: >
     Welche Ministerin/welchen Minister hat Niedersachsen nicht?
+  hint: >
+    Which minister does Lower Saxony not have?
   answer: 'Außenministerin/Außenminister'
   options:
     - 'Justizministerin/Justizminister'
