@@ -1,0 +1,800 @@
+- question: |-
+    What does 'der Absender' mean?
+    
+    Kannst du mir bitte den Absender auf diesem Brief zeigen?
+  answer: Sender
+- question: |-
+    What does 'Achtung' mean?
+    
+    Können Sie bitte auf das Schild „Achtung“ zeigen?
+  answer: Danger
+- question: |-
+    What does 'die Anzeige' mean?
+    
+    Können Sie bitte eine Anzeige für mich aufgeben?
+  answer: Ad
+- question: |-
+    What does 'das Apartment' mean?
+    
+    Können Sie uns bitte ein Apartment für zwei Nächte reservieren?
+  answer: Apartment
+- question: |-
+    What does 'der Apfel' mean?
+    
+    Kannst du mir bitte einen Apfel geben?
+  answer: Apple
+- question: |-
+    What does 'der Arzt' mean?
+    
+    Können Sie mir bitte einen Termin beim Arzt geben?
+  answer: Doctor
+- question: |-
+    What does 'der Aufzug' mean?
+    
+    Können Sie bitte den Aufzug für mich holen?
+  answer: Elevator
+- question: |-
+    What does 'der Ausweis' mean?
+    
+    Können Sie mir bitte Ihren Ausweis zeigen?
+  answer: ID card
+- question: |-
+    What does 'das Auto' mean?
+    
+    Kannst du mich bitte mit dem Auto zum Bahnhof bringen?
+  answer: Car
+- question: |-
+    What does 'die Autobahn' mean?
+    
+    Können Sie mir bitte den Weg zur Autobahn zeigen?
+  answer: Highway
+- question: |-
+    What does 'der Automat' mean?
+    
+    Können Sie bitte am Automaten eine Fahrkarte für mich kaufen?
+  answer: Machine
+- question: |-
+    What does 'das Baby' mean?
+    
+    Kannst du bitte auf das Baby aufpassen?
+  answer: Baby
+- question: |-
+    What does 'die Bäckerei' mean?
+    
+    Kannst du bitte Brot aus der Bäckerei mitbringen?
+  answer: Bakery
+- question: |-
+    What does 'das Bad' mean?
+    
+    Kannst du mir bitte zeigen, wo das Bad ist?
+  answer: Bathroom
+- question: |-
+    What does 'die Bahn' mean?
+    
+    Können Sie mir bitte sagen, wann die nächste Bahn fährt?
+  answer: Train; railway
+- question: |-
+    What does 'der Bahnhof' mean?
+    
+    Können Sie mir bitte den Weg zum Bahnhof zeigen?
+  answer: Station
+- question: |-
+    What does 'der Bahnsteig' mean?
+    
+    Können Sie mir bitte sagen, von welchem Bahnsteig der Zug fährt?
+  answer: Platform
+- question: |-
+    What does 'der Balkon' mean?
+    
+    Kannst du bitte die Stühle auf den Balkon stellen?
+  answer: Balcony
+- question: |-
+    What does 'die Banane' mean?
+    
+    Kannst du mir bitte eine Banane geben?
+  answer: Banana
+- question: |-
+    What does 'die Bank' mean?
+    
+    Können Sie mir bitte einen Platz auf der Bank freihalten?
+  answer: Bank; bench
+- question: |-
+    What does 'der Baum' mean?
+    
+    Bitte fahr vorsichtig und pass auf den Baum auf!
+  answer: Tree
+- question: |-
+    What does 'der Beamte' mean?
+    
+    Fragen Sie bitte den Beamten am Schalter um Hilfe!
+  answer: Official
+- question: |-
+    What does 'das Bett' mean?
+    
+    Kannst du bitte das Bett für das Kind machen?
+  answer: Bed
+- question: |-
+    What does 'das Bier' mean?
+    
+    Kann ich bitte noch ein Bier bekommen?
+  answer: Beer
+- question: |-
+    What does 'das Bild' mean?
+    
+    Kannst du mir bitte ein Bild von deiner Familie zeigen?
+  answer: Picture
+- question: |-
+    What does 'die Birne' mean?
+    
+    Kannst du mir bitte eine Birne geben?
+  answer: Pear
+- question: |-
+    What does 'der Bleistift' mean?
+    
+    Kannst du mir bitte einen Bleistift leihen?
+  answer: Pencil
+- question: |-
+    What does 'die Blume' mean?
+    
+    Kannst du mir bitte eine Blume pflücken?
+  answer: Flower
+- question: |-
+    What does 'der Bogen' mean?
+    
+    Schreiben Sie Ihre Antworten bitte auf den Bogen!
+  answer: Bow
+- question: |-
+    What does 'der Brief' mean?
+    
+    Kannst du bitte diesen Brief für mich zur Post bringen?
+  answer: Letter
+- question: |-
+    What does 'die Briefmarke' mean?
+    
+    Können Sie mir bitte drei Briefmarken verkaufen?
+  answer: Stamp
+- question: |-
+    What does 'das Brot' mean?
+    
+    Kannst du bitte Brot für die Fahrt mitnehmen?
+  answer: Bread
+- question: |-
+    What does 'das Brötchen' mean?
+    
+    Kannst du mir bitte ein Brötchen zum Frühstück geben?
+  answer: Bread bun
+- question: |-
+    What does 'das Buch' mean?
+    
+    Kannst du mir bitte ein Buch aus dem Regal holen?
+  answer: Book
+- question: |-
+    What does 'der Buchstabe' mean?
+    
+    Können Sie mir bitte den Buchstaben hier erklären?
+  answer: Letter
+- question: |-
+    What does 'der Bus' mean?
+    
+    Können Sie mir bitte sagen, wann der nächste Bus kommt?
+  answer: Bus
+- question: |-
+    What does 'die Butter' mean?
+    
+    Kannst du mir bitte ein Brötchen mit Butter machen?
+  answer: Butter
+- question: |-
+    What does 'das Café' mean?
+    
+    Können wir uns bitte im Café treffen?
+  answer: Cafe
+- question: |-
+    What does 'die CD' mean?
+    
+    Bring bitte deine Lieblings-CD mit!
+  answer: CD
+- question: |-
+    What does 'der Chef' mean?
+    
+    Können Sie bitte Ihren Chef fragen?
+  answer: Boss
+- question: |-
+    What does 'der Computer' mean?
+    
+    Kannst du mir bitte den Computer einschalten?
+  answer: Computer
+- question: |-
+    What does 'die Disco' mean?
+    
+    Kommst du heute Abend mit mir in die Disco?
+  answer: Disco
+- question: |-
+    What does 'das Doppelzimmer' mean?
+    
+    Können Sie mir bitte ein Doppelzimmer reservieren?
+  answer: Double room
+- question: |-
+    What does 'das Dorf' mean?
+    
+    Kannst du mir bitte den Weg ins Dorf zeigen?
+  answer: Village
+- question: |-
+    What do 'drucken' and 'der Drucker' mean?
+    
+    Können Sie bitte das Formular drucken? Können Sie mir den Drucker zeigen?
+  answer: Press; Printer
+- question: |-
+    What do '(sich) duschen' and 'die Dusche' mean?
+    
+    Kannst du bitte duschen? Zeig mir bitte, wo die Dusche ist.
+  answer: Take a shower; Shower
+- question: |-
+    What does 'das Ei' mean?
+    
+    Kannst du mir bitte ein Ei zum Frühstück kochen?
+  answer: Egg
+- question: |-
+    What do 'einladen' and 'die Einladung' mean?
+    
+    Darf ich Sie bitte zum Kaffee einladen? Bitte schicken Sie mir eine Einladung.
+  answer: Invite; Invitation
+- question: |-
+    What does 'der Eintritt' mean?
+    
+    Können Sie mir bitte sagen, wie viel der Eintritt kostet?
+  answer: Entry
+- question: |-
+    What does 'das Einzelzimmer' mean?
+    
+    Haben Sie bitte noch ein Einzelzimmer für mich?
+  answer: Single room
+- question: |-
+    What does 'die E-Mail' mean?
+    
+    Kannst du mir bitte eine E-Mail schicken?
+  answer: Email
+- question: |-
+    What does 'die Fahrkarte' mean?
+    
+    Kannst du mir bitte eine Fahrkarte kaufen?
+  answer: Ticket
+- question: |-
+    What does 'das Fahrrad' mean?
+    
+    Kannst du mich bitte mit dem Fahrrad begleiten?
+  answer: Bike
+- question: |-
+    What does 'das Fax' mean?
+    
+    Können Sie mir bitte ein Fax schicken?
+  answer: Fax
+- question: |-
+    What does 'der Fehler' mean?
+    
+    Kannst du mir bitte den Fehler zeigen?
+  answer: Error
+- question: |-
+    What does 'das Feuer' mean?
+    
+    Können Sie bitte das Feuer löschen?
+  answer: Fire
+- question: |-
+    What does 'der Fisch' mean?
+    
+    Kannst du mir bitte einen Fisch braten?
+  answer: Fish
+- question: |-
+    What does 'die Flasche' mean?
+    
+    Kannst du mir bitte eine Flasche Wasser bringen?
+  answer: Bottle
+- question: |-
+    What does 'das Fleisch' mean?
+    
+    Kannst du mir bitte etwas Fleisch kaufen?
+  answer: Meat
+- question: |-
+    What does 'der Flughafen' mean?
+    
+    Kannst du mich bitte zum Flughafen bringen?
+  answer: Airport
+- question: |-
+    What does 'das Flugzeug' mean?
+    
+    Können Sie mir bitte sagen, wann das Flugzeug ankommt?
+  answer: Plane
+- question: |-
+    What does 'das Formular' mean?
+    
+    Füllen Sie bitte dieses Formular für mich aus!
+  answer: Form
+- question: |-
+    What does 'das Foto' mean?
+    
+    Kannst du bitte ein Foto von uns machen?
+  answer: Photo
+- question: |-
+    What does 'die Frau' mean?
+    
+    Können Sie mir bitte die Frau dort zeigen?
+  answer: Woman
+- question: |-
+    What does 'der Garten' mean?
+    
+    Kannst du bitte im Garten die Blumen gießen?
+  answer: Garden
+- question: |-
+    What does 'das Geld' mean?
+    
+    Kannst du mir bitte etwas Geld leihen?
+  answer: Money
+- question: |-
+    What does 'das Gemüse' mean?
+    
+    Kannst du bitte Gemüse für das Abendessen kaufen?
+  answer: Vegetable
+- question: |-
+    What does 'das Geschäft' mean?
+    
+    Können Sie mir bitte sagen, wann das Geschäft schließt?
+  answer: Business
+- question: |-
+    What does 'das Geschenk' mean?
+    
+    Kannst du bitte das Geschenk für sie einpacken?
+  answer: Gift
+- question: |-
+    What does 'das Glas' mean?
+    
+    Kann ich bitte ein Glas Wasser bekommen?
+  answer: Glass
+- question: |-
+    What does 'das Gleis' mean?
+    
+    Können Sie mir bitte sagen, von welchem Gleis der Zug fährt?
+  answer: Track
+- question: |-
+    What does 'das Hähnchen' mean?
+    
+    Kann ich bitte ein Hähnchen mit Pommes bekommen?
+  answer: Chicken
+- question: |-
+    What does 'die Halle' mean?
+    
+    Können Sie mir bitte sagen, wo die Halle ist?
+  answer: Hall
+- question: |-
+    What does 'die Haltestelle' mean?
+    
+    Können Sie mir bitte sagen, an welcher Haltestelle ich aussteigen muss?
+  answer: Bus stop
+- question: |-
+    What does 'das Handy' mean?
+    
+    Mach bitte dein Handy aus!
+  answer: Phone
+- question: |-
+    What does 'das Haus' mean?
+    
+    Kannst du mir bitte den Weg zu deinem Haus zeigen?
+  answer: House
+- question: |-
+    What does 'der Herd' mean?
+    
+    Kannst du bitte den Herd einschalten?
+  answer: Stove
+- question: |-
+    What does 'das Hotel' mean?
+    
+    Können Sie mir bitte ein Zimmer im Hotel reservieren?
+  answer: Hotel
+- question: |-
+    What does 'der Hund' mean?
+    
+    Kannst du bitte mit dem Hund spazieren gehen?
+  answer: Dog
+- question: |-
+    What does 'die Jacke' mean?
+    
+    Zieh bitte deine Jacke an, es ist kalt!
+  answer: Jacket
+- question: |-
+    What does 'der Junge' mean?
+    
+    Kannst du mir bitte den Jungen auf dem Foto zeigen?
+  answer: Young
+- question: |-
+    What does 'der Kaffee' mean?
+    
+    Kann ich bitte einen Kaffee bekommen?
+  answer: Coffee
+- question: |-
+    What do 'die Karte' and '(Kredit)-Karte' mean?
+    
+    Bringen Sie mir bitte die Speisekarte und sagen Sie mir, ob ich mit Kreditkarte zahlen kann.
+  answer: Map; Credit card
+- question: |-
+    What does 'die Kartoffel' mean?
+    
+    Kannst du mir bitte Kartoffeln für das Abendessen kaufen?
+  answer: Potato
+- question: |-
+    What does 'das Kind' mean?
+    
+    Kannst du mir bitte dein Kind vorstellen?
+  answer: Child
+- question: |-
+    What does 'der Kindergarten' mean?
+    
+    Kannst du dein Kind bitte zum Kindergarten bringen?
+  answer: Kindergarten
+- question: |-
+    What does 'das Kino' mean?
+    
+    Können Sie mir bitte sagen, wann der Film im Kino beginnt?
+  answer: Cinema
+- question: |-
+    What does 'der Kiosk' mean?
+    
+    Kannst du bitte am Kiosk eine Zeitung für mich kaufen?
+  answer: Kiosk
+- question: |-
+    What does 'der Koffer' mean?
+    
+    Kannst du mir bitte mit dem Koffer helfen?
+  answer: Suitcase
+- question: |-
+    What does 'der Kollege' mean?
+    
+    Kannst du mir bitte deinen Kollegen vorstellen?
+  answer: Colleague
+- question: |-
+    What does 'die Küche' mean?
+    
+    Kannst du bitte das Gemüse in die Küche bringen?
+  answer: Kitchen
+- question: |-
+    What does 'der Kuchen' mean?
+    
+    Kannst du mir bitte ein Stück Kuchen geben?
+  answer: Cake
+- question: |-
+    What does 'der Kugelschreiber' mean?
+    
+    Kannst du mir bitte einen Kugelschreiber leihen?
+  answer: Ballpoint pen
+- question: |-
+    What does 'der Kühlschrank' mean?
+    
+    Kannst du bitte die Milch in den Kühlschrank stellen?
+  answer: Refrigerator
+- question: |-
+    What does 'der Laden' mean?
+    
+    Können Sie mir bitte sagen, wo ich dieses Buch im Laden finde?
+  answer: Store
+- question: |-
+    What does 'der Lehrer' mean?
+    
+    Kannst du mir bitte deinen Lehrer vorstellen?
+  answer: Teacher
+- question: |-
+    What does 'das Licht' mean?
+    
+    Kannst du bitte das Licht einschalten?
+  answer: Light
+- question: |-
+    What does 'der Lkw' mean?
+    
+    Bitte fahren Sie mit dem Lkw langsam in die Einfahrt!
+  answer: Truck
+- question: |-
+    What does 'das Lokal' mean?
+    
+    Können Sie mir bitte ein gutes Lokal empfehlen?
+  answer: Local
+- question: |-
+    What does 'das Mädchen' mean?
+    
+    Kannst du mir bitte das Mädchen auf dem Bild zeigen?
+  answer: Girl
+- question: |-
+    What do 'der Mann' and 'männlich' mean?
+    
+    Kreuzen Sie bitte „männlich“ an und stellen Sie mir den Mann vor.
+  answer: Man; Masculine
+- question: |-
+    What does 'die Maschine' mean?
+    
+    Kannst du bitte die Waschmaschine einschalten?
+  answer: Machine
+- question: |-
+    What does 'das Meer' mean?
+    
+    Kannst du mich bitte ans Meer bringen?
+  answer: Sea
+- question: |-
+    What does 'die Milch' mean?
+    
+    Kannst du mir bitte ein Glas Milch bringen?
+  answer: Milk
+- question: |-
+    What does 'die Möbel' mean?
+    
+    Kannst du bitte die Möbel ins Wohnzimmer stellen?
+  answer: Furniture
+- question: |-
+    What does 'das Öl' mean?
+    
+    Kannst du bitte etwas Öl über den Salat geben?
+  answer: Oil
+- question: |-
+    What does 'die Oma' mean?
+    
+    Kannst du bitte deine Oma anrufen?
+  answer: Grandma
+- question: |-
+    What does 'der Opa' mean?
+    
+    Kannst du bitte deinen Opa besuchen?
+  answer: Grandpa
+- question: |-
+    What does 'das Papier' mean?
+    
+    Kannst du mir bitte ein Blatt Papier geben?
+  answer: Paper
+- question: |-
+    What does 'die Papiere' mean?
+    
+    Können Sie mir bitte Ihre Papiere zeigen?
+  answer: Papers
+- question: |-
+    What does 'der Pass' mean?
+    
+    Kannst du mir bitte deinen Pass zeigen?
+  answer: Passport
+- question: |-
+    What does 'der Platz' mean?
+    
+    Können Sie mir bitte einen Platz freihalten?
+  answer: Space
+- question: |-
+    What does 'die Polizei' mean?
+    
+    Rufen Sie bitte die Polizei!
+  answer: Police
+- question: |-
+    What does 'die Pommes frites' mean?
+    
+    Kann ich bitte Pommes frites zu meinem Hähnchen bekommen?
+  answer: French fries
+- question: |-
+    What does 'die Post' mean?
+    
+    Können Sie mir bitte sagen, wo die Post ist?
+  answer: Post
+- question: |-
+    What does 'der Prospekt' mean?
+    
+    Können Sie mir bitte einen Prospekt von Ihrem Hotel schicken?
+  answer: Prospectus
+- question: |-
+    What do 'regnen' and 'der Regen' mean?
+    
+    Bitte sagen Sie mir, ob es morgen regnen wird. Nehmen Sie bitte einen Regenschirm mit.
+  answer: Rain
+- question: |-
+    What does 'der Reis' mean?
+    
+    Kannst du mir bitte eine Portion Reis kochen?
+  answer: Rice
+- question: |-
+    What does 'das Restaurant' mean?
+    
+    Können Sie mir bitte einen Tisch im Restaurant reservieren?
+  answer: Restaurant
+- question: |-
+    What does 'die Rezeption' mean?
+    
+    Können Sie mir bitte an der Rezeption helfen?
+  answer: Reception
+- question: |-
+    What does 'der Saft' mean?
+    
+    Kann ich bitte einen Apfelsaft bekommen?
+  answer: Juice
+- question: |-
+    What does 'der Salat' mean?
+    
+    Kannst du mir bitte einen Salat machen?
+  answer: Salad
+- question: |-
+    What does 'das Salz' mean?
+    
+    Können Sie mir bitte etwas Salz geben?
+  answer: Salt
+- question: |-
+    What does 'die S-Bahn' mean?
+    
+    Können Sie mir bitte sagen, wann die nächste S-Bahn kommt?
+  answer: S-Bahn
+- question: |-
+    What does 'der Schalter' mean?
+    
+    Gehen Sie bitte zum Schalter drei!
+  answer: Desk
+- question: |-
+    What does 'das Schild' mean?
+    
+    Können Sie mir bitte das Schild dort zeigen?
+  answer: Sign
+- question: |-
+    What does 'der Schinken' mean?
+    
+    Kannst du mir bitte ein Schinkenbrot machen?
+  answer: Ham
+- question: |-
+    What does 'der Schlüssel' mean?
+    
+    Kannst du mir bitte den Schlüssel geben?
+  answer: Key
+- question: |-
+    What does 'der Schrank' mean?
+    
+    Kannst du bitte die Gläser in den Schrank stellen?
+  answer: Cupboard
+- question: |-
+    What does 'der Schuh' mean?
+    
+    Zieh bitte deine Schuhe aus!
+  answer: Shoe
+- question: |-
+    What do 'die Schule' and 'der Schüler' mean?
+    
+    Bring deine Tochter bitte zur Schule und sag mir, wo ich die Schüler anmelden kann.
+  answer: School; Student
+- question: |-
+    What do 'schwimmen' and 'das Schwimmbad' mean?
+    
+    Kommst du bitte mit mir schwimmen? Können Sie mir bitte sagen, wo das Schwimmbad ist?
+  answer: To swim; Swimming pool
+- question: |-
+    What does 'der See' mean?
+    
+    Komm, lass uns bitte zum See fahren!
+  answer: Lake
+- question: |-
+    What does 'das Sofa' mean?
+    
+    Kannst du mir bitte ein Kissen aufs Sofa legen?
+  answer: Sofa
+- question: |-
+    What does 'die Sonne' mean?
+    
+    Bitte zieh die Vorhänge zu, damit die Sonne nicht blendet!
+  answer: Sun
+- question: |-
+    What does 'die Stadt' mean?
+    
+    Können Sie mir bitte den Weg ins Stadtzentrum zeigen?
+  answer: City
+- question: |-
+    What does 'der Stock' mean?
+    
+    Können Sie mir bitte sagen, in welchem Stock die Wohnung ist?
+  answer: Floor; storey
+- question: |-
+    What does 'die Straße' mean?
+    
+    Können Sie mir bitte sagen, in welcher Straße das Hotel liegt?
+  answer: Street
+- question: |-
+    What does 'die Straßenbahn' mean?
+    
+    Können Sie mir bitte sagen, wo die Straßenbahn abfährt?
+  answer: Tram
+- question: |-
+    What does 'die Tasche' mean?
+    
+    Kannst du bitte die Schlüssel in meine Tasche stecken?
+  answer: Bag
+- question: |-
+    What does 'das Taxi' mean?
+    
+    Können Sie mir bitte ein Taxi rufen?
+  answer: Taxi
+- question: |-
+    What does 'der Tee' mean?
+    
+    Kann ich bitte eine Tasse Tee bekommen?
+  answer: Tea
+- question: |-
+    What do 'telefonieren' and 'das Telefon' mean?
+    
+    Darf ich bitte Ihr Telefon benutzen, um zu telefonieren?
+  answer: Make a phone call; Phone
+- question: |-
+    What does 'das Ticket' mean?
+    
+    Können Sie mir bitte ein Ticket verkaufen?
+  answer: Ticket
+- question: |-
+    What does 'der Tisch' mean?
+    
+    Kannst du bitte die Fotos auf den Tisch legen?
+  answer: Table
+- question: |-
+    What does 'die Toilette' mean?
+    
+    Können Sie mir bitte sagen, wo die Toilette ist?
+  answer: Toilet
+- question: |-
+    What does 'die Tomate' mean?
+    
+    Kannst du mir bitte eine Tomate für den Salat geben?
+  answer: Tomato
+- question: |-
+    What does 'die Treppe' mean?
+    
+    Gehen Sie bitte die Treppe hinauf und dann links!
+  answer: Stairs
+- question: |-
+    What does 'die Uhr' mean?
+    
+    Kannst du mir bitte die Uhr zeigen und sagen, wie spät es ist?
+  answer: Clock
+- question: |-
+    What do 'unterschreiben' and 'die Unterschrift' mean?
+    
+    Wo muss ich bitte unterschreiben? Zeigen Sie mir bitte, wo die Unterschrift fehlt.
+  answer: Sign; Signature
+- question: |-
+    What do 'verkaufen' and 'der Verkäufer' mean?
+    
+    Kannst du bitte dein altes Fahrrad verkaufen? Kennst du einen Verkäufer?
+  answer: Sell; Seller
+- question: |-
+    What do 'vermieten' and 'der Vermieter' mean?
+    
+    Können Sie mir bitte die Wohnung vermieten? Wie heißt der Vermieter?
+  answer: Rent; Landlord
+- question: |-
+    What does 'die Vorsicht' mean?
+    
+    Bitte seien Sie vorsichtig und schauen Sie nach links!
+  answer: Caution
+- question: |-
+    What does 'das Wasser' mean?
+    
+    Kann ich bitte ein Glas Wasser bekommen?
+  answer: Water
+- question: |-
+    What does 'der Wein' mean?
+    
+    Kann ich bitte ein Glas Wein bekommen?
+  answer: Wine
+- question: |-
+    What do 'wohnen' and 'die Wohnung' mean?
+    
+    Können Sie mir bitte sagen, wo man hier wohnen kann? Können Sie mir bitte eine Wohnung zeigen?
+  answer: Reside; Apartment
+- question: |-
+    What does 'die Zeitung' mean?
+    
+    Kannst du mir bitte die heutige Zeitung bringen?
+  answer: Newspaper
+- question: |-
+    What does 'die Zigarette' mean?
+    
+    Kannst du bitte die Zigarette ausmachen?
+  answer: Cigarette
+- question: |-
+    What does 'das Zimmer' mean?
+    
+    Kannst du bitte das Fenster im Zimmer öffnen?
+  answer: Room
+- question: |-
+    What does 'der Zug' mean?
+    
+    Können Sie mir bitte sagen, wann der nächste Zug fährt?
+  answer: Train

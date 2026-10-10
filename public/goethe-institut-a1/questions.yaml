@@ -1,0 +1,2289 @@
+- question: What does 'ab' mean?
+  answer: From; starting from
+  hint: Ab morgen muss ich arbeiten.
+- question: What does 'aber' mean?
+  answer: But
+  hint: Ich bin oft im Büro, aber nur für wenige Stunden.
+- question: What do 'abfahren' and 'die Abfahrt' mean?
+  answer: To depart; departure
+  hint: 'Wir fahren um zwölf Uhr ab.
+
+    Vor der Abfahrt rufe ich an.'
+- question: What does 'abgeben' mean?
+  answer: Hand over
+  hint: Ich muss meine Schlüssel abgeben.
+- question: What does 'abholen' mean?
+  answer: Pick up
+  hint: Wann kann ich den Schrank bei dir abholen? Wir müssen noch meinen Bruder abholen.
+- question: What does 'der Absender' mean?
+  answer: Sender
+  hint: Da ist ein Brief für dich ohne Absender.
+- question: What does 'Achtung' mean?
+  answer: Danger
+  hint: Achtung! Das dürfen Sie nicht tun.
+- question: What does 'die Adresse' mean?
+  answer: Address
+  hint: Können Sie mir seine Adresse sagen?
+- question: What does 'all-' mean?
+  answer: All-
+  hint: Alles Gute! Das ist alles. Sind alle da? Alle Freunde kommen. Hast du alles?
+- question: What does 'allein' mean?
+  answer: Alone
+  hint: Er kommt allein.
+- question: What does 'also' mean?
+  answer: So
+  hint: 'Also, es ist so: ... Er hat Zeit, also muss er uns helfen.'
+- question: What does 'alt' mean?
+  answer: Old
+  hint: Wie alt sind Sie? Sie sehen aber nicht so alt aus. Mein Auto ist schon sehr alt. Wir wohnen in
+    einem sehr alten Haus. Köln ist eine alte Stadt.
+- question: What does 'das Alter' mean?
+  answer: Age
+  hint: 'Alter: 26 Jahre.'
+- question: What does 'an' mean?
+  answer: On; at
+  hint: Fahren Sie an der nächsten Straße nach rechts. Wir treffen uns am Bahnhof. Am nächsten Montag
+    geht es leider nicht.
+- question: What do 'anbieten' and 'das Angebot' mean?
+  answer: To offer; offer (noun)
+  hint: 'Was darf ich dir anbieten?
+
+    Heute sind Sportschuhe im Angebot.'
+- question: What does 'ander-' mean?
+  answer: At the-
+  hint: WiIlst du diese Jacke? – Nein, ich möchte die andere.
+- question: What do 'anfangen' and 'der Anfang' mean?
+  answer: To begin; beginning
+  hint: 'Hier fängt die Bahnhofstraße an. Der Unterricht fängt gleich an.
+
+    Sie wohnt am Anfang der Straße. Wir machen Anfang Juli Urlaub.'
+- question: What does 'anklicken' mean?
+  answer: Click
+  hint: Da musst du dieses Wort anklicken.
+- question: What does 'ankommen' mean?
+  answer: Arrive
+  hint: Wann kommt dieser Zug in Hamburg an?
+- question: What does 'die Ankunft' mean?
+  answer: Arrival
+  hint: Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.
+- question: What does 'ankreuzen' mean?
+  answer: Tick
+  hint: Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.
+- question: What does 'anmachen' mean?
+  answer: Turn on
+  hint: Mach bitte das Licht an!
+- question: What do '(sich) anmelden' and 'die Anmeldung' mean?
+  answer: Sign in; Registration
+  hint: 'Wo kann ich mich anmelden?
+
+    Eine Anmeldung für diesen Kurs ist nicht mehr möglich.'
+- question: What does 'die Anrede' mean?
+  answer: Salutation
+  hint: Schreiben Sie auch eine Anrede und einen Gruß.
+- question: What does 'anrufen' mean?
+  answer: Call
+  hint: Kann man Sie anrufen? Peter ruft kurz seine Freundin an.
+- question: What do 'der Anruf' and 'der Anrufbeantworter' mean?
+  answer: Call; Answering machine
+  hint: 'Sie bekommt viele Anrufe auf ihrem Handy.
+
+    Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.'
+- question: What does 'die Ansage' mean?
+  answer: Announcement
+  hint: Hören Sie die Ansagen.
+- question: What does 'der Anschluss' mean?
+  answer: Connection
+  hint: In Mannheim haben Sie Anschluss nach Saarbrücken. Ist das die Anmeldung für einen Telefonanschluss?
+- question: What does 'an sein' mean?
+  answer: Be on
+  hint: Heute Nacht war das Licht an.
+- question: What do 'antworten' and 'die Antwort' mean?
+  answer: To answer; answer (noun)
+  hint: 'Er antwortet nicht.
+
+    Er gibt leider keine Antwort.'
+- question: What does 'die Anzeige' mean?
+  answer: Ad
+  hint: Ich habe Ihre Anzeige in der Zeitung gelesen.
+- question: What does '(sich) anziehen' mean?
+  answer: Get dressed
+  hint: Ich muss mich noch anziehen.
+- question: What does 'das Apartment' mean?
+  answer: Apartment
+  hint: Wir haben ein Apartment gemietet.
+- question: What does 'der Apfel' mean?
+  answer: Apple
+  hint: Ein Pfund Äpfel bitte.
+- question: What does 'der Appetit' mean?
+  answer: Appetite
+  hint: Guten Appetit!
+- question: What do 'arbeiten' and 'die Arbeit' mean?
+  answer: Work
+  hint: 'Wo arbeiten Sie?
+
+    Mein Bruder sucht Arbeit.'
+- question: What does 'arbeitslos' mean?
+  answer: Unemployed
+  hint: Es gibt bei uns viele Leute, die schon lange arbeitslos sind.
+- question: What does 'der Arbeitsplatz' mean?
+  answer: Workplace
+  hint: An meinem Arbeitsplatz fehlt ein Drucker.
+- question: What does 'der Arm' mean?
+  answer: Arm
+  hint: Mein Arm tut weh.
+- question: What does 'der Arzt' mean?
+  answer: Doctor
+  hint: Morgen habe ich einen Termin bei meiner Ärztin.
+- question: What does 'auch' mean?
+  answer: Also
+  hint: Ich bin auch Spanier.
+- question: What does 'auf' mean?
+  answer: 'On'
+  hint: Die Kinder spielen auf der Straße. Auf Wiedersehen. Wie heißt das auf Deutsch?
+- question: What does 'die Aufgabe' mean?
+  answer: Task
+  hint: Das ist eine schwere Aufgabe.
+- question: What does 'aufhören' mean?
+  answer: Stop
+  hint: Der Kurs hört in einer Woche auf. Hier hört die Bahnhofstraße auf.
+- question: What does 'auf sein' mean?
+  answer: To be up
+  hint: Du brauchst den Schlüssel nicht. Die Wohnung ist auf.
+- question: What does 'aufstehen' mean?
+  answer: Stand up
+  hint: Ich muss immer um vier Uhr aufstehen. Soll ich aufstehen?
+- question: What does 'der Aufzug' mean?
+  answer: Elevator
+  hint: In diesem Haus gibt es keinen Aufzug.
+- question: What does 'das Auge' mean?
+  answer: Eye
+  hint: Er hat blaue Augen.
+- question: What does 'aus' mean?
+  answer: From; out of
+  hint: Er kommt aus Brasilien.
+- question: What does 'der Ausflug' mean?
+  answer: Excursion
+  hint: Morgen machen wir einen Ausflug nach Heidelberg.
+- question: What does 'ausfüllen' mean?
+  answer: Fill out
+  hint: Füllen Sie bitte dieses Formular aus.
+- question: What does 'der Ausgang' mean?
+  answer: Exit
+  hint: Wo ist der Ausgang?
+- question: What does 'die Auskunft' mean?
+  answer: Information
+  hint: Können Sie mir eine Auskunft geben?
+- question: What do 'das Ausland', 'der Ausländer' and 'ausländisch' mean?
+  answer: Foreign country; Foreigner; Foreign
+  hint: 'Fahren Sie ins Ausland?
+
+    SInd Sie Ausländerin?
+
+    Leider habe ich nur ausländisches Geld.'
+- question: What does 'ausmachen' mean?
+  answer: Turn off
+  hint: Mach bitte das Licht aus!
+- question: What does 'die Aussage' mean?
+  answer: Statement
+  hint: Ist die Aussage richtig oder falsch?
+- question: What does 'aussehen' mean?
+  answer: Look
+  hint: Das sieht schön aus.
+- question: What does 'aus sein' mean?
+  answer: Be off
+  hint: Das Licht ist aus. Die Schule ist aus.
+- question: What does 'aussteigen' mean?
+  answer: Exit
+  hint: Wo muss ich aussteigen?
+- question: What does 'der Ausweis' mean?
+  answer: ID card
+  hint: Hier ist mein Ausweis.
+- question: What does '(sich) ausziehen' mean?
+  answer: Undress
+  hint: Zieh die Schuhe aus, bitte!
+- question: What does 'das Auto' mean?
+  answer: Car
+  hint: Er kommt mit dem Auto.
+- question: What does 'die Autobahn' mean?
+  answer: Highway
+  hint: Wo geht‘s hier bitte zur Autobahn?
+- question: What does 'der Automat' mean?
+  answer: Machine
+  hint: Die Fahrkarten gibt es nur am Automaten.
+- question: What does 'automatisch' mean?
+  answer: Automatically
+  hint: Du musst nichts machen. Das geht automatisch.
+- question: What does 'das Baby' mean?
+  answer: Baby
+  hint: Mein Kind ist noch ein Baby.
+- question: What does 'die Bäckerei' mean?
+  answer: Bakery
+  hint: Ich geh mal schnell zur Bäckerei.
+- question: What does 'das Bad' mean?
+  answer: Bathroom
+  hint: Wir haben kein großes Bad.
+- question: What does 'baden' mean?
+  answer: Bathe
+  hint: Ich bade nicht so gern, ich dusche lieber.
+- question: What does 'die Bahn' mean?
+  answer: Train; railway
+  hint: Wir fahren lieber mit der Bahn. Ich nehme die nächste Bahn.
+- question: What does 'der Bahnhof' mean?
+  answer: Station
+  hint: Komme ich hier zum Bahnhof?
+- question: What does 'der Bahnsteig' mean?
+  answer: Platform
+  hint: Auf welchem Bahnsteig fährt der Zug?
+- question: What does 'bald' mean?
+  answer: Soon
+  hint: Ich komme bald.
+- question: What does 'der Balkon' mean?
+  answer: Balcony
+  hint: Die Wohnung hat auch einen kleinen Balkon.
+- question: What does 'die Banane' mean?
+  answer: Banana
+  hint: Drei Bananen, bitte!
+- question: What does 'die Bank' mean?
+  answer: Bank; bench
+  hint: Die Bank schließt schon um vier Uhr. Er sitzt im Park auf einer Bank und liest.
+- question: What does 'bar' mean?
+  answer: In cash
+  hint: Muss ich bar zahlen oder geht‘s auch mit Karte?
+- question: What does 'der Bauch' mean?
+  answer: Stomach
+  hint: Seit gestern tut mir der Bauch weh.
+- question: What does 'der Baum' mean?
+  answer: Tree
+  hint: Vorsicht, fahr nicht an den Baum!
+- question: What does 'der Beamte' mean?
+  answer: Official
+  hint: Fragen Sie die Beamtin an Schalter acht!
+- question: What does 'bedeuten' mean?
+  answer: Mean
+  hint: Was bedeutet das Wort?
+- question: What does 'beginnen' mean?
+  answer: Start
+  hint: Das Spiel beginnt um 15.30 Uhr.
+- question: What does 'bei' mean?
+  answer: At; with
+  hint: Offenbach liegt bei Frankfurt. Ich wohne bei meinen Eltern. Bei uns regnet es heute. Er arbeitet
+    bei der Polizei.
+- question: What does 'beide' mean?
+  answer: Both
+  hint: Beide Eltern arbeiten. Wir kommen beide.
+- question: What does 'das Bein' mean?
+  answer: Leg
+  hint: Mein rechtes Bein tut weh.
+- question: What do 'das Beispiel' and 'zum Beispiel/z. B.' mean?
+  answer: Example; for example
+  hint: 'Kannst du mir ein Beispiel sagen?
+
+    Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.'
+- question: What does 'bekannt' mean?
+  answer: Known; famous
+  hint: Picasso ist sehr bekannt.
+- question: What does 'der/die Bekannte' mean?
+  answer: Acquaintance
+  hint: Ein Bekannter von mir heißt Klaus.
+- question: What does 'bekommen' mean?
+  answer: Receive
+  hint: Haben Sie meinen Brief bekommen? Was bekommen Sie? Dieses Medikament bekommen Sie in der Apotheke.
+- question: What does 'benutzen' mean?
+  answer: Use
+  hint: Die Aufzüge bitte nicht benutzen!
+- question: What does 'der Beruf' mean?
+  answer: Job
+  hint: Was sind Sie von Beruf? Was ist Ihr Beruf?
+- question: What does 'besetzt' mean?
+  answer: Occupied
+  hint: Die Nummer ist immer besetzt. Der Platz ist besetzt.
+- question: What does 'besichtigen' mean?
+  answer: View
+  hint: Ich möchte gern den Dom besichtigen.
+- question: What does 'besser' mean?
+  answer: Better
+  hint: Es geht mir schon besser.
+- question: What does 'best-' mean?
+  answer: Best-
+  hint: Am besten treffen wir uns morgen.
+- question: What does 'bestellen' mean?
+  answer: Order
+  hint: Wir möchten bestellen, bitte. Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?
+- question: What does 'besuchen' mean?
+  answer: Visit
+  hint: Darf ich dich besuchen?
+- question: What does 'das Bett' mean?
+  answer: Bed
+  hint: Wir brauchen noch ein Kinderbett.
+- question: What does 'bezahlen' mean?
+  answer: Pay
+  hint: Wo muss ich bezahlen?
+- question: What does 'das Bier' mean?
+  answer: Beer
+  hint: Noch ein Bier bitte.
+- question: What does 'das Bild' mean?
+  answer: Picture
+  hint: Hast du ein Bild von deinem Sohn?
+- question: What does 'billig' mean?
+  answer: Cheap
+  hint: Die Jacke kostet nur 10 Euro! Die ist aber billig!
+- question: What does 'die Birne' mean?
+  answer: Pear
+  hint: Ein Kilo Birnen, bitte!
+- question: What does 'bis' mean?
+  answer: Until
+  hint: Ich fahre nur bis Stuttgart. Ich warte bis morgen.
+- question: What does 'bisschen' mean?
+  answer: Little
+  hint: Ich spreche Englisch, Französisch und ein bisschen Deutsch.
+- question: What do 'bitte', 'die Bitte' and 'bitten' mean?
+  answer: Please; Request; Ask
+  hint: 'Eine Tasse Kaffee, bitte! Sprechen Sie bitte leise!
+
+    Ich habe noch eine Bitte.
+
+    Darf ich Sie um etwas bitten?'
+- question: What does 'bitter' mean?
+  answer: Bitter
+  hint: Der Kaffee schmeckt bitter.
+- question: What does 'bleiben' mean?
+  answer: Remain
+  hint: Ich bleibe heute zu Hause. Wir bleiben nur bis morgen.
+- question: What does 'der Bleistift' mean?
+  answer: Pencil
+  hint: Hast du einen Bleistift?
+- question: What does 'der Blick' mean?
+  answer: View
+  hint: Von diesem Hotel hat man einen guten Blick auf den Rhein.
+- question: What does 'die Blume' mean?
+  answer: Flower
+  hint: Gefallen dir die Blumen?
+- question: What does 'der Bogen' mean?
+  answer: Bow
+  hint: Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
+- question: What does 'böse' mean?
+  answer: Evil
+  hint: Sie ist böse auf mich.
+- question: What does 'brauchen' mean?
+  answer: Need
+  hint: Brauchst du die Zeitung noch?
+- question: What does 'breit' mean?
+  answer: Broad
+  hint: Wie breit ist der Schrank?
+- question: What does 'der Brief' mean?
+  answer: Letter
+  hint: Haben Sie einen Brief für mich?
+- question: What does 'die Briefmarke' mean?
+  answer: Stamp
+  hint: Kaufst du bitte Briefmarken bei der Post.
+- question: What does 'bringen' mean?
+  answer: Bring
+  hint: Bringen Sie mir bitte noch einen Kaffee! Wir müssen ihn zum Arzt bringen.
+- question: What does 'das Brot' mean?
+  answer: Bread
+  hint: Haben Sie auch Weißbrot? Nimm noch ein paar Brote für die Fahrt mit.
+- question: What does 'das Brötchen' mean?
+  answer: Bread bun
+  hint: Möchtest du Brötchen zum Frühstück?
+- question: What does 'der Bruder' mean?
+  answer: Brother
+  hint: Sein Bruder arbeitet auch hier.
+- question: What does 'das Buch' mean?
+  answer: Book
+  hint: Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
+- question: What does 'der Buchstabe' mean?
+  answer: Letter
+  hint: Diesen Buchstaben gibt es in meiner Sprache nicht.
+- question: What does 'buchstabieren' mean?
+  answer: Spell
+  hint: Bitte buchstabieren Sie Ihren Namen.
+- question: What does 'der Bus' mean?
+  answer: Bus
+  hint: Wann kommt der nächste Bus?
+- question: What does 'die Butter' mean?
+  answer: Butter
+  hint: Für mich bitte ein Brötchen mit Butter und Käse.
+- question: What does 'das Café' mean?
+  answer: Cafe
+  hint: Sollen wir uns im Café treffen?
+- question: What does 'die CD' mean?
+  answer: CD
+  hint: Bring bitte deine Lieblings-CD mit.
+- question: What does 'der Chef' mean?
+  answer: Boss
+  hint: Wir haben eine neue Chefin.
+- question: What does 'circa/ca.' mean?
+  answer: Circa/approx.
+  hint: Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.
+- question: What does 'der Computer' mean?
+  answer: Computer
+  hint: Wann bekommst du deinen neuen Computer?
+- question: What does 'da' mean?
+  answer: There
+  hint: Da hinten ist er ja. Wir sprechen gerade über Paul. Da kommt er ja gerade. Ich nehme das da. Ist
+    Herr Klein schon da?
+- question: What does 'die Dame' mean?
+  answer: Lady
+  hint: Damen (an der Toilette) Sehr geehrte Damen und Herren!
+- question: What does 'daneben' mean?
+  answer: Next to it
+  hint: Du kennst doch die Post. Daneben ist die Bank.
+- question: What do 'danken', 'der Dank' and 'danke' mean?
+  answer: To thank; thanks; thank you
+  hint: 'Ich danke Ihnen für die Einladung.
+
+    Vielen Dank! Herzlichen Dank!
+
+    Soll ich Ihnen helfen? - Nein, danke!'
+- question: What does 'dann' mean?
+  answer: Then
+  hint: Ich muss noch schnell zur Post, dann komme ich.
+- question: What does 'das Datum' mean?
+  answer: Date
+  hint: Bitte schreiben Sie noch das Datum auf das Formular.
+- question: What does 'dauern' mean?
+  answer: Last
+  hint: Wie lange dauert der Film?
+- question: What does 'dein-' mean?
+  answer: Your-
+  hint: Ist das dein Auto? Ist das deins?
+- question: What does 'denn' mean?
+  answer: Because
+  hint: Ich kann nicht kommen, denn ich bin krank.
+- question: What does 'der' mean?
+  answer: The
+  hint: Ich nehme das da. Hier ist der Brief, den du suchst. Die Fahrkarte bekommst du am Bahnhof.
+- question: What does 'dich' mean?
+  answer: You
+  hint: Die Blumen sind für dich.
+- question: What does 'dies-' mean?
+  answer: This-
+  hint: Ich nehme lieber diesen Kuchen.
+- question: What does 'dir' mean?
+  answer: You
+  hint: Gefallen dir die Blumen?
+- question: What does 'die Disco' mean?
+  answer: Disco
+  hint: Heute abend gehen wir in die Disco tanzen.
+- question: What does 'der Doktor' mean?
+  answer: Doctor
+  hint: Meine Tochter ist krank. Wir gehen zum Doktor.
+- question: What does 'das Doppelzimmer' mean?
+  answer: Double room
+  hint: Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?
+- question: What does 'das Dorf' mean?
+  answer: Village
+  hint: Meine Familie lebt in einem Dorf.
+- question: What does 'dort' mean?
+  answer: There
+  hint: Deine Tasche kannst du dorthin stellen. Dort ist unser Haus.
+- question: What does 'draußen' mean?
+  answer: Outside
+  hint: Wollen wir draußen sitzen?
+- question: What do 'drucken' and 'der Drucker' mean?
+  answer: Press; Printer
+  hint: 'Bitte drucke das Formular für mich.
+
+    Mein Drucker ist kaputt.'
+- question: What does 'drücken' mean?
+  answer: Press
+  hint: Drück hier, dann geht der Computer an.
+- question: What does 'durch' mean?
+  answer: Through
+  hint: Am besten gehen Sie durch die Breite Straße.
+- question: What does 'die Durchsage' mean?
+  answer: Announcement
+  hint: Ich habe die Durchsage nicht verstanden.
+- question: What does 'dürfen' mean?
+  answer: May
+  hint: Sie dürfen hier nicht rauchen. Darf ich Sie zu einem Kaffee einladen? Es darf nicht mehr als 15
+    Euro kosten.
+- question: What does 'der Durst' mean?
+  answer: Thirst
+  hint: Hast du etwas zu trinken? Ich habe großen Durst.
+- question: What do '(sich) duschen' and 'die Dusche' mean?
+  answer: Take a shower; Shower
+  hint: 'Ich bade nicht so gern, ich dusche lieber.
+
+    Unsere Wohnung hat nur eine Dusche.'
+- question: What does 'die Ecke' mean?
+  answer: Corner
+  hint: An der nächsten Ecke links.
+- question: What do 'die Ehefrau' and 'der Ehemann' mean?
+  answer: Wife; Husband
+  hint: Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.
+- question: What does 'das Ei' mean?
+  answer: Egg
+  hint: Möchtest du ein Ei zum Frühstück?
+- question: What does 'eilig' mean?
+  answer: Hurry
+  hint: Hast du es eilig?
+- question: What does 'ein-' mean?
+  answer: A-
+  hint: Ich nehme ein Bier. Willst du auch eins? Ist hier einer, der das kann?
+- question: What does 'einfach' mean?
+  answer: Simply
+  hint: Die Prüfung ist ganz einfach. Hin und zurück? – Nein, bitte nur einfach. Ich brauche nur ein einfaches
+    Zimmer.
+- question: What does 'der Eingang' mean?
+  answer: Entrance
+  hint: Der Eingang ist um die Ecke.
+- question: What does 'einkaufen' mean?
+  answer: Shopping
+  hint: Ich muss noch für morgen einkaufen.
+- question: What do 'einladen' and 'die Einladung' mean?
+  answer: Invite; Invitation
+  hint: 'Darf ich Sie zu einem Kaffee einladen?
+
+    Danke für die Einladung!'
+- question: What does 'einmal' mean?
+  answer: Once
+  hint: Diese Prüfung mache ich nicht noch einmal.
+- question: What does 'einsteigen' mean?
+  answer: Get in
+  hint: Schnell, steig ein, der Zug fährt gleich.
+- question: What does 'der Eintritt' mean?
+  answer: Entry
+  hint: Der Preis für den Eintritt ist 5 Euro.
+- question: What does 'das Einzelzimmer' mean?
+  answer: Single room
+  hint: Haben Sie noch ein Einzelzimmer?
+- question: What does 'die Eltern' mean?
+  answer: Parents
+  hint: Meine Eltern leben in Spanien.
+- question: What does 'die E-Mail' mean?
+  answer: Email
+  hint: Ich habe Ihre E-Mail nicht bekommen.
+- question: What does 'der Empfänger' mean?
+  answer: Recipient
+  hint: Auf dem Brief steht dein Name, also bist du der Empfänger.
+- question: What does 'empfehlen' mean?
+  answer: Recommend
+  hint: Welchen Wein können Sie mir empfehlen?
+- question: What do 'enden' and 'das Ende' mean?
+  answer: End
+  hint: 'Die Straße endet hier.
+
+    Sie wohnt am Ende der Straße. Er bekommt sein Geld am Ende des Monats.'
+- question: What do 'entschuldigen' and 'die Entschuldigung' mean?
+  answer: Excuse; Apology
+  hint: 'Entschuldigen Sie bitte!
+
+    Entschuldigung! – Bitte.'
+- question: What does 'er' mean?
+  answer: He
+  hint: Er heißt Ali.
+- question: What does 'das Ergebnis' mean?
+  answer: Result
+  hint: Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+- question: What does 'erklären' mean?
+  answer: Explain
+  hint: Kannst du mir das erklären?
+- question: What does 'erlauben' mean?
+  answer: Allow
+  hint: Rauchen ist hier nicht erlaubt.
+- question: What does 'der Erwachsene' mean?
+  answer: Adult
+  hint: Dieser Film ist nur für Erwachsene.
+- question: What does 'erzählen' mean?
+  answer: Tell
+  hint: Wir müssen euch etwas erzählen!
+- question: What does 'es' mean?
+  answer: It
+  hint: Es regnet.
+- question: What do 'essen' and 'das Essen' mean?
+  answer: Eat; Food
+  hint: 'Was gibt es zu essen?
+
+    Das Essen ist heute sehr gut.'
+- question: What does 'euer' mean?
+  answer: Your
+  hint: Euer Kurs beginnt heute.
+- question: What do 'fahren' and 'der Fahrer' mean?
+  answer: Drive; Driver
+  hint: 'Ich fahre mit dem Auto zur Arbeit.
+
+    Bitte nicht mit dem Fahrer sprechen!'
+- question: What does 'die Fahrkarte' mean?
+  answer: Ticket
+  hint: Hast du schon eine Fahrkarte?
+- question: What does 'das Fahrrad' mean?
+  answer: Bike
+  hint: Fährst du mit dem Fahrrad oder mit dem Auto?
+- question: What does 'falsch' mean?
+  answer: Incorrect
+  hint: Das ist falsch.
+- question: What do 'die Familie', 'der Familienname' and 'der Familienstand' mean?
+  answer: Family; Family name; Marital status
+  hint: 'Meine Familie lebt in Spanien.
+
+    Meine Familiennamen sind García González.
+
+    Bei „Familienstand“ musst du „ledig“ ankreuzen.'
+- question: What does 'die Farbe' mean?
+  answer: Color
+  hint: Die Farbe gefällt mir gut.
+- question: What does 'das Fax' mean?
+  answer: Fax
+  hint: Schicken Sie uns einfach ein Fax!
+- question: What does 'Feier-' mean?
+  answer: Celebration-
+  hint: z. B. Feierabend, Feiertag Am Montag ist Feiertag.
+- question: What does 'feiern' mean?
+  answer: Celebrate
+  hint: Wir feiern heute meinen Geburtstag.
+- question: What does 'fehlen' mean?
+  answer: Miss
+  hint: Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?
+- question: What does 'der Fehler' mean?
+  answer: Error
+  hint: Diesen Fehler mache ich immer.
+- question: What does 'fernsehen' mean?
+  answer: TV
+  hint: Wollen wir heute Abend mal fernsehen?
+- question: What does 'fertig' mean?
+  answer: Complete
+  hint: Bist du fertig? Ist mein Auto schon fertig?
+- question: What does 'das Feuer' mean?
+  answer: Fire
+  hint: Haben Sie Feuer?
+- question: What does 'das Fieber' mean?
+  answer: Fever
+  hint: Mein Mann hat noch immer Fieber.
+- question: What does 'der Film' mean?
+  answer: Film
+  hint: Ich möchte gern diesen Film sehen.
+- question: What does 'finden' mean?
+  answer: Find
+  hint: Wir müssen den Schlüssel finden.
+- question: What does 'die Firma' mean?
+  answer: Company
+  hint: Er arbeitet jetzt bei einer anderen Firma.
+- question: What does 'der Fisch' mean?
+  answer: Fish
+  hint: Ich esse gern Fisch. Fleisch mag ich nicht.
+- question: What does 'die Flasche' mean?
+  answer: Bottle
+  hint: Eine Flasche Bier, bitte.
+- question: What does 'das Fleisch' mean?
+  answer: Meat
+  hint: Fleisch mag ich nicht.
+- question: What do 'fliegen', 'abfliegen' and 'der Abflug' mean?
+  answer: Fly; Fly off; Departure
+  hint: 'Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.
+
+    Wann fliegst du ab?
+
+    Der Abflug ist um 11.20 Uhr.'
+- question: What does 'der Flughafen' mean?
+  answer: Airport
+  hint: Kannst du mich zum Flughafen bringen?
+- question: What does 'das Flugzeug' mean?
+  answer: Plane
+  hint: Das Flugzeug aus Berlin kommt heute später an.
+- question: What does 'das Formular' mean?
+  answer: Form
+  hint: Sie müssen dieses Formular ausfüllen.
+- question: What does 'das Foto' mean?
+  answer: Photo
+  hint: Darf ich ein Foto machen?
+- question: What do 'fragen' and 'die Frage' mean?
+  answer: Questions; Question
+  hint: 'Er möchte Sie etwas fragen. Wann kommen Sie?
+
+    Ich habe eine Frage.'
+- question: What does 'die Frau' mean?
+  answer: Woman
+  hint: Das ist Frau Becker. Guten Tag, Frau Schmitt! Hier arbeiten mehr Frauen als Männer.
+- question: What does 'frei' mean?
+  answer: Free
+  hint: Ist der Platz noch frei?
+- question: What does 'die Freizeit' mean?
+  answer: Free time
+  hint: In meiner Freizeit spiele ich oft Fußball.
+- question: What does 'fremd' mean?
+  answer: Foreign
+  hint: Das weiß ich nicht; ich bin fremd hier.
+- question: What does '(sich) freuen' mean?
+  answer: To be happy/glad; to look forward to (sich freuen auf)
+  hint: Ich freue mich auf den Urlaub.
+- question: What does 'der Freund' mean?
+  answer: Friend
+  hint: Das ist ein Freund von mir. Das ist meine Freundin.
+- question: What does 'früher' mean?
+  answer: Earlier
+  hint: Früher waren wir oft zusammen im Kino.
+- question: What do 'frühstücken' and 'das Frühstück' mean?
+  answer: Have breakfast; Breakfast
+  hint: 'Am Sonntag frühstücke ich gern im Bett.
+
+    Möchtest du ein Ei zum Frühstück?'
+- question: What does 'die Führung' mean?
+  answer: Leadership
+  hint: Die Führung durch das Haus beginnt in 3 Minuten.
+- question: What does 'für' mean?
+  answer: For
+  hint: Das ist für Sie. Das ist der Schlüssel für die Haustür. Das ist das Brot für morgen.
+- question: What does 'der Fuß' mean?
+  answer: Foot
+  hint: Der linke Fuß tut mir weh.
+- question: What does 'der Fußball' mean?
+  answer: Football
+  hint: Spielt ihr gerne Fußball?
+- question: What does 'der Garten' mean?
+  answer: Garden
+  hint: Wir haben leider keinen Garten.
+- question: What does 'der Gast' mean?
+  answer: Guest
+  hint: Am Wochenende haben wir mehrere Gäste.
+- question: What does 'geben' mean?
+  answer: Give
+  hint: Kannst du mir bitte deinen Kugelschreiber geben? Es gibt keine Karten mehr.
+- question: What does 'geboren' mean?
+  answer: Born
+  hint: Ich bin in Zagreb geboren.
+- question: What does 'das Geburtsjahr' mean?
+  answer: Year of birth
+  hint: Das Geburtsjahr Ihres Sohnes, bitte?
+- question: What does 'der Geburtsort' mean?
+  answer: Place of birth
+  hint: Bitte schreiben Sie Ihren Geburtsort auf das Formular.
+- question: What does 'der Geburtstag' mean?
+  answer: Birthday
+  hint: Herzlichen Glückwunsch zum Geburtstag!
+- question: What does 'gefallen' mean?
+  answer: Fallen
+  hint: Das gefällt mir.
+- question: What does 'gegen' mean?
+  answer: Against
+  hint: Fahr nicht gegen den Baum! Ich bin gegen diese Lösung. Wer spielt gegen wen?
+- question: What does 'gehen' mean?
+  answer: Go
+  hint: Ich weiß nicht, wie das geht. Wie geht‘s? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt
+    gehen. Das geht nicht!
+- question: What does 'gehören' mean?
+  answer: Belong
+  hint: Wem gehört das?
+- question: What does 'das Geld' mean?
+  answer: Money
+  hint: Hast du noch Geld?
+- question: What does 'das Gemüse' mean?
+  answer: Vegetable
+  hint: Gemüse brauchen wir auch noch.
+- question: What does 'das Gepäck' mean?
+  answer: Luggage
+  hint: Wollen Sie Ihr Gepäck mitnehmen?
+- question: What does 'gerade' mean?
+  answer: Straight
+  hint: Da kommt er ja gerade.
+- question: What does 'geradeaus' mean?
+  answer: Straight ahead
+  hint: Gehen Sie immer geradeaus!
+- question: What does 'gern(e)' mean?
+  answer: Gladly
+  hint: Ich gehe gerne einkaufen.
+- question: What does 'das Geschäft' mean?
+  answer: Business
+  hint: Die Geschäfte schließen um 18.30 Uhr.
+- question: What does 'das Geschenk' mean?
+  answer: Gift
+  hint: Danke für das schöne Geschenk.
+- question: What does 'die Geschwister' mean?
+  answer: Siblings
+  hint: Ich habe leider keine Geschwister.
+- question: What does 'das Gespräch' mean?
+  answer: Conversation
+  hint: Das Gespräch mit Frau Kunz ist um 14 Uhr.
+- question: What does 'gestern' mean?
+  answer: Yesterday
+  hint: Gestern war ich krank.
+- question: What does 'gestorben' mean?
+  answer: Died
+  hint: Meine Frau ist gestern gestorben.
+- question: What does 'das Getränk' mean?
+  answer: Drink
+  hint: Mein Lieblingsgetränk ist Tomatensaft.
+- question: What does 'das Gewicht' mean?
+  answer: Weight
+  hint: 'Bei „Gewicht“ schreibst du: 62 Kilo.'
+- question: What does 'gewinnen' mean?
+  answer: Win
+  hint: Wer gewinnt das Spiel?
+- question: What does 'das Glas' mean?
+  answer: Glass
+  hint: Bitte noch ein Glas Wein! Wir brauchen noch drei Gläser.
+- question: What does 'glauben' mean?
+  answer: Believe
+  hint: Sie können mir glauben, es ist so. Ich glaube, er kommt gleich.
+- question: What does 'gleich' mean?
+  answer: Even
+  hint: Das ist mir gleich. Das ist der gleiche Preis. Ich komme gleich.
+- question: What does 'das Gleis' mean?
+  answer: Track
+  hint: Der ICE nach Berlin hält heute an Gleis 12.
+- question: What does 'das Glück' mean?
+  answer: Happiness
+  hint: Viel Glück!
+- question: What does 'glücklich' mean?
+  answer: Happy
+  hint: Meine Kinder sind glücklich verheiratet.
+- question: What does 'der Glückwunsch' mean?
+  answer: Congratulations
+  hint: Herzlichen Glückwunsch zum Geburtstag.
+- question: What does 'Grad (Celsius)' mean?
+  answer: Degrees Celsius
+  hint: Heute haben wir dreißig Grad.
+- question: What does 'gratulieren' mean?
+  answer: Congratulate
+  hint: Ich gratuliere dir!
+- question: What does 'grillen' mean?
+  answer: Grill
+  hint: Heute grillen wir im Garten.
+- question: What do 'groß' and 'die Größe' mean?
+  answer: Large; Size
+  hint: 'Mein Bruder und ich sind gleich groß. Frankfurt ist eine große Stadt.
+
+    Haben Sie das auch in Größe 40?'
+- question: What do 'die Großeltern', 'die Großmutter' and 'der Großvater' mean?
+  answer: Grandparents; Grandmother; Grandfather
+  hint: 'Meine Großeltern leben in Japan.
+
+    Meine Großmutter heißt Eva.
+
+    Mein Großvater ist schon 80.'
+- question: What does 'die Gruppe' mean?
+  answer: Group
+  hint: Die erste Gruppe beginnt um 16 Uhr.
+- question: What does 'der Gruß' mean?
+  answer: Greeting
+  hint: Viele Grüße an Ihre Frau. Mit freundlichen Grüßen
+- question: What does 'gültig' mean?
+  answer: Valid
+  hint: Der Pass ist nicht mehr gültig.
+- question: What does 'günstig' mean?
+  answer: Cheap
+  hint: Dort gibt es günstige Angebote.
+- question: What does 'gut' mean?
+  answer: Good
+  hint: Das finde ich gut. Ich komme um 13 Uhr. – Gut! Guten Morgen! Ein gutes neues Jahr! Guten Appetit!
+- question: What does 'das Haar' mean?
+  answer: Hair
+  hint: Sie hat lange Haare.
+- question: What does 'haben' mean?
+  answer: Have
+  hint: Ich habe ein neues Auto.
+- question: What does 'das Hähnchen' mean?
+  answer: Chicken
+  hint: Ein Hähnchen mit Pommes bitte!
+- question: What does 'die Halbpension' mean?
+  answer: Half board
+  hint: Möchten Sie Vollpension oder Halbpension?
+- question: What does 'die Halle' mean?
+  answer: Hall
+  hint: Wir treffen uns in Halle B
+- question: What does 'hallo' mean?
+  answer: Hello
+  hint: Hallo Inge! Wie geht’s?
+- question: What does 'halten' mean?
+  answer: Hold
+  hint: Dieser Zug hält nicht in Rüdesheim.
+- question: What does 'die Haltestelle' mean?
+  answer: Bus stop
+  hint: An der nächsten Haltestelle müssen Sie aussteigen.
+- question: What does 'die Hand' mean?
+  answer: Hand
+  hint: Er gibt mir die Hand.
+- question: What does 'das Handy' mean?
+  answer: Phone
+  hint: In der Schule bitte die Handys ausmachen!
+- question: What does 'das Haus' mean?
+  answer: House
+  hint: In welchem Haus wohnst du? Ich gehe jetzt nach Hause. Paul ist nicht zu Hause.
+- question: What does 'die Hausaufgabe' mean?
+  answer: Homework
+  hint: Kannst du mir bei den Hausaufgaben helfen?
+- question: What do 'die Hausfrau', 'der Hausmann' and 'die Heimat' mean?
+  answer: Housewife; Househusband; Homeland
+  hint: 'Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.
+
+    Ich komme aus der Schweiz. Das ist meine Heimat.'
+- question: What does 'heiraten' mean?
+  answer: Marry
+  hint: Meine Schwester heiratet einen Japaner.
+- question: What does 'heißen' mean?
+  answer: Be called
+  hint: Ich heiße Charlotte Meier. Wie heißt das auf Deutsch?
+- question: What does 'helfen' mean?
+  answer: Help
+  hint: Können Sie mir helfen, bitte?
+- question: What does 'hell' mean?
+  answer: Bright
+  hint: Im Sommer ist es bis 21 Uhr hell.
+- question: What does 'der Herd' mean?
+  answer: Stove
+  hint: In der neuen Küche fehlt noch der Herd.
+- question: What does 'der Herr' mean?
+  answer: Lord
+  hint: Guten Tag, Herr Sommer!
+- question: What does 'herzlich' mean?
+  answer: Heartfelt
+  hint: Herzlichen Glückwunsch!
+- question: What does 'heute' mean?
+  answer: Today
+  hint: Heute ist ein schöner Tag.
+- question: What does 'hier' mean?
+  answer: Here
+  hint: Hier ist 06131-553221, Pamela Linke. Hier wohne ich.
+- question: What does 'die Hilfe' mean?
+  answer: Help
+  hint: Hilfe! Bitte helfen Sie mir! Brauchen Sie meine Hilfe?
+- question: What does 'hinten' mean?
+  answer: Rear
+  hint: Die Tür zum Aussteigen ist hinten.
+- question: What does 'das Hobby' mean?
+  answer: Hobby
+  hint: Meine Hobbys sind Wandern und Schwimmen.
+- question: What does 'hoch' mean?
+  answer: High
+  hint: Der Mount Everest ist 8.880 Meter hoch.
+- question: What does 'die Hochzeit' mean?
+  answer: Wedding
+  hint: Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
+- question: What does 'holen' mean?
+  answer: Fetch
+  hint: Ich hole zwei Flaschen Wasser aus der Küche.
+- question: What does 'hören' mean?
+  answer: Hear
+  hint: Hör mal! Was ist das? Ich habe das Lied schon mal gehört.
+- question: What does 'das Hotel' mean?
+  answer: Hotel
+  hint: Im Urlaub sind wir in einem Hotel am Meer.
+- question: What does 'der Hund' mean?
+  answer: Dog
+  hint: Der Hund ist noch jung.
+- question: What does 'der Hunger' mean?
+  answer: Hunger
+  hint: Ich habe Hunger! Wann ist das Essen fertig?
+- question: What does 'ich' mean?
+  answer: I
+  hint: Ich heiße Veronika.
+- question: What does 'ihr/ihm/ihn' mean?
+  answer: Her/him/him
+  hint: Gib ihr/ihm bitte das Buch. Ruf ihn bitte an.
+- question: What does 'immer' mean?
+  answer: Always
+  hint: Frau Bast kommt immer zu spät.
+- question: What does 'in' mean?
+  answer: In
+  hint: Ich wohne in Wiesbaden. Der Zug kommt in fünf Minuten. Frau Rausch arbeitet in einem Geschäft.
+    Komm, wir gehen ins Kino.
+- question: What does 'die Information' mean?
+  answer: Information
+  hint: Wenn Sie Fragen haben, gehen Sie zur Information. Wir haben hier wichtige Informationen für Sie.
+- question: What does 'international' mean?
+  answer: International
+  hint: 'Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China
+    ...'
+- question: What does 'das Internet' mean?
+  answer: Internet
+  hint: Das findest du im Internet.
+- question: What does 'ja' mean?
+  answer: 'Yes'
+  hint: Sind Sie Herr Watanabe? – Ja.
+- question: What does 'die Jacke' mean?
+  answer: Jacket
+  hint: Zieh dir eine Jacke an. Es ist kalt.
+- question: What does 'jed-' mean?
+  answer: Any-
+  hint: Blumen kannst du in jedem Bahnhof kaufen.
+- question: What does 'jetzt' mean?
+  answer: Now
+  hint: Jetzt machen wir eine Pause.
+- question: What does 'der Job' mean?
+  answer: Job
+  hint: Jenny hat einen neuen Job bei der Post.
+- question: What does 'der Jugendliche' mean?
+  answer: Young person
+  hint: Viele Jugendliche kaufen gern ein.
+- question: What does 'jung' mean?
+  answer: Young
+  hint: Claudia ist 21. – Was? Noch so jung?
+- question: What does 'der Junge' mean?
+  answer: Young
+  hint: Ich habe zwei Kinder. Einen Jungen und ein Mädchen.
+- question: What does 'der Kaffee' mean?
+  answer: Coffee
+  hint: Zum Frühstück trinke ich immer Kaffee.
+- question: What does 'kaputt' mean?
+  answer: Broken
+  hint: Das Glas war teuer. Es geht sehr leicht kaputt.
+- question: What do 'die Karte' and '(Kredit)-Karte' mean?
+  answer: Map; Credit card
+  hint: 'Ich schreibe meinen Bekannten eine Karte aus dem Urlaub. Wollen wir Karten spielen? Ich möchte
+    auch etwas essen. Bringen Sie mir die Karte, bitte.
+
+    Kann ich auch mit Karte (be-) zahlen?'
+- question: What does 'die Kartoffel' mean?
+  answer: Potato
+  hint: Für Pommes frites braucht man Kartoffeln.
+- question: What does 'die Kasse' mean?
+  answer: Cash register
+  hint: Zahlen Sie bitte an der Kasse.
+- question: What does 'kaufen' mean?
+  answer: Buy
+  hint: Tim kauft sich ein neues Auto.
+- question: What does 'kein' mean?
+  answer: 'No'
+  hint: Es gibt keine Eintrittskarten mehr.
+- question: What do 'kennen' and 'kennenlernen' mean?
+  answer: Know; Get to know
+  hint: 'Kennen Sie diese Frau? – Nein, leider nicht.
+
+    Wir sind neu hier. Wir möchten Sie kennenlernen.'
+- question: What does 'das Kind' mean?
+  answer: Child
+  hint: Wie viele Kinder haben Sie?
+- question: What does 'der Kindergarten' mean?
+  answer: Kindergarten
+  hint: Die kleine Laura geht schon in den Kindergarten.
+- question: What does 'das Kino' mean?
+  answer: Cinema
+  hint: Wir sehen heute Abend im Kino einen schönen Film.
+- question: What does 'der Kiosk' mean?
+  answer: Kiosk
+  hint: Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.
+- question: What does 'klar' mean?
+  answer: Clear
+  hint: Kommst du mit? – Klar!
+- question: What does 'die Klasse' mean?
+  answer: Class
+  hint: In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer 2. Klasse.
+- question: What does 'die Kleidung' mean?
+  answer: Clothing
+  hint: Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock.
+- question: What does 'klein' mean?
+  answer: Small
+  hint: Eltville ist eine kleine Stadt am Rhein.
+- question: What does 'kochen' mean?
+  answer: Cook
+  hint: Herr Georgi kann gut kochen.
+- question: What does 'der Koffer' mean?
+  answer: Suitcase
+  hint: Ist das Ihr Koffer?
+- question: What does 'der Kollege' mean?
+  answer: Colleague
+  hint: Wie heißt die neue Kollegin?
+- question: What does 'kommen' mean?
+  answer: Come
+  hint: Woher kommen Sie? – Aus Frankreich. Kommst du mit ins Schwimmbad?
+- question: What does 'können' mean?
+  answer: Can
+  hint: Ich kann Deutsch und Russisch. Können Sie mir helfen?
+- question: What does 'das Konto' mean?
+  answer: Account
+  hint: Das Geld überweisen wir am ersten März auf Ihr Konto.
+- question: What does 'der Kopf' mean?
+  answer: Head
+  hint: Mein Kopf tut weh!
+- question: What does 'kosten' mean?
+  answer: Cost
+  hint: Wie viel kostet das? – 10 Euro.
+- question: What does 'krank' mean?
+  answer: Sick
+  hint: Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.
+- question: What does 'kriegen' mean?
+  answer: Get
+  hint: Ich kriege 15 Euro in der Stunde für meine Arbeit.
+- question: What does 'die Küche' mean?
+  answer: Kitchen
+  hint: Der neue Herd kommt in die Küche.
+- question: What does 'der Kuchen' mean?
+  answer: Cake
+  hint: Ich nehme ein Stück Kuchen.
+- question: What does 'der Kugelschreiber' mean?
+  answer: Ballpoint pen
+  hint: Hast du einen Kugelschreiber für mich?
+- question: What does 'der Kühlschrank' mean?
+  answer: Refrigerator
+  hint: Haben wir noch Milch? – Ja, im Kühlschrank.
+- question: What does 'kulturell' mean?
+  answer: Cultural
+  hint: Ich bin kulturell interessiert. Ich gehe oft ins Museum.
+- question: What does 'sich kümmern' mean?
+  answer: Take care
+  hint: Jede Mutter kümmert sich um ihre kleinen Kinder.
+- question: What does 'der Kunde' mean?
+  answer: Customer
+  hint: Einen Moment, bitte. Ich habe eine Kundin.
+- question: What does 'der Kurs' mean?
+  answer: Course
+  hint: Der Deutschkurs geht bis zum Sommer.
+- question: What does 'kurz' mean?
+  answer: Short
+  hint: Ricardo hat kurzes Haar.
+- question: What does 'lachen' mean?
+  answer: Laugh
+  hint: Die Kinder lachen viel.
+- question: What does 'der Laden' mean?
+  answer: Store
+  hint: Im Buchladen können Sie Bücher kaufen.
+- question: What does 'das Land' mean?
+  answer: Country
+  hint: Italien ist ein schönes Land.
+- question: What does 'lang' mean?
+  answer: Long
+  hint: Die Jeans ist zu lang.
+- question: What does 'lange' mean?
+  answer: Long
+  hint: Wie lange fährt der Zug von Hamburg nach Berlin?
+- question: What does 'langsam' mean?
+  answer: Slow
+  hint: Könnten Sie bitte etwas langsamer sprechen?
+- question: What does 'laufen' mean?
+  answer: Run
+  hint: Ich möchte nicht Auto fahren, ich möchte laufen.
+- question: What does 'laut' mean?
+  answer: Loud
+  hint: Nicht so laut! Das Baby schläft.
+- question: What do 'leben', 'das Leben' and 'die Lebensmittel' mean?
+  answer: To live; life; foodstuffs
+  hint: 'Sie lebt bei ihrer Schwester. Ihre Eltern leben nicht mehr.
+
+    Das Leben in diesem Land ist teuer. Lebensmittel bekommen Sie im Supermarkt.'
+- question: What does 'ledig' mean?
+  answer: Single
+  hint: Sind Sie verheiratet? – Nein. Ledig.
+- question: What does 'legen' mean?
+  answer: Place
+  hint: Legen Sie das Buch auf den Tisch.
+- question: What does 'der Lehrer' mean?
+  answer: Teacher
+  hint: Unsere Deutschlehrerin heißt Frau Müller.
+- question: What does 'leicht' mean?
+  answer: Light
+  hint: Der Koffer ist leicht. Deutsch ist nicht leicht.
+- question: What does 'leider' mean?
+  answer: Unfortunately
+  hint: Leider kann ich nicht kommen. Ich muss zum Arzt.
+- question: What does 'leise' mean?
+  answer: Quiet
+  hint: Seid leise. Die anderen schlafen schon.
+- question: What does 'lernen' mean?
+  answer: Learn
+  hint: Wie lange lernen Sie schon Deutsch?
+- question: What does 'lesen' mean?
+  answer: Read
+  hint: Ich lese ein Buch von García Márquez.
+- question: What does 'letzt-' mean?
+  answer: Last-
+  hint: Morgen ist der letzte Kurstag.
+- question: What does 'die Leute' mean?
+  answer: People
+  hint: In der Disko sind viele Leute.
+- question: What does 'das Licht' mean?
+  answer: Light
+  hint: Wo macht man hier das Licht an?
+- question: What do 'lieb-', 'lieben' and 'lieber' mean?
+  answer: Dear; to love; rather/prefer
+  hint: 'Liebe Susanne, lieber Hans,
+
+    Ich liebe dich!
+
+    Sie fährt lieber mit der Bahn.'
+- question: What does 'Lieblings-' mean?
+  answer: Favorite-
+  hint: Mein Lieblingsfilm ist „Schwarze Augen“.
+- question: What does 'das Lied' mean?
+  answer: Song
+  hint: Welches ist dein Lieblingslied?
+- question: What does 'liegen' mean?
+  answer: Lay
+  hint: Um neun Uhr liegt Judith noch im Bett. Frankfurt liegt am Main.
+- question: What does 'links' mean?
+  answer: Left
+  hint: Gehen Sie die nächste Straße links.
+- question: What does 'der Lkw' mean?
+  answer: Truck
+  hint: Dieser Lastkraftwagen ist sehr groß.
+- question: What does 'das Lokal' mean?
+  answer: Local
+  hint: In unserer Straße gibt es ein neues Lokal.
+- question: What does 'die Lösung' mean?
+  answer: Solution
+  hint: Die Lösung ist ganz einfach.
+- question: What does 'lustig' mean?
+  answer: Funny
+  hint: Frau Mertens ist lustig. Sie lacht immer.
+- question: What does 'machen' mean?
+  answer: Make
+  hint: Was machst du heute Abend? Ich muss jetzt das Essen machen.
+- question: What does 'das Mädchen' mean?
+  answer: Girl
+  hint: Familie Kurz bekommt ein Baby. – Junge oder Mädchen?
+- question: What does 'man' mean?
+  answer: Man
+  hint: Hier darf man nicht rauchen.
+- question: What do 'der Mann' and 'männlich' mean?
+  answer: Man; Masculine
+  hint: 'Mein Mann arbeitet bei der Polizei.
+
+    Kreuzen Sie bitte an: „weiblich“ oder „männlich“.'
+- question: What does 'die Maschine' mean?
+  answer: Machine
+  hint: Die Waschmaschine ist günstig.
+- question: What does 'das Meer' mean?
+  answer: Sea
+  hint: Wir machen Urlaub am Meer.
+- question: What does 'mehr' mean?
+  answer: More
+  hint: Dieses Auto kostet 1.000 Euro mehr als das andere.
+- question: What does 'mein' mean?
+  answer: My
+  hint: Mein Vater ist Arzt.
+- question: What does 'meist-' mean?
+  answer: Mostly-
+  hint: Die meisten Norddeutschen sind sehr groß.
+- question: What does 'der Mensch' mean?
+  answer: Human being
+  hint: Die Menschen sind hier anders als bei uns.
+- question: What do 'mieten' and 'die Miete' mean?
+  answer: Rent
+  hint: 'Ich möchte ein Auto mieten.
+
+    Die Miete für diese Wohnung ist 600 Euro.'
+- question: What does 'die Milch' mean?
+  answer: Milk
+  hint: Die Milch steht im Kühlschrank.
+- question: What does 'mit' mean?
+  answer: With
+  hint: Trinken Sie den Kaffee mit Milch?
+- question: What does 'mitbringen' mean?
+  answer: Bring along
+  hint: Ich gehe einkaufen. Soll ich dir was mitbringen?
+- question: What does 'mitkommen' mean?
+  answer: Come along
+  hint: Ich gehe ins Kino. Kommst du mit?
+- question: What does 'mitmachen' mean?
+  answer: Join in
+  hint: Warum macht ihr nicht mit?
+- question: What does 'mitnehmen' mean?
+  answer: Take along
+  hint: Nehmen wir meine Schwester ins Kino mit?
+- question: What does 'die Mitte' mean?
+  answer: Middle
+  hint: Der Lehrer steht in der Mitte des Klassenzimmers.
+- question: What does 'die Möbel' mean?
+  answer: Furniture
+  hint: Sind die Möbel neu?
+- question: What does 'möchten' mean?
+  answer: Want
+  hint: Was möchten Sie trinken?
+- question: What does 'mögen' mean?
+  answer: Like
+  hint: Magst du Kaffee oder Tee?
+- question: What does 'möglich' mean?
+  answer: Possible
+  hint: Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
+- question: What does 'der Moment' mean?
+  answer: Moment
+  hint: Moment mal bitte! Einen Moment bitte.
+- question: What does 'morgen' mean?
+  answer: Morning
+  hint: Morgen beginnt die Schule um 10 Uhr.
+- question: What does 'müde' mean?
+  answer: Tired
+  hint: Ich bin müde. Ich gehe schlafen.
+- question: What does 'der Mund' mean?
+  answer: Mouth
+  hint: Öffnen Sie den Mund.
+- question: What does 'müssen' mean?
+  answer: Must
+  hint: Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+- question: What does 'die Mutter' mean?
+  answer: Mother
+  hint: Frau Berghäuser ist die Mutter von Michaela.
+- question: What does 'nach' mean?
+  answer: After
+  hint: Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12.
+- question: What does 'nächst-' mean?
+  answer: Next-
+  hint: Sehen wir uns nächste Woche?
+- question: What does 'der Name' mean?
+  answer: Name
+  hint: Mein Name ist Thomas Schmidt. Mein Vorname ist Thomas; Schmidt ist der Familienname.
+- question: What does 'nehmen' mean?
+  answer: Take
+  hint: Heute gibt es Hähnchen. Das nehme ich. Ich nehme den Bus.
+- question: What does 'nein' mean?
+  answer: 'No'
+  hint: Fährst du auch nach München? – Nein, ich habe keine Zeit.
+- question: What does 'neu' mean?
+  answer: New
+  hint: Ich bin der neue Kollege. Wir haben eine neue Wohnung.
+- question: What does 'nicht' mean?
+  answer: Not
+  hint: Das stimmt nicht. Das ist doch schön, nicht?
+- question: What does 'nichts' mean?
+  answer: Nothing
+  hint: Das macht nichts. Hier kaufe ich nichts. Der Laden gefällt mir nicht.
+- question: What does 'nie' mean?
+  answer: Never
+  hint: Er kommt nie pünktlich.
+- question: What does 'noch' mean?
+  answer: Still
+  hint: Vielleicht kommt er noch. Wir warten noch fünf Minuten. Ich habe noch 20 Euro.
+- question: What does 'normal' mean?
+  answer: Normal
+  hint: 75 kg. Sein Gewicht ist normal.
+- question: What does 'die Nummer' mean?
+  answer: Number
+  hint: Sie haben Zimmer Nummer zwölf. Welche Hausnummer haben Sie? Können Sie mir Ihre Nummer geben?
+- question: What does 'nur' mean?
+  answer: Only
+  hint: Ich möchte nur ein Glas Wasser.
+- question: What does 'oben' mean?
+  answer: Above
+  hint: Ich wohne oben.
+- question: What does 'das Obst' mean?
+  answer: Fruit
+  hint: Im Sommer ist das Obst billig.
+- question: What does 'oder' mean?
+  answer: Or
+  hint: Wann können Sie kommen – heute oder morgen?
+- question: What do 'öffnen' and 'geöffnet' mean?
+  answer: Open
+  hint: 'Ich öffne die Tür.
+
+    Der Laden ist samstags bis 16.00 Uhr geöffnet.'
+- question: What does 'oft' mean?
+  answer: Often
+  hint: Petra treffe ich oft.
+- question: What does 'ohne' mean?
+  answer: Without
+  hint: Ohne Geld kann er nichts kaufen.
+- question: What does 'das Öl' mean?
+  answer: Oil
+  hint: Den Salat machen wir ohne Öl.
+- question: What does 'die Oma' mean?
+  answer: Grandma
+  hint: Meine Oma ist schon tot.
+- question: What does 'der Opa' mean?
+  answer: Grandpa
+  hint: Mein Opa heißt Hans.
+- question: What does 'die Ordnung' mean?
+  answer: Order
+  hint: Das ist in Ordnung.
+- question: What does 'der Ort' mean?
+  answer: Place
+  hint: Der Ort liegt am Meer.
+- question: What does 'das Papier' mean?
+  answer: Paper
+  hint: Hier sind Papier und Bleistift.
+- question: What does 'die Papiere' mean?
+  answer: Papers
+  hint: Haben Sie Ihre Papiere dabei?
+- question: What do 'der Partner' and 'die Partnerin' mean?
+  answer: Partner
+  hint: Sie ist meine Partnerin.
+- question: What does 'die Party' mean?
+  answer: Party
+  hint: Heute Abend machen wir eine Party.
+- question: What does 'der Pass' mean?
+  answer: Passport
+  hint: Im Hotel brauchst du deinen Pass.
+- question: What does 'die Pause' mean?
+  answer: Break
+  hint: Von 12.00 bis 12.30 Uhr haben wir Mittagspause.
+- question: What does 'der Plan' mean?
+  answer: Plan
+  hint: Ich kaufe mir einen Stadtplan.
+- question: What does 'der Platz' mean?
+  answer: Space
+  hint: Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5.
+- question: What does 'die Polizei' mean?
+  answer: Police
+  hint: Holen Sie die Polizei!
+- question: What does 'die Pommes frites' mean?
+  answer: French fries
+  hint: Die Kinder essen Hähnchen mit Pommes frites.
+- question: What does 'die Post' mean?
+  answer: Post
+  hint: Wo ist die Post, bitte? Ist Post da?
+- question: What does 'die Postleitzahl' mean?
+  answer: Zip code
+  hint: Wie ist Ihre Postleitzahl?
+- question: What does 'das Praktikum' mean?
+  answer: Internship
+  hint: Ich mache ein Praktikum bei Siemens.
+- question: What does 'die Praxis' mean?
+  answer: Practice
+  hint: Die Praxis ist ab acht Uhr geöffnet.
+- question: What does 'der Preis' mean?
+  answer: Price
+  hint: Die Preise sind hoch.
+- question: What does 'das Problem' mean?
+  answer: Problem
+  hint: Mein Problem ist die Sprache.
+- question: What does 'der Prospekt' mean?
+  answer: Prospectus
+  hint: Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.
+- question: What does 'die Prüfung' mean?
+  answer: Exam
+  hint: Die Prüfung ist am Montag um 8.00 Uhr.
+- question: What does 'pünktlich' mean?
+  answer: On time
+  hint: Der Bus fährt pünktlich um acht Uhr. Herr Müller ist immer pünktlich.
+- question: What does 'Rad fahren' mean?
+  answer: Ride a bike
+  hint: Das Kind kann schon Rad fahren.
+- question: What does 'rauchen' mean?
+  answer: Smoke
+  hint: Ich rauche nicht.
+- question: What does 'der Raum' mean?
+  answer: Space
+  hint: Der Unterricht ist in Raum 332.
+- question: What does 'die Rechnung' mean?
+  answer: Bill
+  hint: Die Rechnung, bitte.
+- question: What does 'rechts' mean?
+  answer: Right
+  hint: Die Schillerstraße ist hier rechts.
+- question: What do 'regnen' and 'der Regen' mean?
+  answer: Rain
+  hint: 'Heute regnet es.
+
+    Bei diesem Regen gehe ich nicht raus.'
+- question: What does 'der Reis' mean?
+  answer: Rice
+  hint: Ich esse gern Reis.
+- question: What do 'reisen', 'die Reise', 'das Reisebüro' and 'der Reiseführer' mean?
+  answer: Travel; Trip; Travel agency; Travel guide
+  hint: 'Ich reise gern.
+
+    Wir machen eine Reise nach Österreich.
+
+    Mein Mann arbeitet im Reisebüro.
+
+    Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter.'
+- question: What do 'reparieren' and 'die Reparatur' mean?
+  answer: Repair
+  hint: 'Er hat das Fahrrad repariert.
+
+    Die Reparatur ist sehr teuer.'
+- question: What does 'das Restaurant' mean?
+  answer: Restaurant
+  hint: Wir essen heute in einem Restaurant.
+- question: What does 'die Rezeption' mean?
+  answer: Reception
+  hint: Fragen Sie bitte im Hotel an der Rezeption.
+- question: What does 'richtig' mean?
+  answer: Correct
+  hint: Habe ich das richtig verstanden? Das ist richtig.
+- question: What does 'riechen' mean?
+  answer: Smell
+  hint: Dieser Wein riecht gut.
+- question: What does 'ruhig' mean?
+  answer: Quiet
+  hint: Ich möchte ein ruhiges Zimmer.
+- question: What does 'der Saft' mean?
+  answer: Juice
+  hint: Möchtest du einen Apfelsaft?
+- question: What does 'sagen' mean?
+  answer: Say
+  hint: Sag mal, wie geht es dir denn?
+- question: What does 'der Salat' mean?
+  answer: Salad
+  hint: Wie schmeckt dir der Salat?
+- question: What does 'das Salz' mean?
+  answer: Salt
+  hint: Herr Ober, kann ich bitte Salz haben?
+- question: What does 'Satz' mean?
+  answer: Sentence
+  hint: Dieser Satz ist sehr einfach.
+- question: What does 'die S-Bahn' mean?
+  answer: S-Bahn
+  hint: Ich nehme lieber die S-Bahn.
+- question: What does 'der Schalter' mean?
+  answer: Desk
+  hint: Gehen Sie bitte zum Schalter drei!
+- question: What does 'scheinen' mean?
+  answer: Seem
+  hint: Die Sonne scheint.
+- question: What does 'schicken' mean?
+  answer: Send
+  hint: Bitte schicken Sie mir eine E-Mail.
+- question: What does 'das Schild' mean?
+  answer: Sign
+  hint: Haben Sie nicht das Schild gesehen?
+- question: What does 'der Schinken' mean?
+  answer: Ham
+  hint: Ich möchte gern ein Schinkenbrot.
+- question: What does 'schlafen' mean?
+  answer: Sleep
+  hint: Ich schlafe meistens acht Stunden.
+- question: What does 'schlecht' mean?
+  answer: Bad
+  hint: Mir ist schlecht! Sie sehen schlecht aus. Wir haben schlechtes Wetter.
+- question: What do 'schließen' and 'geschlossen' mean?
+  answer: Close; Closed
+  hint: 'Bitte, schließen Sie die Tür.
+
+    Die Bank hat am Samstag geschlossen.'
+- question: What does 'der Schluss' mean?
+  answer: Conclusion
+  hint: Ich muss jetzt Schluss machen. Zum Schluss gibt er uns allen die Hand.
+- question: What does 'der Schlüssel' mean?
+  answer: Key
+  hint: Ich gebe Ihnen noch den Zimmerschlüssel.
+- question: What does 'schmecken' mean?
+  answer: Taste good
+  hint: Schmeckt das gut?
+- question: What does 'schnell' mean?
+  answer: Fast
+  hint: Er fährt schnell.
+- question: What does 'schon' mean?
+  answer: Already
+  hint: Ist das Essen schon fertig?
+- question: What does 'schön' mean?
+  answer: Nice
+  hint: Schönen Urlaub! Das ist sehr schön.
+- question: What does 'der Schrank' mean?
+  answer: Cupboard
+  hint: Die Gläser stehen im Schrank.
+- question: What does 'schreiben' mean?
+  answer: Write
+  hint: Er schreibt jeden Tag fünfzig E-Mails.
+- question: What does 'der Schuh' mean?
+  answer: Shoe
+  hint: Zieh die Schuhe aus!
+- question: What do 'die Schule' and 'der Schüler' mean?
+  answer: School; Student
+  hint: 'Meine Tochter geht schon in die Schule. Die Schule ist gleich hier um die Ecke.
+
+    In meinem Kurs sind acht Schülerinnen und fünf Schüler.'
+- question: What does 'schwer' mean?
+  answer: Difficult
+  hint: Ist Ihr Gepäck sehr schwer? Das ist eine schwere Arbeit.
+- question: What does 'die Schwester' mean?
+  answer: Sister
+  hint: Meine Schwester kommt am Dienstag.
+- question: What do 'schwimmen' and 'das Schwimmbad' mean?
+  answer: To swim; Swimming pool
+  hint: 'Ich schwimme jeden Tag einen Kilometer.
+
+    Kommst du mit ins Schwimmbad?'
+- question: What does 'der See' mean?
+  answer: Lake
+  hint: Komm, wir fahren zum Starnberger See.
+- question: What does 'sehen' mean?
+  answer: See
+  hint: Ich kann dich nicht sehen. Ich habe diesen Jungen schon einmal gesehen.
+- question: What does 'die Sehenswürdigkeit' mean?
+  answer: Sight
+  hint: Welche Sehenswürdigkeiten gibt es in Frankfurt?
+- question: What does 'sehr' mean?
+  answer: Very
+  hint: Danke sehr! Das ist sehr schwer.
+- question: What do 'sein', 'an sein', 'auf sein', 'weg sein' and 'zu sein' mean?
+  answer: Be; Be on; To be up; Be away; To be
+  hint: 'Herr Müller ist in seinem Zimmer. Mir ist kalt. Ich bin dreiundzwanzig.
+
+    Das Licht ist noch an.
+
+    Das Fenster ist noch auf.
+
+    Herr Meier ist schon weg.
+
+    Die Tür ist zu.'
+- question: What does 'seit' mean?
+  answer: Since
+  hint: Ich wohne seit drei Jahren in Köln.
+- question: What does 'selbstständig' mean?
+  answer: Self-employed
+  hint: Er ist selbstständig.
+- question: What does 'sich' mean?
+  answer: Itself
+  hint: Sie müssen sich erst anmelden.
+- question: What does 'sie' mean?
+  answer: She
+  hint: Wie heißt sie?
+- question: What does 'sitzen' mean?
+  answer: Sit
+  hint: Wo sitzen Sie?
+- question: What does 'so' mean?
+  answer: So
+  hint: Sie müssen das so machen! Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So,
+    das war‘s/wär‘s!
+- question: What does 'das Sofa' mean?
+  answer: Sofa
+  hint: Das Sofa ist neu.
+- question: What does 'sofort' mean?
+  answer: Immediately
+  hint: Bitte antworten Sie sofort.
+- question: What does 'der Sohn' mean?
+  answer: Son
+  hint: Das ist Hans, mein Sohn.
+- question: What does 'sollen' mean?
+  answer: Should
+  hint: Soll ich kommen? Was soll ich mitbringen?
+- question: What does 'die Sonne' mean?
+  answer: Sun
+  hint: Die Sonne scheint.
+- question: What does 'spät' mean?
+  answer: Late
+  hint: Es ist schon spät, ich muss gehen.
+- question: What does 'später' mean?
+  answer: Later
+  hint: Das können wir später machen.
+- question: What does 'die Speisekarte' mean?
+  answer: Menu
+  hint: Bringen Sie mir die Speisekarte, bitte.
+- question: What does 'spielen' mean?
+  answer: Play
+  hint: Die Kinder spielen draußen. Spielen Sie Karten?
+- question: What does 'der Sport' mean?
+  answer: Sport
+  hint: Ich mache viel Sport.
+- question: What does 'die Sprache' mean?
+  answer: Language
+  hint: Welche Sprachen sprichst du?
+- question: What does 'sprechen' mean?
+  answer: Speak
+  hint: Kann ich (mit) Herrn Klein sprechen?
+- question: What does 'die Stadt' mean?
+  answer: City
+  hint: Heidelberg ist eine alte Stadt.
+- question: What does 'stehen' mean?
+  answer: Stand
+  hint: Ich glaube es nicht, aber es steht in der Zeitung. Der Bus steht schon an der Haltestelle.
+- question: What does 'die Stelle' mean?
+  answer: Position
+  hint: Ich habe eine neue Stelle.
+- question: What does 'stellen' mean?
+  answer: Place
+  hint: Stell die Tasche rechts in die Ecke!
+- question: What does 'der Stock' mean?
+  answer: Floor; storey
+  hint: Unsere Wohnung liegt im ersten Stock.
+- question: What does 'die Straße' mean?
+  answer: Street
+  hint: In welcher Straße wohnen Sie?
+- question: What does 'die Straßenbahn' mean?
+  answer: Tram
+  hint: Wo fährt die Straßenbahn ab?
+- question: What does 'studieren' mean?
+  answer: Study
+  hint: Ich studiere in Mainz.
+- question: What do 'das Studium' and 'der Student' mean?
+  answer: Study; Student
+  hint: 'Das Studium beginnt im Oktober.
+
+    Ich bin Studentin.'
+- question: What does 'die Stunde' mean?
+  answer: Hour
+  hint: Ich bin in einer Stunde zurück.
+- question: What does 'suchen' mean?
+  answer: Seek
+  hint: Suchst du etwas?
+- question: What does 'tanzen' mean?
+  answer: Dance
+  hint: Tanzen Sie gern?
+- question: What does 'die Tasche' mean?
+  answer: Bag
+  hint: Ich habe die Schlüssel in der Tasche.
+- question: What does 'das Taxi' mean?
+  answer: Taxi
+  hint: Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.
+- question: What does 'der Tee' mean?
+  answer: Tea
+  hint: Ich trinke morgens immer Tee.
+- question: What does 'der Teil' mean?
+  answer: Part
+  hint: Lies bitte auch den zweiten Teil.
+- question: What do 'telefonieren' and 'das Telefon' mean?
+  answer: Make a phone call; Phone
+  hint: 'Darf ich mal telefonieren?
+
+    Haben Sie Telefon?'
+- question: What does 'der Termin' mean?
+  answer: Appointment
+  hint: Am besten machen wir sofort einen Termin.
+- question: What does 'der Test' mean?
+  answer: Test
+  hint: Der Test war einfach.
+- question: What does 'teuer' mean?
+  answer: Expensive
+  hint: Das ist mir zu teuer.
+- question: What does 'der Text' mean?
+  answer: Text
+  hint: Lesen Sie bitte diesen Text.
+- question: What does 'das Thema' mean?
+  answer: Topic
+  hint: Wir sprechen heute über das Thema „Essen und Trinken“.
+- question: What does 'das Ticket' mean?
+  answer: Ticket
+  hint: Wie viel kostet das Ticket?
+- question: What does 'der Tisch' mean?
+  answer: Table
+  hint: Die Fotos liegen auf dem Tisch.
+- question: What does 'die Tochter' mean?
+  answer: Daughter
+  hint: Das ist meine Tochter Katharina.
+- question: What does 'die Toilette' mean?
+  answer: Toilet
+  hint: Wo ist die Toilette, bitte?
+- question: What does 'die Tomate' mean?
+  answer: Tomato
+  hint: Die Tomate ist noch grün.
+- question: What does 'tot' mean?
+  answer: Dead
+  hint: Sein Vater ist schon lange tot.
+- question: What does '(sich) treffen' mean?
+  answer: Meet
+  hint: Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags.
+- question: What does 'die Treppe' mean?
+  answer: Stairs
+  hint: Die Toilette? Die Treppe hoch und dann links.
+- question: What does 'trinken' mean?
+  answer: Drink
+  hint: Möchtest du etwas trinken?
+- question: What does 'tschüss' mean?
+  answer: Bye
+  hint: Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
+- question: What does 'tun' mean?
+  answer: Do
+  hint: Ich habe noch etwas zu tun. Was tut Ihr Mann?
+- question: What does 'über' mean?
+  answer: Above
+  hint: Gehen Sie hier über die Straße. Er wohnt im zweiten Stock über Familie Meier. Sind Sie über 18?
+- question: What does 'übernachten' mean?
+  answer: Stay overnight
+  hint: Du kannst bei mir übernachten.
+- question: What does 'überweisen' mean?
+  answer: Transfer
+  hint: Sie können das Geld auch überweisen.
+- question: What does 'die Uhr' mean?
+  answer: Clock
+  hint: Es ist vier Uhr.
+- question: What does 'um' mean?
+  answer: Around
+  hint: Er kommt um sieben Uhr. Da kommt er gerade um die Ecke.
+- question: What does 'umziehen' mean?
+  answer: Move
+  hint: Nächsten Monat ziehen wir um.
+- question: What does 'und' mean?
+  answer: And
+  hint: Peter und Helmut sind meine Söhne.
+- question: What does 'unser-' mean?
+  answer: Our-
+  hint: Das ist unsere Lehrerin.
+- question: What does 'unten' mean?
+  answer: Below
+  hint: Er wohnt ganz unten im Haus.
+- question: What does 'unter' mean?
+  answer: Under
+  hint: Unter uns wohnt eine Familie mit drei Kindern.
+- question: What does 'der Unterricht' mean?
+  answer: Lesson
+  hint: Wir haben Unterricht von 8.00 bis 12.00 Uhr.
+- question: What do 'unterschreiben' and 'die Unterschrift' mean?
+  answer: Sign; Signature
+  hint: 'Wo muss ich unterschreiben?
+
+    Hier fehlt noch Ihre Unterschrift.'
+- question: What does 'der Urlaub' mean?
+  answer: Holidays
+  hint: Ich nehme im September Urlaub.
+- question: What does 'der Vater' mean?
+  answer: Father
+  hint: Mein Vater ist Arbeiter.
+- question: What does 'verboten' mean?
+  answer: Forbidden
+  hint: Hier ist Rauchen verboten.
+- question: What does 'verdienen' mean?
+  answer: Earn
+  hint: Ich verdiene 1.500 Euro im Monat.
+- question: What does 'der Verein' mean?
+  answer: Union
+  hint: Es gibt einen neuen Sportverein in der Stadt.
+- question: What does 'verheiratet' mean?
+  answer: Married
+  hint: Ich bin verheiratet und habe drei Kinder.
+- question: What do 'verkaufen' and 'der Verkäufer' mean?
+  answer: Sell; Seller
+  hint: 'Er verkauft sein altes Auto.
+
+    Meine Mutter ist Verkäuferin im Kaufhaus.'
+- question: What do 'vermieten' and 'der Vermieter' mean?
+  answer: Rent; Landlord
+  hint: 'Die Wohnung ist schon vermietet.
+
+    Unser Vermieter heißt Huber. Er wohnt auch hier.'
+- question: What does 'verstehen' mean?
+  answer: Understand
+  hint: Können Sie mich verstehen?
+- question: What does 'der Verwandte' mean?
+  answer: Relative
+  hint: Peter besucht seine Verwandten in Polen.
+- question: What does 'viel' mean?
+  answer: Much
+  hint: Hier regnet es viel.
+- question: What does 'vielleicht' mean?
+  answer: Perhaps
+  hint: Ich komme vielleicht mit dem Bus.
+- question: What does 'von' mean?
+  answer: From
+  hint: Das Auto von Felix ist kaputt. Er kommt gerade von Köln/von zu Hause.
+- question: What does 'vor' mean?
+  answer: Before
+  hint: Der Termin war vor einer Stunde. Das Auto steht vor der Tür.
+- question: What does 'der Vorname' mean?
+  answer: First name
+  hint: Ich heiße Müller, mein Vorname ist Eva.
+- question: What does 'die Vorsicht' mean?
+  answer: Caution
+  hint: Vorsicht! Da kommt ein Auto.
+- question: What does '(sich) vorstellen' mean?
+  answer: To imagine
+  hint: Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?
+- question: What does 'die Vorwahl' mean?
+  answer: Area code
+  hint: Wie ist die Vorwahl von München?
+- question: What does 'wandern' mean?
+  answer: Hike
+  hint: Wir wandern um den Chiemsee.
+- question: What does 'wann' mean?
+  answer: When
+  hint: Wann bist du fertig? Wann kann ich Sie anrufen? Wann sind Sie geboren?
+- question: What does 'warten' mean?
+  answer: Wait
+  hint: Können Sie ein paar Minuten warten? Auf wen warten Sie?
+- question: What does 'warum' mean?
+  answer: Why
+  hint: Warum kommt er nicht?
+- question: What does 'was' mean?
+  answer: What
+  hint: Was ist das? Was möchten Sie?
+- question: What does 'was für ein' mean?
+  answer: What a
+  hint: Was für eine Farbe möchten Sie?
+- question: What does '(sich) waschen' mean?
+  answer: Wash one self
+  hint: Wo kann ich mir die Hände waschen? Ich muss morgen waschen.
+- question: What does 'das Wasser' mean?
+  answer: Water
+  hint: Ein Glas Wasser, bitte.
+- question: What does 'weh tun' mean?
+  answer: Hurt
+  hint: Ich muss zum Arzt. Mein Bein tut weh.
+- question: What does 'weiblich' mean?
+  answer: Female
+  hint: 'Kreuzen Sie bitte an: „weiblich“ oder „männlich“.'
+- question: What does 'der Wein' mean?
+  answer: Wine
+  hint: Nein danke, ich möchte keinen Wein.
+- question: What does 'weit' mean?
+  answer: Far
+  hint: Zum Bahnhof ist es nicht weit.
+- question: What does 'weiter' mean?
+  answer: Further
+  hint: Der Bus fährt nicht weiter.
+- question: What does 'welch-' mean?
+  answer: Which-
+  hint: Welches Buch möchtest du?
+- question: What does 'die Welt' mean?
+  answer: World
+  hint: Es gibt viele Probleme auf der Welt.
+- question: What does 'wenig' mean?
+  answer: Few
+  hint: Ich habe leider nur wenig verstanden. Er verdient wenig.
+- question: What does 'wer' mean?
+  answer: Who
+  hint: Wer ist das?
+- question: What does 'werden' mean?
+  answer: Become
+  hint: Mein Sohn will Arzt werden.
+- question: What does 'das Wetter' mean?
+  answer: Weather
+  hint: Wir hatten schlechtes Wetter.
+- question: What does 'wichtig' mean?
+  answer: Important
+  hint: Dieses Formular ist sehr wichtig.
+- question: What does 'wie' mean?
+  answer: How
+  hint: Wie heißt du? Er schreibt wie ein Kind. Meine Frau ist so groß wie ich. Wie soll ich das machen?
+    Wie groß ist die Wohnung? Wie bitte? Wie lange bist du schon hier?
+- question: What does 'wiederholen' mean?
+  answer: Repeat
+  hint: Können Sie das bitte wiederholen?
+- question: What does 'das Wiederhören' mean?
+  answer: Re-hearing
+  hint: Wir müssen jetzt Schluss machen. Also auf Wiederhören!
+- question: What does 'das Wiedersehen' mean?
+  answer: Reunion
+  hint: Auf Wiedersehen!
+- question: What does 'wie viel' mean?
+  answer: How much
+  hint: Wie viel Milch nehmen Sie?
+- question: What does 'willkommen' mean?
+  answer: Welcome
+  hint: Herzlich willkommen!
+- question: What does 'der Wind' mean?
+  answer: Wind
+  hint: Der Wind kommt aus Osten.
+- question: What does 'wir' mean?
+  answer: We
+  hint: Wir lernen Deutsch.
+- question: What does 'wissen' mean?
+  answer: Knowledge
+  hint: Weißt du, wie er heißt?
+- question: What does 'wo' mean?
+  answer: Where
+  hint: Wo waren Sie im Urlaub? Wo ist die Post? Wo sind Sie geboren?
+- question: What does 'woher' mean?
+  answer: From where
+  hint: Woher kommen Sie?
+- question: What does 'wohin' mean?
+  answer: Where
+  hint: Wohin fährt dieser Bus? Wohin wollen Sie am Wochenende?
+- question: What do 'wohnen' and 'die Wohnung' mean?
+  answer: Reside; Apartment
+  hint: 'Ich wohne in München.
+
+    Seit wann haben Sie diese Wohnung?'
+- question: What does 'wollen' mean?
+  answer: Want
+  hint: Wollen Sie einen Kaffee trinken?
+- question: What does 'das Wort' mean?
+  answer: Word
+  hint: Ich kenne das Wort nicht.
+- question: What does 'wunderbar' mean?
+  answer: Wonderful
+  hint: Das Essen schmeckt wunderbar.
+- question: What does 'zahlen' mean?
+  answer: Pay
+  hint: Zahlen, bitte!
+- question: What do 'die Zeit' and 'zurzeit' mean?
+  answer: Time; Currently
+  hint: 'Ich habe heute keine Zeit.
+
+    Zurzeit habe ich sehr viel zu tun.'
+- question: What does 'die Zeitung' mean?
+  answer: Newspaper
+  hint: Ich lese gern Zeitung.
+- question: What does 'die Zigarette' mean?
+  answer: Cigarette
+  hint: Wie teuer sind die Zigaretten?
+- question: What does 'das Zimmer' mean?
+  answer: Room
+  hint: Das Zimmer ist groß. Öffne im Schlafzimmer das Fenster, bitte! Die Wohnung hat drei Zimmer. Ich
+    habe ein Zimmer bestellt.
+- question: What does 'der Zoll' mean?
+  answer: Customs
+  hint: Wir müssen noch durch den Zoll.
+- question: What does 'zu' mean?
+  answer: To; too
+  hint: Der Bus fährt zum Bahnhof. Ich gehe zu Fuß. Ich bin zu Hause.
+- question: What does 'zufrieden' mean?
+  answer: Satisfied
+  hint: Ich bin mit der Wohnung zufrieden.
+- question: What does 'der Zug' mean?
+  answer: Train
+  hint: Ich fahre gern mit dem Zug.
+- question: What does 'zurück' mean?
+  answer: Back
+  hint: Einmal Frankfurt und zurück. Wann kommst du zurück?
+- question: What does 'zusammen' mean?
+  answer: Together
+  hint: Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80.
+- question: What does 'zwischen' mean?
+  answer: Between
+  hint: Heidelberg liegt zwischen Frankfurt und Stuttgart. Zwischen 8 und 10 Uhr bin ich zu Hause.
+- question: What does 'eins' mean?
+  answer: One
+- question: What does 'zwei' mean?
+  answer: Two
+- question: What does 'drei' mean?
+  answer: Three
+- question: What does 'vier' mean?
+  answer: Four
+- question: What does 'fünf' mean?
+  answer: Five
+- question: What does 'sechs' mean?
+  answer: Six
+- question: What does 'sieben' mean?
+  answer: Seven
+- question: What does 'acht' mean?
+  answer: Eight
+- question: What does 'neun' mean?
+  answer: Nine
+- question: What does 'zehn' mean?
+  answer: Ten
+- question: What does 'elf' mean?
+  answer: Eleven
+- question: What does 'zwölf' mean?
+  answer: Twelve
+- question: What does 'dreizehn' mean?
+  answer: Thirteen
+- question: What does 'vierzehn' mean?
+  answer: Fourteen
+- question: What does 'fünfzehn' mean?
+  answer: Fifteen
+- question: What does 'sechzehn' mean?
+  answer: Sixteen
+- question: What does 'siebzehn' mean?
+  answer: Seventeen
+- question: What does 'achtzehn' mean?
+  answer: Eighteen
+- question: What does 'neunzehn' mean?
+  answer: Nineteen
+- question: What does 'zwanzig' mean?
+  answer: Twenty
+- question: What does 'einundzwanzig' mean?
+  answer: Twenty-one
+- question: What does 'dreißig' mean?
+  answer: Thirty
+- question: What does 'vierzig' mean?
+  answer: Forty
+- question: What does 'fünfzig' mean?
+  answer: Fifty
+- question: What does 'sechzig' mean?
+  answer: Sixty
+- question: What does 'siebzig' mean?
+  answer: Seventy
+- question: What does 'achtzig' mean?
+  answer: Eighty
+- question: What does 'neunzig' mean?
+  answer: Ninety
+- question: What does 'hundert' mean?
+  answer: Hundred
+- question: What does 'hunderteins' mean?
+  answer: Hundred and one
+- question: What does 'zweihundert' mean?
+  answer: Two hundred
+- question: What does 'tausend' mean?
+  answer: Thousand
+- question: What does 'eine Million' mean?
+  answer: Million
+- question: What does 'eine Milliarde' mean?
+  answer: Billion
+- question: What does 'erste' mean?
+  answer: First
+- question: What does 'zweite' mean?
+  answer: Second
+- question: What does 'dritte' mean?
+  answer: Third
+- question: What does 'vierte' mean?
+  answer: Fourth
+- question: What does 'ein halb' mean?
+  answer: Half
+- question: What does 'ein Viertel' mean?
+  answer: Quarter
+- question: What does 'neunzehnhundertneunundneunzig' mean?
+  answer: Nineteen ninety-nine
+- question: What does 'zweitausendvierzehn' mean?
+  answer: Two thousand and fourteen
+- question: What does 'Sekunde' mean?
+  answer: Second
+- question: What does 'Minute' mean?
+  answer: Minute
+- question: What does 'Tag' mean?
+  answer: Day
+- question: What does 'Woche' mean?
+  answer: Week
+- question: What does 'Jahr' mean?
+  answer: Year
+- question: What does 'Wochentag' mean?
+  answer: Weekday
+- question: What does 'Wochenende' mean?
+  answer: Weekend
+- question: What does 'Sonntag' mean?
+  answer: Sunday
+- question: What does 'Montag' mean?
+  answer: Monday
+- question: What does 'Dienstag' mean?
+  answer: Tuesday
+- question: What does 'Mittwoch' mean?
+  answer: Wednesday
+- question: What does 'Donnerstag' mean?
+  answer: Thursday
+- question: What does 'Freitag' mean?
+  answer: Friday
+- question: What does 'Samstag' mean?
+  answer: Saturday
+- question: What does 'Sonnabend' mean?
+  answer: Saturday
+- question: What does 'Vormittag' mean?
+  answer: Late morning
+- question: What does 'Mittag' mean?
+  answer: Midday
+- question: What does 'Nachmittag' mean?
+  answer: Afternoon
+- question: What does 'Abend' mean?
+  answer: Evening
+- question: What does 'Nacht' mean?
+  answer: Night
+- question: What does 'Januar' mean?
+  answer: January
+- question: What does 'Februar' mean?
+  answer: February
+- question: What does 'März' mean?
+  answer: March
+- question: What does 'April' mean?
+  answer: April
+- question: What does 'Mai' mean?
+  answer: May
+- question: What does 'Juni' mean?
+  answer: June
+- question: What does 'Juli' mean?
+  answer: July
+- question: What does 'August' mean?
+  answer: August
+- question: What does 'September' mean?
+  answer: September
+- question: What does 'Oktober' mean?
+  answer: October
+- question: What does 'November' mean?
+  answer: November
+- question: What does 'Dezember' mean?
+  answer: December
+- question: What does 'Frühling' mean?
+  answer: Spring
+- question: What does 'Frühjahr' mean?
+  answer: Spring
+- question: What does 'Sommer' mean?
+  answer: Summer
+- question: What does 'Herbst' mean?
+  answer: Autumn
+- question: What does 'Winter' mean?
+  answer: Winter
+- question: What does 'Euro' mean?
+  answer: Euro
+- question: What does 'Cent' mean?
+  answer: Cent
+- question: What does 'Meter' mean?
+  answer: Meter
+- question: What does 'Zentimeter' mean?
+  answer: Centimeter
+- question: What does 'Kilometer' mean?
+  answer: Kilometers
+- question: What does 'Quadratmeter' mean?
+  answer: Square meters
+- question: What does 'Grad' mean?
+  answer: Degree
+- question: What does 'Prozent' mean?
+  answer: Percent
+- question: What does 'Liter' mean?
+  answer: Liter
+- question: What does 'Gramm' mean?
+  answer: Grams
+- question: What does 'Pfund' mean?
+  answer: Pound
+- question: What does 'Kilogramm' mean?
+  answer: Kilogram
+- question: What does 'Deutschland' mean?
+  answer: Germany
+- question: What does 'Deutsche' mean?
+  answer: German
+- question: What does 'deutsch' mean?
+  answer: German
+- question: What does 'Europa' mean?
+  answer: Europe
+- question: What does 'Europäer' mean?
+  answer: Europeans
+- question: What does 'europäisch' mean?
+  answer: European
+- question: What does 'Türkei' mean?
+  answer: Turkey
+- question: What does 'Türke' mean?
+  answer: Turk
+- question: What does 'Türkin' mean?
+  answer: Turkish woman
+- question: What does 'türkisch' mean?
+  answer: Turkish
+- question: What does 'Finnland' mean?
+  answer: Finland
+- question: What does 'Finne' mean?
+  answer: Fin
+- question: What does 'Finnin' mean?
+  answer: Finnish woman
+- question: What does 'finnisch' mean?
+  answer: Finnish
+- question: What does 'Mexiko' mean?
+  answer: Mexico
+- question: What does 'Mexikaner' mean?
+  answer: Mexican
+- question: What does 'Mexikanerin' mean?
+  answer: Mexican woman
+- question: What does 'mexikanisch' mean?
+  answer: Mexican
+- question: What does 'schwarz' mean?
+  answer: Black
+- question: What does 'grau' mean?
+  answer: Gray
+- question: What does 'blau' mean?
+  answer: Blue
+- question: What does 'grün' mean?
+  answer: Green
+- question: What does 'weiß' mean?
+  answer: White
+- question: What does 'rot' mean?
+  answer: Red
+- question: What does 'gelb' mean?
+  answer: Yellow
+- question: What does 'braun' mean?
+  answer: Brown
+- question: What does 'Norden' mean?
+  answer: North
+- question: What does 'Süden' mean?
+  answer: South
+- question: What does 'Westen' mean?
+  answer: West
+- question: What does 'Osten' mean?
+  answer: East
+- question: What does 'null Uhr drei' mean?
+  answer: Zero three o'clock
+- question: What does 'sieben Uhr fünfzehn' mean?
+  answer: Seven fifteen
+- question: What does 'dreizehn Uhr siebzehn' mean?
+  answer: Thirteen seventeen
+- question: What does 'vierundzwanzig Uhr' mean?
+  answer: Twenty-four o'clock
+- question: What does 'fünf Minuten vor/nach eins' mean?
+  answer: Five minutes before/after one
+- question: What does 'Viertel vor/nach zwei' mean?
+  answer: Quarter to/after two
+- question: What does 'halb drei' mean?
+  answer: Half past two
+- question: What does 'am Wochenende' mean?
+  answer: On the weekend
+- question: What does 'ein Meter fünfzehn' mean?
+  answer: One meter fifteen
+- question: What does 'zweihundert Kilometer' mean?
+  answer: Two hundred kilometers
+- question: What does 'ein Quadratmeter' mean?
+  answer: One square meter
+- question: What does 'minus ein Grad' mean?
+  answer: Minus one degree
+- question: What does 'plus vier Grad' mean?
+  answer: Plus four degrees
+- question: What does 'ein Liter' mean?
+  answer: One liter
+- question: What does 'ein Gramm' mean?
+  answer: One gram
+- question: What does 'ein Pfund' mean?
+  answer: One pound (500 grams)
+- question: What does 'ein Kilo(gramm)' mean?
+  answer: Kilogram
+- question: What does 'zwölfter Vierter zweitausendzwei' mean?
+  answer: Twelfth fourth two thousand two
+- question: What does 'ein Meter' mean?
+  answer: One meter
+- question: What does 'ein Zentimeter' mean?
+  answer: One centimeter
+- question: What does 'vier Grad unter Null' mean?
+  answer: Four degrees below zero
+- question: What does 'vier Grad über Null' mean?
+  answer: Four degrees above zero
+- question: What does 'ein Prozent' mean?
+  answer: One percent

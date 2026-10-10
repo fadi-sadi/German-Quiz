@@ -50,6 +50,14 @@ categories:
   #       questions: c1/reading-comprehension/questions.yaml
   #     - name: Prepositions
   #       questions: c1/prepositions/questions.yaml
+  - name: Goethe-Institut A1
+    categories:
+      - name: Words
+        questions: goethe-institut-a1/questions.yaml
+      - name: Picture Words
+        questions: goethe-institut-a1/picture_nouns.yaml
+      - name: Card Words
+        questions: goethe-institut-a1/card_nouns.yaml
   - name: Leben in Deutschland
     categories:
       - name: General
